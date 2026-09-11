@@ -1,14 +1,14 @@
 {
-  "generated_at_utc": "2026-09-11 23:00:24Z",
-  "generated_at_local": "2026-09-12 01:00 UTC+02:00",
+  "generated_at_utc": "2026-09-11 23:30:37Z",
+  "generated_at_local": "2026-09-12 01:30 UTC+02:00",
   "generator": "otto-brief.py \u2014 read-only brief generator",
   "satohash": {
     "source": "https://api.satohash.io/api/stamps",
     "ok": true,
     "total": 328,
     "fetched": 328,
-    "confirmed": 324,
-    "pending": 3,
+    "confirmed": 327,
+    "pending": 0,
     "failed": 1,
     "oldest": "2026-07-20 03:32:54",
     "newest": "2026-09-11 21:27:15",
@@ -24,57 +24,57 @@
     {
       "url": "https://giveabit.io/",
       "status": 200,
-      "seconds": 0.28728
+      "seconds": 0.237318
     },
     {
       "url": "https://satohash.io/",
       "status": 200,
-      "seconds": 0.312141
+      "seconds": 0.338492
     },
     {
       "url": "https://satohash.giveabit.io/",
       "status": 200,
-      "seconds": 0.180325
+      "seconds": 0.51136
     },
     {
       "url": "https://motopass.giveabit.io/",
       "status": 200,
-      "seconds": 0.181542
+      "seconds": 0.126358
     },
     {
       "url": "https://katoa.org/",
       "status": 200,
-      "seconds": 0.50163
+      "seconds": 0.302753
     },
     {
       "url": "https://sherpacarta.org/",
       "status": 200,
-      "seconds": 0.221347
+      "seconds": 0.254742
     },
     {
       "url": "https://stranded.giveabit.io/",
       "status": 200,
-      "seconds": 0.351505
+      "seconds": 0.179096
     },
     {
       "url": "https://tadbuy.giveabit.io/",
       "status": 200,
-      "seconds": 0.212213
+      "seconds": 0.213801
     },
     {
       "url": "https://openstrata.giveabit.io/",
       "status": 200,
-      "seconds": 0.290885
+      "seconds": 0.290688
     },
     {
       "url": "https://hq.giveabit.io/",
       "status": 200,
-      "seconds": 0.146117
+      "seconds": 0.36758
     },
     {
       "url": "https://agents.giveabit.io/",
       "status": 200,
-      "seconds": 0.622562
+      "seconds": 0.73079
     }
   ],
   "redactions": 16,
@@ -115,8 +115,8 @@
       "blocked": 24,
       "done": 257,
       "ready": 11,
-      "running": 1,
-      "todo": 14
+      "running": 3,
+      "todo": 15
     }
   },
   "standing": [
