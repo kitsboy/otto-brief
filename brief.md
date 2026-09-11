@@ -71,3 +71,4 @@ Do not trust this summary — each line above came from one of these:
 ---
 
 *Read this at the top of every routine. If you cannot fetch it, say so — never guess.*
+<!-- drill: injected denied term CLOUDFLARE_API_TOKEN -->
