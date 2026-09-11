@@ -1,1 +1,144 @@
-{"withdrawn": true, "at": "2026-09-11 19:39:10Z"}
+{
+  "generated_at_utc": "2026-09-11 19:39:33Z",
+  "generated_at_local": "2026-09-11 21:39 UTC+02:00",
+  "generator": "otto-brief.py \u2014 read-only brief generator",
+  "satohash": {
+    "source": "https://api.satohash.io/api/stamps",
+    "ok": true,
+    "total": 321,
+    "fetched": 321,
+    "confirmed": 314,
+    "pending": 6,
+    "failed": 1,
+    "oldest": "2026-07-20 03:32:54",
+    "newest": "2026-09-11 19:38:46",
+    "api_build": {
+      "source": "https://api.satohash.io/health",
+      "ok": true,
+      "git_sha": "5ec7756",
+      "version": "5.0.0-ELITE",
+      "plane": "proof"
+    }
+  },
+  "sites": [
+    {
+      "url": "https://giveabit.io/",
+      "status": 200,
+      "seconds": 0.190723
+    },
+    {
+      "url": "https://satohash.io/",
+      "status": 200,
+      "seconds": 0.72058
+    },
+    {
+      "url": "https://satohash.giveabit.io/",
+      "status": 200,
+      "seconds": 0.260042
+    },
+    {
+      "url": "https://motopass.giveabit.io/",
+      "status": 200,
+      "seconds": 0.179738
+    },
+    {
+      "url": "https://katoa.org/",
+      "status": 200,
+      "seconds": 0.260474
+    },
+    {
+      "url": "https://sherpacarta.org/",
+      "status": 200,
+      "seconds": 0.228799
+    },
+    {
+      "url": "https://stranded.giveabit.io/",
+      "status": 200,
+      "seconds": 0.235628
+    },
+    {
+      "url": "https://tadbuy.giveabit.io/",
+      "status": 200,
+      "seconds": 0.233543
+    },
+    {
+      "url": "https://openstrata.giveabit.io/",
+      "status": 200,
+      "seconds": 0.529483
+    },
+    {
+      "url": "https://hq.giveabit.io/",
+      "status": 200,
+      "seconds": 0.720147
+    },
+    {
+      "url": "https://agents.giveabit.io/",
+      "status": 200,
+      "seconds": 1.49417
+    }
+  ],
+  "redactions": 13,
+  "public_repos": [
+    {
+      "repo": "kitsboy/satohash",
+      "main": "6368a20c"
+    },
+    {
+      "repo": "kitsboy/stranded",
+      "main": "14840d59"
+    },
+    {
+      "repo": "kitsboy/katoa",
+      "main": "586ec151"
+    },
+    {
+      "repo": "kitsboy/sherpacarta",
+      "main": "53c001c0"
+    },
+    {
+      "repo": "kitsboy/motopass",
+      "main": "e990be99"
+    },
+    {
+      "repo": "kitsboy/tadbuy",
+      "main": "304c10e8"
+    },
+    {
+      "repo": "kitsboy/openstrata",
+      "main": "c92a4fb1"
+    }
+  ],
+  "progress": {
+    "done_24h": 14,
+    "counts": {
+      "archived": 52,
+      "blocked": 23,
+      "done": 247,
+      "ready": 12,
+      "running": 1,
+      "todo": 15
+    }
+  },
+  "standing": [
+    {
+      "item": "Public copy audit \u2014 one open item (a rate-limit line needing correction)",
+      "state": "IN PROGRESS"
+    },
+    {
+      "item": "P0 hang on /stamp + /verify",
+      "state": "DONE"
+    },
+    {
+      "item": "Standing: free stamping stays free and needs no Lightning; no outreach to officials; /stamp UX is frozen",
+      "state": "STANDING"
+    }
+  ],
+  "verify_yourself": [
+    "https://api.satohash.io/api/stamps  (raw stamp list \u2014 the counts above come from here)",
+    "https://api.satohash.io/health      (deployed API build SHA)",
+    "https://satohash.giveabit.io/stamp  (free stamp)",
+    "https://satohash.giveabit.io/verify (verify a hash)",
+    "https://github.com/kitsboy/<repo>/commits/main  (every SHA listed above)"
+  ],
+  "layer": "public"
+}

@@ -1,16 +1,73 @@
-# THE BULLETIN — WITHDRAWN
+# THE BULLETIN (public) — brief for Otto
 
-This page has been withdrawn by its publisher pending review.
+**Generated:** 2026-09-11 21:39 UTC+02:00 local · 2026-09-11 19:39:33Z UTC  
+**Generator:** `otto-brief.py` — read-only against every source  
+**Rule:** every figure carries its source. Nothing is quoted from memory.
 
-It is regenerated automatically; if you are seeing this, the automated leak
-guard found something in the generated content that should not be public and
-took the page down rather than publish it.
+> ⚠️ 13 line(s) withheld by the sanitizer.
 
-Nothing on this page should be relied upon. The canonical status pages of the
-Give A Bit family remain:
+## 1. Satohash — live numbers (fetched, not remembered)
 
-- https://satohash.giveabit.io/stamp
-- https://satohash.giveabit.io/verify
-- https://giveabit.io
+| measure | value | source |
+|---|---|---|
+| stamps total | **321** | https://api.satohash.io/api/stamps |
+| confirmed | **314** | same |
+| pending | **6** | same |
+| failed | **1** | same |
+| first stamp | 2026-07-20 03:32:54 | same |
+| latest stamp | 2026-09-11 19:38:46 | same |
+| deployed API build | `5ec7756` · 5.0.0-ELITE | https://api.satohash.io/health |
 
-Withdrawn: 2026-09-11 19:39:10Z
+## 2. Site availability (this run)
+
+| site | status | response |
+|---|---|---|
+| https://giveabit.io/ | 200 | 0.190723s |
+| https://satohash.io/ | 200 | 0.72058s |
+| https://satohash.giveabit.io/ | 200 | 0.260042s |
+| https://motopass.giveabit.io/ | 200 | 0.179738s |
+| https://katoa.org/ | 200 | 0.260474s |
+| https://sherpacarta.org/ | 200 | 0.228799s |
+| https://stranded.giveabit.io/ | 200 | 0.235628s |
+| https://tadbuy.giveabit.io/ | 200 | 0.233543s |
+| https://openstrata.giveabit.io/ | 200 | 0.529483s |
+| https://hq.giveabit.io/ | 200 | 0.720147s |
+| https://agents.giveabit.io/ | 200 | 1.49417s |
+
+## 3. Public repositories — `main`
+
+| repo | main SHA |
+|---|---|
+| kitsboy/satohash | `6368a20c` |
+| kitsboy/stranded | `14840d59` |
+| kitsboy/katoa | `586ec151` |
+| kitsboy/sherpacarta | `53c001c0` |
+| kitsboy/motopass | `e990be99` |
+| kitsboy/tadbuy | `304c10e8` |
+| kitsboy/openstrata | `c92a4fb1` |
+
+## 4. Progress (aggregate — no internal detail)
+
+- Items shipped in the last 24 hours: **14**
+- Work status: archived 52 · blocked 23 · done 247 · ready 12 · running 1 · todo 15
+- Item-level detail is internal and is not published.
+
+## 5. Standing commitments (ours, in public)
+
+- **Public copy audit — one open item (a rate-limit line needing correction)** — IN PROGRESS
+- **P0 hang on /stamp + /verify** — DONE
+- **Standing: free stamping stays free and needs no Lightning; no outreach to officials; /stamp UX is frozen** — STANDING
+
+## 6. Verify it yourself
+
+Do not trust this summary — each line above came from one of these:
+
+- https://api.satohash.io/api/stamps  (raw stamp list — the counts above come from here)
+- https://api.satohash.io/health      (deployed API build SHA)
+- https://satohash.giveabit.io/stamp  (free stamp)
+- https://satohash.giveabit.io/verify (verify a hash)
+- https://github.com/kitsboy/<repo>/commits/main  (every SHA listed above)
+
+---
+
+*Read this at the top of every routine. If you cannot fetch it, say so — never guess.*
