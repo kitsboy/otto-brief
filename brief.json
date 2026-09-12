@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-09-12 14:00:12Z",
-  "generated_at_local": "2026-09-12 16:00 UTC+02:00",
+  "generated_at_utc": "2026-09-12 14:30:29Z",
+  "generated_at_local": "2026-09-12 16:30 UTC+02:00",
   "generator": "otto-brief.py \u2014 read-only brief generator",
   "satohash": {
     "source": "https://api.satohash.io/api/stamps",
@@ -24,60 +24,60 @@
     {
       "url": "https://giveabit.io/",
       "status": 200,
-      "seconds": 0.423148
+      "seconds": 0.995198
     },
     {
       "url": "https://satohash.io/",
       "status": 200,
-      "seconds": 0.211211
+      "seconds": 0.364104
     },
     {
       "url": "https://satohash.giveabit.io/",
       "status": 200,
-      "seconds": 0.335591
+      "seconds": 0.742222
     },
     {
       "url": "https://motopass.giveabit.io/",
       "status": 200,
-      "seconds": 0.318146
+      "seconds": 0.641918
     },
     {
       "url": "https://katoa.org/",
       "status": 200,
-      "seconds": 0.30206
+      "seconds": 0.250067
     },
     {
       "url": "https://sherpacarta.org/",
       "status": 200,
-      "seconds": 0.997076
+      "seconds": 0.851856
     },
     {
       "url": "https://stranded.giveabit.io/",
       "status": 200,
-      "seconds": 0.379047
+      "seconds": 0.332849
     },
     {
       "url": "https://tadbuy.giveabit.io/",
       "status": 200,
-      "seconds": 0.604204
+      "seconds": 0.184167
     },
     {
       "url": "https://openstrata.giveabit.io/",
       "status": 200,
-      "seconds": 0.193801
+      "seconds": 0.329768
     },
     {
       "url": "https://hq.giveabit.io/",
       "status": 200,
-      "seconds": 0.241778
+      "seconds": 0.250881
     },
     {
       "url": "https://agents.giveabit.io/",
       "status": 200,
-      "seconds": 1.066505
+      "seconds": 0.713028
     }
   ],
-  "redactions": 18,
+  "redactions": 17,
   "public_repos": [
     {
       "repo": "kitsboy/satohash",
@@ -109,7 +109,7 @@
     }
   ],
   "progress": {
-    "done_24h": 62,
+    "done_24h": 59,
     "counts": {
       "archived": 53,
       "blocked": 24,
