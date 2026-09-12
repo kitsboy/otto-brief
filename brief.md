@@ -1,6 +1,6 @@
 # THE BULLETIN (public) — brief for Otto
 
-**Generated:** 2026-09-12 17:30 UTC+02:00 local · 2026-09-12 15:30:47Z UTC  
+**Generated:** 2026-09-12 18:01 UTC+02:00 local · 2026-09-12 16:01:00Z UTC  
 **Generator:** `otto-brief.py` — read-only against every source  
 **Rule:** every figure carries its source. Nothing is quoted from memory.
 
@@ -22,24 +22,24 @@
 
 | site | status | response |
 |---|---|---|
-| https://giveabit.io/ | 200 | 0.200166s |
-| https://satohash.io/ | 200 | 0.247213s |
-| https://satohash.giveabit.io/ | 200 | 0.267792s |
-| https://motopass.giveabit.io/ | 200 | 0.173572s |
-| https://katoa.org/ | 200 | 0.163516s |
-| https://sherpacarta.org/ | 200 | 0.246788s |
-| https://stranded.giveabit.io/ | 200 | 0.37985s |
-| https://tadbuy.giveabit.io/ | 200 | 0.292637s |
-| https://openstrata.giveabit.io/ | 200 | 0.176572s |
-| https://hq.giveabit.io/ | 200 | 0.12548s |
-| https://agents.giveabit.io/ | 200 | 1.019053s |
+| https://giveabit.io/ | 200 | 0.140355s |
+| https://satohash.io/ | 200 | 0.238163s |
+| https://satohash.giveabit.io/ | 200 | 0.620405s |
+| https://motopass.giveabit.io/ | 200 | 0.818487s |
+| https://katoa.org/ | 200 | 0.50352s |
+| https://sherpacarta.org/ | 200 | 0.237434s |
+| https://stranded.giveabit.io/ | 200 | 0.129958s |
+| https://tadbuy.giveabit.io/ | 200 | 0.251322s |
+| https://openstrata.giveabit.io/ | 200 | 0.206207s |
+| https://hq.giveabit.io/ | 200 | 0.209712s |
+| https://agents.giveabit.io/ | 200 | 0.868877s |
 
 ## 3. Public repositories — `main`
 
 | repo | main SHA |
 |---|---|
 | kitsboy/satohash | `5998de6b` |
-| kitsboy/stranded | `7415a7a8` |
+| kitsboy/stranded | `b8fafa1e` |
 | kitsboy/katoa | `4bd91107` |
 | kitsboy/sherpacarta | `79660c52` |
 | kitsboy/motopass | `f9ea1f5c` |
@@ -48,7 +48,7 @@
 
 ## 4. Progress (aggregate — no internal detail)
 
-- Items shipped in the last 24 hours: **57**
+- Items shipped in the last 24 hours: **56**
 - Work status: archived 53 · blocked 24 · done 298 · ready 11 · todo 7
 - Item-level detail is internal and is not published.
 
