@@ -1,6 +1,6 @@
 # THE BULLETIN (public) — brief for Otto
 
-**Generated:** 2026-09-12 06:00 UTC+02:00 local · 2026-09-12 04:00:14Z UTC  
+**Generated:** 2026-09-12 06:30 UTC+02:00 local · 2026-09-12 04:30:26Z UTC  
 **Generator:** `otto-brief.py` — read-only against every source  
 **Rule:** every figure carries its source. Nothing is quoted from memory.
 
@@ -11,8 +11,8 @@
 | measure | value | source |
 |---|---|---|
 | stamps total | **365** | https://api.satohash.io/api/stamps |
-| confirmed | **352** | same |
-| pending | **12** | same |
+| confirmed | **354** | same |
+| pending | **10** | same |
 | failed | **1** | same |
 | first stamp | 2026-07-20 03:32:54 | same |
 | latest stamp | 2026-09-12 03:55:06 | same |
@@ -22,17 +22,17 @@
 
 | site | status | response |
 |---|---|---|
-| https://giveabit.io/ | 200 | 0.185399s |
-| https://satohash.io/ | 200 | 0.255839s |
-| https://satohash.giveabit.io/ | 200 | 0.23586s |
-| https://motopass.giveabit.io/ | 200 | 0.173857s |
-| https://katoa.org/ | 200 | 0.162612s |
-| https://sherpacarta.org/ | 200 | 0.148543s |
-| https://stranded.giveabit.io/ | 200 | 0.283273s |
-| https://tadbuy.giveabit.io/ | 200 | 0.134538s |
-| https://openstrata.giveabit.io/ | 200 | 0.241886s |
-| https://hq.giveabit.io/ | 200 | 0.274829s |
-| https://agents.giveabit.io/ | 200 | 0.932151s |
+| https://giveabit.io/ | 200 | 0.304496s |
+| https://satohash.io/ | 200 | 0.274908s |
+| https://satohash.giveabit.io/ | 200 | 0.205628s |
+| https://motopass.giveabit.io/ | 200 | 0.151856s |
+| https://katoa.org/ | 200 | 0.161091s |
+| https://sherpacarta.org/ | 200 | 0.27542s |
+| https://stranded.giveabit.io/ | 200 | 0.176092s |
+| https://tadbuy.giveabit.io/ | 200 | 0.197445s |
+| https://openstrata.giveabit.io/ | 200 | 0.214327s |
+| https://hq.giveabit.io/ | 200 | 0.411474s |
+| https://agents.giveabit.io/ | 200 | 0.718493s |
 
 ## 3. Public repositories — `main`
 
@@ -48,8 +48,8 @@
 
 ## 4. Progress (aggregate — no internal detail)
 
-- Items shipped in the last 24 hours: **65**
-- Work status: archived 53 · blocked 23 · done 297 · ready 11 · running 1 · todo 7
+- Items shipped in the last 24 hours: **66**
+- Work status: archived 53 · blocked 23 · done 298 · ready 11 · todo 7
 - Item-level detail is internal and is not published.
 
 ## 5. Standing commitments (ours, in public)
