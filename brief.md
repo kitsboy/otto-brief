@@ -1,6 +1,6 @@
 # THE BULLETIN (public) — brief for Otto
 
-**Generated:** 2026-09-13 19:30 UTC+02:00 local · 2026-09-13 17:30:45Z UTC  
+**Generated:** 2026-09-13 20:01 UTC+02:00 local · 2026-09-13 18:01:02Z UTC  
 **Generator:** `otto-brief.py` — read-only against every source  
 **Rule:** every figure carries its source. Nothing is quoted from memory.
 
@@ -22,29 +22,29 @@
 
 | site | status | response |
 |---|---|---|
-| https://giveabit.io/ | 200 | 0.202263s |
-| https://satohash.io/ | 200 | 1.316134s |
-| https://satohash.giveabit.io/ | 200 | 0.570356s |
-| https://motopass.giveabit.io/ | 200 | 5.803063s |
-| https://katoa.org/ | 200 | 1.147558s |
-| https://sherpacarta.org/ | 200 | 0.664667s |
-| https://stranded.giveabit.io/ | 200 | 0.859477s |
-| https://tadbuy.giveabit.io/ | 200 | 0.518176s |
-| https://openstrata.giveabit.io/ | 200 | 0.329239s |
-| https://hq.giveabit.io/ | 200 | 0.237338s |
-| https://agents.giveabit.io/ | 200 | 1.461485s |
+| https://giveabit.io/ | 200 | 1.424953s |
+| https://satohash.io/ | 200 | 1.042789s |
+| https://satohash.giveabit.io/ | 200 | 0.745989s |
+| https://motopass.giveabit.io/ | 200 | 0.546748s |
+| https://katoa.org/ | 200 | 0.363392s |
+| https://sherpacarta.org/ | 200 | 0.722194s |
+| https://stranded.giveabit.io/ | 200 | 1.031255s |
+| https://tadbuy.giveabit.io/ | 200 | 1.206584s |
+| https://openstrata.giveabit.io/ | 200 | 0.544667s |
+| https://hq.giveabit.io/ | 200 | 1.235134s |
+| https://agents.giveabit.io/ | 200 | 1.43025s |
 
 ## 3. Public repositories — `main`
 
 | repo | main SHA |
 |---|---|
-| kitsboy/satohash | `030b0550` |
-| kitsboy/stranded | `78af99d8` |
-| kitsboy/katoa | `5e11e5e6` |
-| kitsboy/sherpacarta | `b50506c8` |
-| kitsboy/motopass | `09cf0906` |
-| kitsboy/tadbuy | `faa46194` |
-| kitsboy/openstrata | `2af74fd3` |
+| kitsboy/satohash | `6308efa8` |
+| kitsboy/stranded | `9b0957f7` |
+| kitsboy/katoa | `d28bc01e` |
+| kitsboy/sherpacarta | `c70639f1` |
+| kitsboy/motopass | `1446a993` |
+| kitsboy/tadbuy | `88052039` |
+| kitsboy/openstrata | `206ee81e` |
 
 ## 4. Progress (aggregate — no internal detail)
 
