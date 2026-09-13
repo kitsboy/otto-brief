@@ -1,6 +1,6 @@
 # THE BULLETIN (public) — brief for Otto
 
-**Generated:** 2026-09-13 01:30 UTC+02:00 local · 2026-09-12 23:30:56Z UTC  
+**Generated:** 2026-09-13 02:00 UTC+02:00 local · 2026-09-13 00:00:27Z UTC  
 **Generator:** `otto-brief.py` — read-only against every source  
 **Rule:** every figure carries its source. Nothing is quoted from memory.
 
@@ -22,24 +22,24 @@
 
 | site | status | response |
 |---|---|---|
-| https://giveabit.io/ | 200 | 0.337492s |
-| https://satohash.io/ | 200 | 0.319192s |
-| https://satohash.giveabit.io/ | 200 | 0.304904s |
-| https://motopass.giveabit.io/ | 200 | 0.201642s |
-| https://katoa.org/ | 200 | 0.199939s |
-| https://sherpacarta.org/ | 200 | 0.15278s |
-| https://stranded.giveabit.io/ | 200 | 0.338094s |
-| https://tadbuy.giveabit.io/ | 200 | 1.205681s |
-| https://openstrata.giveabit.io/ | 200 | 0.375455s |
-| https://hq.giveabit.io/ | 200 | 0.818171s |
-| https://agents.giveabit.io/ | 200 | 0.687732s |
+| https://giveabit.io/ | 200 | 0.457947s |
+| https://satohash.io/ | 200 | 0.188041s |
+| https://satohash.giveabit.io/ | 200 | 0.300348s |
+| https://motopass.giveabit.io/ | 200 | 0.249606s |
+| https://katoa.org/ | 200 | 0.284956s |
+| https://sherpacarta.org/ | 200 | 0.594354s |
+| https://stranded.giveabit.io/ | 200 | 0.179049s |
+| https://tadbuy.giveabit.io/ | 200 | 0.226381s |
+| https://openstrata.giveabit.io/ | 200 | 0.721055s |
+| https://hq.giveabit.io/ | 200 | 2.229246s |
+| https://agents.giveabit.io/ | 200 | 0.976198s |
 
 ## 3. Public repositories — `main`
 
 | repo | main SHA |
 |---|---|
 | kitsboy/satohash | `5998de6b` |
-| kitsboy/stranded | `3f41745d` |
+| kitsboy/stranded | `09a77665` |
 | kitsboy/katoa | `4bd91107` |
 | kitsboy/sherpacarta | `79660c52` |
 | kitsboy/motopass | `f9ea1f5c` |
@@ -48,7 +48,7 @@
 
 ## 4. Progress (aggregate — no internal detail)
 
-- Items shipped in the last 24 hours: **43**
+- Items shipped in the last 24 hours: **39**
 - Work status: archived 53 · blocked 25 · done 300 · ready 11 · running 1 · todo 13
 - Item-level detail is internal and is not published.
 
