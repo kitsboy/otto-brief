@@ -1,10 +1,10 @@
 # THE BULLETIN (public) — brief for Otto
 
-**Generated:** 2026-09-14 23:00 UTC+02:00 local · 2026-09-14 21:00:30Z UTC  
+**Generated:** 2026-09-14 23:30 UTC+02:00 local · 2026-09-14 21:30:36Z UTC  
 **Generator:** `otto-brief.py` — read-only against every source  
 **Rule:** every figure carries its source. Nothing is quoted from memory.
 
-> ⚠️ 12 line(s) withheld by the sanitizer.
+> ⚠️ 11 line(s) withheld by the sanitizer.
 
 ## 1. Satohash — live numbers (fetched, not remembered)
 
@@ -22,34 +22,34 @@
 
 | site | status | response |
 |---|---|---|
-| https://giveabit.io/ | 200 | 0.119606s |
-| https://satohash.io/ | 200 | 0.159499s |
-| https://satohash.giveabit.io/ | 200 | 0.164494s |
-| https://motopass.giveabit.io/ | 200 | 0.22516s |
-| https://katoa.org/ | 200 | 0.140177s |
-| https://sherpacarta.org/ | 200 | 0.11298s |
-| https://stranded.giveabit.io/ | 200 | 0.15878s |
-| https://tadbuy.giveabit.io/ | 200 | 0.174827s |
-| https://openstrata.giveabit.io/ | 200 | 0.30621s |
-| https://hq.giveabit.io/ | 200 | 0.151571s |
-| https://agents.giveabit.io/ | 200 | 0.615306s |
+| https://giveabit.io/ | 200 | 0.098539s |
+| https://satohash.io/ | 200 | 0.187457s |
+| https://satohash.giveabit.io/ | 200 | 0.13863s |
+| https://motopass.giveabit.io/ | 200 | 0.150697s |
+| https://katoa.org/ | 200 | 0.148447s |
+| https://sherpacarta.org/ | 200 | 0.315031s |
+| https://stranded.giveabit.io/ | 200 | 0.125468s |
+| https://tadbuy.giveabit.io/ | 200 | 0.177207s |
+| https://openstrata.giveabit.io/ | 200 | 0.14073s |
+| https://hq.giveabit.io/ | 200 | 0.175612s |
+| https://agents.giveabit.io/ | 200 | 1.040002s |
 
 ## 3. Public repositories — `main`
 
 | repo | main SHA |
 |---|---|
-| kitsboy/satohash | `83074a7b` |
+| kitsboy/satohash | `37c471ac` |
 | kitsboy/stranded | `e8426469` |
 | kitsboy/katoa | `7cd8d702` |
 | kitsboy/sherpacarta | `c70639f1` |
 | kitsboy/motopass | `892a02bf` |
-| kitsboy/tadbuy | `28e8acec` |
-| kitsboy/openstrata | `86168404` |
+| kitsboy/tadbuy | `d3db3a66` |
+| kitsboy/openstrata | `3facc499` |
 
 ## 4. Progress (aggregate — no internal detail)
 
-- Items shipped in the last 24 hours: **2**
-- Work status: archived 55 · blocked 37 · done 330 · ready 11 · todo 12
+- Items shipped in the last 24 hours: **3**
+- Work status: archived 55 · blocked 34 · done 333 · ready 11 · todo 12
 - Item-level detail is internal and is not published.
 
 ## 5. Standing commitments (ours, in public)
