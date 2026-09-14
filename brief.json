@@ -1,17 +1,17 @@
 {
-  "generated_at_utc": "2026-09-14 11:00:53Z",
-  "generated_at_local": "2026-09-14 13:00 UTC+02:00",
+  "generated_at_utc": "2026-09-14 11:30:59Z",
+  "generated_at_local": "2026-09-14 13:30 UTC+02:00",
   "generator": "otto-brief.py \u2014 read-only brief generator",
   "satohash": {
     "source": "https://api.satohash.io/api/stamps",
     "ok": true,
-    "total": 379,
-    "fetched": 379,
+    "total": 384,
+    "fetched": 384,
     "confirmed": 376,
-    "pending": 1,
+    "pending": 6,
     "failed": 2,
     "oldest": "2026-07-20 03:32:54",
-    "newest": "2026-09-13 19:54:06",
+    "newest": "2026-09-14 11:11:58",
     "api_build": {
       "source": "https://api.satohash.io/health",
       "ok": true,
@@ -24,57 +24,57 @@
     {
       "url": "https://giveabit.io/",
       "status": 200,
-      "seconds": 0.141333
+      "seconds": 0.171188
     },
     {
       "url": "https://satohash.io/",
       "status": 200,
-      "seconds": 0.155983
+      "seconds": 0.132279
     },
     {
       "url": "https://satohash.giveabit.io/",
       "status": 200,
-      "seconds": 0.182939
+      "seconds": 0.181419
     },
     {
       "url": "https://motopass.giveabit.io/",
       "status": 200,
-      "seconds": 0.235384
+      "seconds": 0.172117
     },
     {
       "url": "https://katoa.org/",
       "status": 200,
-      "seconds": 0.185063
+      "seconds": 0.171884
     },
     {
       "url": "https://sherpacarta.org/",
       "status": 200,
-      "seconds": 0.154361
+      "seconds": 0.150185
     },
     {
       "url": "https://stranded.giveabit.io/",
       "status": 200,
-      "seconds": 0.165041
+      "seconds": 0.127627
     },
     {
       "url": "https://tadbuy.giveabit.io/",
       "status": 200,
-      "seconds": 0.171878
+      "seconds": 0.183581
     },
     {
       "url": "https://openstrata.giveabit.io/",
       "status": 200,
-      "seconds": 0.177254
+      "seconds": 0.187242
     },
     {
       "url": "https://hq.giveabit.io/",
       "status": 200,
-      "seconds": 0.149778
+      "seconds": 0.149956
     },
     {
       "url": "https://agents.giveabit.io/",
       "status": 200,
-      "seconds": 1.208309
+      "seconds": 0.621613
     }
   ],
   "redactions": 12,
@@ -97,7 +97,7 @@
     },
     {
       "repo": "kitsboy/motopass",
-      "main": "8bf5617e"
+      "main": "2e0e9946"
     },
     {
       "repo": "kitsboy/tadbuy",
