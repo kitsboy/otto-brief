@@ -1,6 +1,6 @@
 # THE BULLETIN (public) — brief for Otto
 
-**Generated:** 2026-09-15 20:00 UTC+02:00 local · 2026-09-15 18:00:44Z UTC  
+**Generated:** 2026-09-15 20:30 UTC+02:00 local · 2026-09-15 18:30:45Z UTC  
 **Generator:** `otto-brief.py` — read-only against every source  
 **Rule:** every figure carries its source. Nothing is quoted from memory.
 
@@ -22,17 +22,17 @@
 
 | site | status | response |
 |---|---|---|
-| https://giveabit.io/ | 200 | 1.039383s |
-| https://satohash.io/ | 200 | 0.62877s |
-| https://satohash.giveabit.io/ | 200 | 0.576221s |
-| https://motopass.giveabit.io/ | 200 | 0.573202s |
-| https://katoa.org/ | 200 | 0.669305s |
-| https://sherpacarta.org/ | 200 | 1.791026s |
-| https://stranded.giveabit.io/ | 200 | 0.227911s |
-| https://tadbuy.giveabit.io/ | 200 | 0.849766s |
-| https://openstrata.giveabit.io/ | 200 | 0.354691s |
-| https://hq.giveabit.io/ | 200 | 0.972666s |
-| https://agents.giveabit.io/ | 200 | 1.902456s |
+| https://giveabit.io/ | 200 | 0.701811s |
+| https://satohash.io/ | 200 | 0.509344s |
+| https://satohash.giveabit.io/ | 200 | 0.545611s |
+| https://motopass.giveabit.io/ | 200 | 0.477292s |
+| https://katoa.org/ | 200 | 0.584023s |
+| https://sherpacarta.org/ | 200 | 0.176285s |
+| https://stranded.giveabit.io/ | 200 | 0.307474s |
+| https://tadbuy.giveabit.io/ | 200 | 0.307533s |
+| https://openstrata.giveabit.io/ | 200 | 0.436311s |
+| https://hq.giveabit.io/ | 200 | 0.217455s |
+| https://agents.giveabit.io/ | 200 | 1.622197s |
 
 ## 3. Public repositories — `main`
 
@@ -42,14 +42,14 @@
 | kitsboy/stranded | `acc51ffe` |
 | kitsboy/katoa | `7cd8d702` |
 | kitsboy/sherpacarta | `9f8f1820` |
-| kitsboy/motopass | `3d3717b0` |
+| kitsboy/motopass | `1bbfa93c` |
 | kitsboy/tadbuy | `e7c0a0e1` |
 | kitsboy/openstrata | `6e52e4d2` |
 
 ## 4. Progress (aggregate — no internal detail)
 
-- Items shipped in the last 24 hours: **14**
-- Work status: archived 56 · blocked 31 · done 343 · ready 12 · running 1 · todo 13
+- Items shipped in the last 24 hours: **16**
+- Work status: archived 56 · blocked 31 · done 345 · ready 11 · running 3 · todo 12
 - Item-level detail is internal and is not published.
 
 ## 5. Standing commitments (ours, in public)
