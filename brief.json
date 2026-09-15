@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-09-15 13:30:38Z",
-  "generated_at_local": "2026-09-15 15:30 UTC+02:00",
+  "generated_at_utc": "2026-09-15 14:00:55Z",
+  "generated_at_local": "2026-09-15 16:00 UTC+02:00",
   "generator": "otto-brief.py \u2014 read-only brief generator",
   "satohash": {
     "source": "https://api.satohash.io/api/stamps",
@@ -24,57 +24,57 @@
     {
       "url": "https://giveabit.io/",
       "status": 200,
-      "seconds": 0.155538
+      "seconds": 0.371491
     },
     {
       "url": "https://satohash.io/",
       "status": 200,
-      "seconds": 0.230123
+      "seconds": 0.300179
     },
     {
       "url": "https://satohash.giveabit.io/",
       "status": 200,
-      "seconds": 0.232486
+      "seconds": 0.301716
     },
     {
       "url": "https://motopass.giveabit.io/",
       "status": 200,
-      "seconds": 0.271386
+      "seconds": 0.291716
     },
     {
       "url": "https://katoa.org/",
       "status": 200,
-      "seconds": 0.22041
+      "seconds": 0.545932
     },
     {
       "url": "https://sherpacarta.org/",
       "status": 200,
-      "seconds": 0.873909
+      "seconds": 0.340461
     },
     {
       "url": "https://stranded.giveabit.io/",
       "status": 200,
-      "seconds": 0.176953
+      "seconds": 0.374723
     },
     {
       "url": "https://tadbuy.giveabit.io/",
       "status": 200,
-      "seconds": 0.22174
+      "seconds": 0.365209
     },
     {
       "url": "https://openstrata.giveabit.io/",
       "status": 200,
-      "seconds": 0.14838
+      "seconds": 0.246842
     },
     {
       "url": "https://hq.giveabit.io/",
       "status": 200,
-      "seconds": 0.165266
+      "seconds": 0.108413
     },
     {
       "url": "https://agents.giveabit.io/",
       "status": 200,
-      "seconds": 1.442335
+      "seconds": 1.62292
     }
   ],
   "redactions": 11,
@@ -97,7 +97,7 @@
     },
     {
       "repo": "kitsboy/motopass",
-      "main": "8807af3c"
+      "main": "04c68860"
     },
     {
       "repo": "kitsboy/tadbuy",
@@ -115,6 +115,7 @@
       "blocked": 31,
       "done": 336,
       "ready": 11,
+      "running": 1,
       "todo": 12
     }
   },
