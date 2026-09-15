@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-09-15 15:30:23Z",
-  "generated_at_local": "2026-09-15 17:30 UTC+02:00",
+  "generated_at_utc": "2026-09-15 16:00:42Z",
+  "generated_at_local": "2026-09-15 18:00 UTC+02:00",
   "generator": "otto-brief.py \u2014 read-only brief generator",
   "satohash": {
     "source": "https://api.satohash.io/api/stamps",
@@ -24,57 +24,57 @@
     {
       "url": "https://giveabit.io/",
       "status": 200,
-      "seconds": 0.233447
+      "seconds": 0.205478
     },
     {
       "url": "https://satohash.io/",
       "status": 200,
-      "seconds": 0.208108
+      "seconds": 0.246402
     },
     {
       "url": "https://satohash.giveabit.io/",
       "status": 200,
-      "seconds": 0.304982
+      "seconds": 0.212343
     },
     {
       "url": "https://motopass.giveabit.io/",
       "status": 200,
-      "seconds": 0.476924
+      "seconds": 0.422579
     },
     {
       "url": "https://katoa.org/",
       "status": 200,
-      "seconds": 0.270273
+      "seconds": 0.341572
     },
     {
       "url": "https://sherpacarta.org/",
       "status": 200,
-      "seconds": 0.201343
+      "seconds": 0.186157
     },
     {
       "url": "https://stranded.giveabit.io/",
       "status": 200,
-      "seconds": 0.136624
+      "seconds": 0.146821
     },
     {
       "url": "https://tadbuy.giveabit.io/",
       "status": 200,
-      "seconds": 0.15212
+      "seconds": 0.16327
     },
     {
       "url": "https://openstrata.giveabit.io/",
       "status": 200,
-      "seconds": 0.170921
+      "seconds": 0.161823
     },
     {
       "url": "https://hq.giveabit.io/",
       "status": 200,
-      "seconds": 0.190913
+      "seconds": 0.176529
     },
     {
       "url": "https://agents.giveabit.io/",
       "status": 200,
-      "seconds": 1.447072
+      "seconds": 0.986545
     }
   ],
   "redactions": 11,
@@ -97,7 +97,7 @@
     },
     {
       "repo": "kitsboy/motopass",
-      "main": "3fdb67c7"
+      "main": "670248e6"
     },
     {
       "repo": "kitsboy/tadbuy",
@@ -109,11 +109,11 @@
     }
   ],
   "progress": {
-    "done_24h": 11,
+    "done_24h": 12,
     "counts": {
       "archived": 56,
       "blocked": 31,
-      "done": 340,
+      "done": 341,
       "ready": 11,
       "running": 1,
       "todo": 12
