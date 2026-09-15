@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-09-15 19:30:20Z",
-  "generated_at_local": "2026-09-15 21:30 UTC+02:00",
+  "generated_at_utc": "2026-09-15 20:00:42Z",
+  "generated_at_local": "2026-09-15 22:00 UTC+02:00",
   "generator": "otto-brief.py \u2014 read-only brief generator",
   "satohash": {
     "source": "https://api.satohash.io/api/stamps",
@@ -24,57 +24,57 @@
     {
       "url": "https://giveabit.io/",
       "status": 200,
-      "seconds": 0.618577
+      "seconds": 0.340081
     },
     {
       "url": "https://satohash.io/",
       "status": 200,
-      "seconds": 0.439992
+      "seconds": 0.782644
     },
     {
       "url": "https://satohash.giveabit.io/",
       "status": 200,
-      "seconds": 0.332844
+      "seconds": 0.407387
     },
     {
       "url": "https://motopass.giveabit.io/",
       "status": 200,
-      "seconds": 0.124881
+      "seconds": 0.816142
     },
     {
       "url": "https://katoa.org/",
       "status": 200,
-      "seconds": 0.386185
+      "seconds": 0.556227
     },
     {
       "url": "https://sherpacarta.org/",
       "status": 200,
-      "seconds": 0.210733
+      "seconds": 0.287343
     },
     {
       "url": "https://stranded.giveabit.io/",
       "status": 200,
-      "seconds": 0.285532
+      "seconds": 0.230249
     },
     {
       "url": "https://tadbuy.giveabit.io/",
       "status": 200,
-      "seconds": 0.612886
+      "seconds": 0.255196
     },
     {
       "url": "https://openstrata.giveabit.io/",
       "status": 200,
-      "seconds": 0.706693
+      "seconds": 0.442656
     },
     {
       "url": "https://hq.giveabit.io/",
       "status": 200,
-      "seconds": 0.381879
+      "seconds": 0.300289
     },
     {
       "url": "https://agents.giveabit.io/",
       "status": 200,
-      "seconds": 1.210738
+      "seconds": 1.439582
     }
   ],
   "redactions": 11,
@@ -97,7 +97,7 @@
     },
     {
       "repo": "kitsboy/motopass",
-      "main": "1c8609e4"
+      "main": "75d7181b"
     },
     {
       "repo": "kitsboy/tadbuy",
@@ -105,15 +105,15 @@
     },
     {
       "repo": "kitsboy/openstrata",
-      "main": "44b30f36"
+      "main": "bee393fc"
     }
   ],
   "progress": {
     "done_24h": 18,
     "counts": {
-      "archived": 58,
+      "archived": 59,
       "blocked": 29,
-      "done": 347,
+      "done": 346,
       "ready": 11,
       "running": 2,
       "todo": 12
