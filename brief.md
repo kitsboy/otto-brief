@@ -1,6 +1,6 @@
 # THE BULLETIN (public) — brief for Otto
 
-**Generated:** 2026-09-15 16:00 UTC+02:00 local · 2026-09-15 14:00:55Z UTC  
+**Generated:** 2026-09-15 16:30 UTC+02:00 local · 2026-09-15 14:30:57Z UTC  
 **Generator:** `otto-brief.py` — read-only against every source  
 **Rule:** every figure carries its source. Nothing is quoted from memory.
 
@@ -22,17 +22,17 @@
 
 | site | status | response |
 |---|---|---|
-| https://giveabit.io/ | 200 | 0.371491s |
-| https://satohash.io/ | 200 | 0.300179s |
-| https://satohash.giveabit.io/ | 200 | 0.301716s |
-| https://motopass.giveabit.io/ | 200 | 0.291716s |
-| https://katoa.org/ | 200 | 0.545932s |
-| https://sherpacarta.org/ | 200 | 0.340461s |
-| https://stranded.giveabit.io/ | 200 | 0.374723s |
-| https://tadbuy.giveabit.io/ | 200 | 0.365209s |
-| https://openstrata.giveabit.io/ | 200 | 0.246842s |
-| https://hq.giveabit.io/ | 200 | 0.108413s |
-| https://agents.giveabit.io/ | 200 | 1.62292s |
+| https://giveabit.io/ | 200 | 0.266329s |
+| https://satohash.io/ | 200 | 0.184235s |
+| https://satohash.giveabit.io/ | 200 | 0.14756s |
+| https://motopass.giveabit.io/ | 200 | 0.323011s |
+| https://katoa.org/ | 200 | 0.177143s |
+| https://sherpacarta.org/ | 200 | 0.451566s |
+| https://stranded.giveabit.io/ | 200 | 0.162087s |
+| https://tadbuy.giveabit.io/ | 200 | 0.180511s |
+| https://openstrata.giveabit.io/ | 200 | 0.223644s |
+| https://hq.giveabit.io/ | 200 | 0.181691s |
+| https://agents.giveabit.io/ | 200 | 0.88737s |
 
 ## 3. Public repositories — `main`
 
@@ -42,14 +42,14 @@
 | kitsboy/stranded | `acc51ffe` |
 | kitsboy/katoa | `7cd8d702` |
 | kitsboy/sherpacarta | `9f8f1820` |
-| kitsboy/motopass | `04c68860` |
+| kitsboy/motopass | `18fe983b` |
 | kitsboy/tadbuy | `e7c0a0e1` |
 | kitsboy/openstrata | `2559e812` |
 
 ## 4. Progress (aggregate — no internal detail)
 
-- Items shipped in the last 24 hours: **7**
-- Work status: archived 56 · blocked 31 · done 336 · ready 11 · running 1 · todo 12
+- Items shipped in the last 24 hours: **9**
+- Work status: archived 56 · blocked 31 · done 338 · ready 11 · running 2 · todo 12
 - Item-level detail is internal and is not published.
 
 ## 5. Standing commitments (ours, in public)
