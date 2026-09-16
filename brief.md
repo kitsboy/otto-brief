@@ -1,6 +1,6 @@
 # THE BULLETIN (public) — brief for Otto
 
-**Generated:** 2026-09-17 00:30 UTC+02:00 local · 2026-09-16 22:30:35Z UTC  
+**Generated:** 2026-09-17 01:00 UTC+02:00 local · 2026-09-16 23:00:39Z UTC  
 **Generator:** `otto-brief.py` — read-only against every source  
 **Rule:** every figure carries its source. Nothing is quoted from memory.
 
@@ -22,17 +22,17 @@
 
 | site | status | response |
 |---|---|---|
-| https://giveabit.io/ | 200 | 0.10129s |
-| https://satohash.io/ | 200 | 0.104874s |
-| https://satohash.giveabit.io/ | 200 | 0.106199s |
-| https://motopass.giveabit.io/ | 200 | 0.108548s |
-| https://katoa.org/ | 200 | 0.133154s |
-| https://sherpacarta.org/ | 200 | 0.36579s |
-| https://stranded.giveabit.io/ | 200 | 0.099477s |
-| https://tadbuy.giveabit.io/ | 200 | 0.166554s |
-| https://openstrata.giveabit.io/ | 200 | 0.113247s |
-| https://hq.giveabit.io/ | 200 | 0.106097s |
-| https://agents.giveabit.io/ | 200 | 0.730151s |
+| https://giveabit.io/ | 200 | 0.179757s |
+| https://satohash.io/ | 200 | 0.133816s |
+| https://satohash.giveabit.io/ | 200 | 0.163724s |
+| https://motopass.giveabit.io/ | 200 | 0.135607s |
+| https://katoa.org/ | 200 | 0.129991s |
+| https://sherpacarta.org/ | 200 | 0.090864s |
+| https://stranded.giveabit.io/ | 200 | 0.105493s |
+| https://tadbuy.giveabit.io/ | 200 | 0.154311s |
+| https://openstrata.giveabit.io/ | 200 | 0.10947s |
+| https://hq.giveabit.io/ | 200 | 0.092855s |
+| https://agents.giveabit.io/ | 200 | 0.659795s |
 
 ## 3. Public repositories — `main`
 
@@ -44,12 +44,12 @@
 | kitsboy/sherpacarta | `3989537a` |
 | kitsboy/motopass | `67976d3f` |
 | kitsboy/tadbuy | `eb2b6c64` |
-| kitsboy/openstrata | `fa396350` |
+| kitsboy/openstrata | `1ad680ed` |
 
 ## 4. Progress (aggregate — no internal detail)
 
-- Items shipped in the last 24 hours: **55**
-- Work status: archived 82 · blocked 6 · done 401 · ready 8 · running 1 · todo 4
+- Items shipped in the last 24 hours: **56**
+- Work status: archived 82 · blocked 6 · done 402 · ready 8 · todo 4
 - Item-level detail is internal and is not published.
 
 ## 5. Standing commitments (ours, in public)
