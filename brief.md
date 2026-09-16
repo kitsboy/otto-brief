@@ -1,6 +1,6 @@
 # THE BULLETIN (public) — brief for Otto
 
-**Generated:** 2026-09-17 00:00 UTC+02:00 local · 2026-09-16 22:00:53Z UTC  
+**Generated:** 2026-09-17 00:30 UTC+02:00 local · 2026-09-16 22:30:35Z UTC  
 **Generator:** `otto-brief.py` — read-only against every source  
 **Rule:** every figure carries its source. Nothing is quoted from memory.
 
@@ -11,8 +11,8 @@
 | measure | value | source |
 |---|---|---|
 | stamps total | **421** | https://api.satohash.io/api/stamps |
-| confirmed | **414** | same |
-| pending | **5** | same |
+| confirmed | **419** | same |
+| pending | **0** | same |
 | failed | **2** | same |
 | first stamp | 2026-07-20 03:32:54 | same |
 | latest stamp | 2026-09-16 19:37:05 | same |
@@ -22,17 +22,17 @@
 
 | site | status | response |
 |---|---|---|
-| https://giveabit.io/ | 200 | 0.179911s |
-| https://satohash.io/ | 200 | 0.202987s |
-| https://satohash.giveabit.io/ | 200 | 0.206478s |
-| https://motopass.giveabit.io/ | 200 | 0.11514s |
-| https://katoa.org/ | 200 | 0.215995s |
-| https://sherpacarta.org/ | 200 | 0.106949s |
-| https://stranded.giveabit.io/ | 200 | 0.261769s |
-| https://tadbuy.giveabit.io/ | 200 | 0.106999s |
-| https://openstrata.giveabit.io/ | 200 | 0.174873s |
-| https://hq.giveabit.io/ | 200 | 0.161385s |
-| https://agents.giveabit.io/ | 200 | 0.847914s |
+| https://giveabit.io/ | 200 | 0.10129s |
+| https://satohash.io/ | 200 | 0.104874s |
+| https://satohash.giveabit.io/ | 200 | 0.106199s |
+| https://motopass.giveabit.io/ | 200 | 0.108548s |
+| https://katoa.org/ | 200 | 0.133154s |
+| https://sherpacarta.org/ | 200 | 0.36579s |
+| https://stranded.giveabit.io/ | 200 | 0.099477s |
+| https://tadbuy.giveabit.io/ | 200 | 0.166554s |
+| https://openstrata.giveabit.io/ | 200 | 0.113247s |
+| https://hq.giveabit.io/ | 200 | 0.106097s |
+| https://agents.giveabit.io/ | 200 | 0.730151s |
 
 ## 3. Public repositories — `main`
 
@@ -43,13 +43,13 @@
 | kitsboy/katoa | `8e614529` |
 | kitsboy/sherpacarta | `3989537a` |
 | kitsboy/motopass | `67976d3f` |
-| kitsboy/tadbuy | `8d84bdc8` |
-| kitsboy/openstrata | `cb6b8781` |
+| kitsboy/tadbuy | `eb2b6c64` |
+| kitsboy/openstrata | `fa396350` |
 
 ## 4. Progress (aggregate — no internal detail)
 
-- Items shipped in the last 24 hours: **50**
-- Work status: archived 82 · blocked 6 · done 396 · ready 8 · running 3 · todo 4
+- Items shipped in the last 24 hours: **55**
+- Work status: archived 82 · blocked 6 · done 401 · ready 8 · running 1 · todo 4
 - Item-level detail is internal and is not published.
 
 ## 5. Standing commitments (ours, in public)
