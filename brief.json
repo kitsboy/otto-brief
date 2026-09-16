@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-09-16 18:30:56Z",
-  "generated_at_local": "2026-09-16 20:30 UTC+02:00",
+  "generated_at_utc": "2026-09-16 19:01:06Z",
+  "generated_at_local": "2026-09-16 21:01 UTC+02:00",
   "generator": "otto-brief.py \u2014 read-only brief generator",
   "satohash": {
     "source": "https://api.satohash.io/api/stamps",
@@ -15,7 +15,7 @@
     "api_build": {
       "source": "https://api.satohash.io/health",
       "ok": true,
-      "git_sha": "6c1be90",
+      "git_sha": "3299a30",
       "version": "5.0.0-ELITE",
       "plane": "proof"
     }
@@ -24,99 +24,99 @@
     {
       "url": "https://giveabit.io/",
       "status": 200,
-      "seconds": 0.133353
+      "seconds": 0.176205
     },
     {
       "url": "https://satohash.io/",
       "status": 200,
-      "seconds": 0.160709
+      "seconds": 0.331801
     },
     {
       "url": "https://satohash.giveabit.io/",
       "status": 200,
-      "seconds": 0.151322
+      "seconds": 0.24498
     },
     {
       "url": "https://motopass.giveabit.io/",
       "status": 200,
-      "seconds": 0.193055
+      "seconds": 0.296096
     },
     {
       "url": "https://katoa.org/",
       "status": 200,
-      "seconds": 0.277109
+      "seconds": 0.533813
     },
     {
       "url": "https://sherpacarta.org/",
       "status": 200,
-      "seconds": 0.178383
+      "seconds": 0.313181
     },
     {
       "url": "https://stranded.giveabit.io/",
       "status": 200,
-      "seconds": 0.13609
+      "seconds": 0.404137
     },
     {
       "url": "https://tadbuy.giveabit.io/",
       "status": 200,
-      "seconds": 0.110321
+      "seconds": 0.404937
     },
     {
       "url": "https://openstrata.giveabit.io/",
       "status": 200,
-      "seconds": 0.187378
+      "seconds": 0.272552
     },
     {
       "url": "https://hq.giveabit.io/",
       "status": 200,
-      "seconds": 0.111836
+      "seconds": 0.146726
     },
     {
       "url": "https://agents.giveabit.io/",
       "status": 200,
-      "seconds": 0.712836
+      "seconds": 0.876644
     }
   ],
-  "redactions": 11,
+  "redactions": 14,
   "public_repos": [
     {
       "repo": "kitsboy/satohash",
-      "main": "42fd8b4e"
+      "main": "6887f0f1"
     },
     {
       "repo": "kitsboy/stranded",
-      "main": "d21111a6"
+      "main": "e05a7e39"
     },
     {
       "repo": "kitsboy/katoa",
-      "main": "7cd8d702"
+      "main": "7d987f2e"
     },
     {
       "repo": "kitsboy/sherpacarta",
-      "main": "cc835a3f"
+      "main": "4fe0f6a9"
     },
     {
       "repo": "kitsboy/motopass",
-      "main": "2b957bb7"
+      "main": "b67f4aeb"
     },
     {
       "repo": "kitsboy/tadbuy",
-      "main": "5260e7fc"
+      "main": "0d55b5af"
     },
     {
       "repo": "kitsboy/openstrata",
-      "main": "bee393fc"
+      "main": "0aab1698"
     }
   ],
   "progress": {
-    "done_24h": 12,
+    "done_24h": 19,
     "counts": {
       "archived": 81,
       "blocked": 5,
-      "done": 352,
-      "ready": 8,
-      "running": 7,
-      "todo": 11
+      "done": 359,
+      "ready": 10,
+      "running": 8,
+      "todo": 9
     }
   },
   "standing": [
