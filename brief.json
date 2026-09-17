@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-09-17 12:30:21Z",
-  "generated_at_local": "2026-09-17 14:30 UTC+02:00",
+  "generated_at_utc": "2026-09-17 13:01:25Z",
+  "generated_at_local": "2026-09-17 15:01 UTC+02:00",
   "generator": "otto-brief.py \u2014 read-only brief generator",
   "satohash": {
     "source": "https://api.satohash.io/api/stamps",
@@ -24,57 +24,57 @@
     {
       "url": "https://giveabit.io/",
       "status": 200,
-      "seconds": 0.441413
+      "seconds": 3.643484
     },
     {
       "url": "https://satohash.io/",
       "status": 200,
-      "seconds": 0.209789
+      "seconds": 0.731563
     },
     {
       "url": "https://satohash.giveabit.io/",
       "status": 200,
-      "seconds": 0.147265
+      "seconds": 5.842672
     },
     {
       "url": "https://motopass.giveabit.io/",
       "status": 200,
-      "seconds": 0.211758
+      "seconds": 1.406935
     },
     {
       "url": "https://katoa.org/",
       "status": 200,
-      "seconds": 0.254142
+      "seconds": 0.350961
     },
     {
       "url": "https://sherpacarta.org/",
       "status": 200,
-      "seconds": 0.436409
+      "seconds": 0.544712
     },
     {
       "url": "https://stranded.giveabit.io/",
       "status": 200,
-      "seconds": 0.27572
+      "seconds": 0.381045
     },
     {
       "url": "https://tadbuy.giveabit.io/",
       "status": 200,
-      "seconds": 0.233379
+      "seconds": 0.365557
     },
     {
       "url": "https://openstrata.giveabit.io/",
       "status": 200,
-      "seconds": 0.599825
+      "seconds": 0.319703
     },
     {
       "url": "https://hq.giveabit.io/",
       "status": 200,
-      "seconds": 0.179874
+      "seconds": 0.424165
     },
     {
       "url": "https://agents.giveabit.io/",
       "status": 200,
-      "seconds": 1.664249
+      "seconds": 0.693688
     }
   ],
   "redactions": 14,
@@ -109,11 +109,11 @@
     }
   ],
   "progress": {
-    "done_24h": 58,
+    "done_24h": 59,
     "counts": {
       "archived": 88,
-      "blocked": 6,
-      "done": 404,
+      "blocked": 5,
+      "done": 405,
       "ready": 8,
       "todo": 1
     }
