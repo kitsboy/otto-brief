@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-09-17 17:00:34Z",
-  "generated_at_local": "2026-09-17 19:00 UTC+02:00",
+  "generated_at_utc": "2026-09-17 17:30:13Z",
+  "generated_at_local": "2026-09-17 19:30 UTC+02:00",
   "generator": "otto-brief.py \u2014 read-only brief generator",
   "satohash": {
     "source": "https://api.satohash.io/api/stamps",
@@ -24,57 +24,57 @@
     {
       "url": "https://giveabit.io/",
       "status": 200,
-      "seconds": 0.466841
+      "seconds": 0.213715
     },
     {
       "url": "https://satohash.io/",
       "status": 200,
-      "seconds": 0.556111
+      "seconds": 0.274346
     },
     {
       "url": "https://satohash.giveabit.io/",
       "status": 200,
-      "seconds": 0.219077
+      "seconds": 0.597678
     },
     {
       "url": "https://motopass.giveabit.io/",
       "status": 200,
-      "seconds": 0.949328
+      "seconds": 1.198187
     },
     {
       "url": "https://katoa.org/",
       "status": 200,
-      "seconds": 2.352854
+      "seconds": 0.593126
     },
     {
       "url": "https://sherpacarta.org/",
       "status": 200,
-      "seconds": 0.377525
+      "seconds": 1.589724
     },
     {
       "url": "https://stranded.giveabit.io/",
       "status": 200,
-      "seconds": 0.54662
+      "seconds": 0.403929
     },
     {
       "url": "https://tadbuy.giveabit.io/",
       "status": 200,
-      "seconds": 0.238443
+      "seconds": 0.189919
     },
     {
       "url": "https://openstrata.giveabit.io/",
       "status": 200,
-      "seconds": 0.855826
+      "seconds": 0.402416
     },
     {
       "url": "https://hq.giveabit.io/",
       "status": 200,
-      "seconds": 0.962595
+      "seconds": 0.203758
     },
     {
       "url": "https://agents.giveabit.io/",
       "status": 200,
-      "seconds": 0.689793
+      "seconds": 1.536247
     }
   ],
   "redactions": 14,
@@ -109,13 +109,12 @@
     }
   ],
   "progress": {
-    "done_24h": 63,
+    "done_24h": 64,
     "counts": {
       "archived": 88,
       "blocked": 2,
-      "done": 409,
+      "done": 410,
       "ready": 8,
-      "running": 1,
       "todo": 1
     }
   },
