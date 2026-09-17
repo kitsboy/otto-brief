@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-09-17 15:01:13Z",
-  "generated_at_local": "2026-09-17 17:01 UTC+02:00",
+  "generated_at_utc": "2026-09-17 15:30:29Z",
+  "generated_at_local": "2026-09-17 17:30 UTC+02:00",
   "generator": "otto-brief.py \u2014 read-only brief generator",
   "satohash": {
     "source": "https://api.satohash.io/api/stamps",
@@ -24,57 +24,57 @@
     {
       "url": "https://giveabit.io/",
       "status": 200,
-      "seconds": 0.136627
+      "seconds": 0.286096
     },
     {
       "url": "https://satohash.io/",
       "status": 200,
-      "seconds": 0.163676
+      "seconds": 0.32018
     },
     {
       "url": "https://satohash.giveabit.io/",
       "status": 200,
-      "seconds": 0.522518
+      "seconds": 0.35253
     },
     {
       "url": "https://motopass.giveabit.io/",
       "status": 200,
-      "seconds": 0.473486
+      "seconds": 0.728935
     },
     {
       "url": "https://katoa.org/",
       "status": 200,
-      "seconds": 0.24735
+      "seconds": 2.575872
     },
     {
       "url": "https://sherpacarta.org/",
       "status": 200,
-      "seconds": 0.213773
+      "seconds": 0.456258
     },
     {
       "url": "https://stranded.giveabit.io/",
       "status": 200,
-      "seconds": 0.279346
+      "seconds": 0.253666
     },
     {
       "url": "https://tadbuy.giveabit.io/",
       "status": 200,
-      "seconds": 4.063913
+      "seconds": 0.293932
     },
     {
       "url": "https://openstrata.giveabit.io/",
       "status": 200,
-      "seconds": 4.653008
+      "seconds": 0.369765
     },
     {
       "url": "https://hq.giveabit.io/",
       "status": 200,
-      "seconds": 0.626153
+      "seconds": 1.67493
     },
     {
       "url": "https://agents.giveabit.io/",
-      "status": 0,
-      "seconds": 0.554189
+      "status": 200,
+      "seconds": 1.195546
     }
   ],
   "redactions": 14,
@@ -112,7 +112,7 @@
     "done_24h": 59,
     "counts": {
       "archived": 88,
-      "blocked": 5,
+      "blocked": 6,
       "done": 405,
       "ready": 8,
       "todo": 1
