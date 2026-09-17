@@ -1,14 +1,14 @@
 {
-  "generated_at_utc": "2026-09-17 02:30:51Z",
-  "generated_at_local": "2026-09-17 04:30 UTC+02:00",
+  "generated_at_utc": "2026-09-17 03:00:26Z",
+  "generated_at_local": "2026-09-17 05:00 UTC+02:00",
   "generator": "otto-brief.py \u2014 read-only brief generator",
   "satohash": {
     "source": "https://api.satohash.io/api/stamps",
     "ok": true,
     "total": 422,
     "fetched": 422,
-    "confirmed": 419,
-    "pending": 1,
+    "confirmed": 420,
+    "pending": 0,
     "failed": 2,
     "oldest": "2026-07-20 03:32:54",
     "newest": "2026-09-17 01:08:19",
@@ -24,57 +24,57 @@
     {
       "url": "https://giveabit.io/",
       "status": 200,
-      "seconds": 0.238164
+      "seconds": 0.412079
     },
     {
       "url": "https://satohash.io/",
       "status": 200,
-      "seconds": 0.26634
+      "seconds": 0.262789
     },
     {
       "url": "https://satohash.giveabit.io/",
       "status": 200,
-      "seconds": 0.284896
+      "seconds": 0.316806
     },
     {
       "url": "https://motopass.giveabit.io/",
       "status": 200,
-      "seconds": 0.294269
+      "seconds": 0.236797
     },
     {
       "url": "https://katoa.org/",
       "status": 200,
-      "seconds": 0.149921
+      "seconds": 0.329237
     },
     {
       "url": "https://sherpacarta.org/",
       "status": 200,
-      "seconds": 0.233857
+      "seconds": 0.160891
     },
     {
       "url": "https://stranded.giveabit.io/",
       "status": 200,
-      "seconds": 0.221301
+      "seconds": 0.163223
     },
     {
       "url": "https://tadbuy.giveabit.io/",
       "status": 200,
-      "seconds": 0.185408
+      "seconds": 0.186015
     },
     {
       "url": "https://openstrata.giveabit.io/",
       "status": 200,
-      "seconds": 0.554711
+      "seconds": 0.50684
     },
     {
       "url": "https://hq.giveabit.io/",
       "status": 200,
-      "seconds": 0.670764
+      "seconds": 0.653708
     },
     {
       "url": "https://agents.giveabit.io/",
       "status": 200,
-      "seconds": 0.91638
+      "seconds": 0.913444
     }
   ],
   "redactions": 14,
@@ -85,7 +85,7 @@
     },
     {
       "repo": "kitsboy/stranded",
-      "main": "dcebbb1f"
+      "main": "a2ddb5d0"
     },
     {
       "repo": "kitsboy/katoa",
