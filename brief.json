@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-09-18 18:00:33Z",
-  "generated_at_local": "2026-09-18 20:00 UTC+02:00",
+  "generated_at_utc": "2026-09-18 18:30:37Z",
+  "generated_at_local": "2026-09-18 20:30 UTC+02:00",
   "generator": "otto-brief.py \u2014 read-only brief generator",
   "satohash": {
     "source": "https://api.satohash.io/api/stamps",
@@ -24,57 +24,57 @@
     {
       "url": "https://giveabit.io/",
       "status": 200,
-      "seconds": 0.239744
+      "seconds": 0.136907
     },
     {
       "url": "https://satohash.io/",
       "status": 200,
-      "seconds": 0.253274
+      "seconds": 0.167247
     },
     {
       "url": "https://satohash.giveabit.io/",
       "status": 200,
-      "seconds": 0.174088
+      "seconds": 0.207158
     },
     {
       "url": "https://motopass.giveabit.io/",
       "status": 200,
-      "seconds": 0.188745
+      "seconds": 0.191233
     },
     {
       "url": "https://katoa.org/",
       "status": 200,
-      "seconds": 0.29981
+      "seconds": 0.228663
     },
     {
       "url": "https://sherpacarta.org/",
       "status": 200,
-      "seconds": 0.399133
+      "seconds": 0.230851
     },
     {
       "url": "https://stranded.giveabit.io/",
       "status": 200,
-      "seconds": 0.228725
+      "seconds": 0.257862
     },
     {
       "url": "https://tadbuy.giveabit.io/",
       "status": 200,
-      "seconds": 0.193868
+      "seconds": 0.185991
     },
     {
       "url": "https://openstrata.giveabit.io/",
       "status": 200,
-      "seconds": 0.114958
+      "seconds": 0.145861
     },
     {
       "url": "https://hq.giveabit.io/",
       "status": 200,
-      "seconds": 0.120207
+      "seconds": 0.250567
     },
     {
       "url": "https://agents.giveabit.io/",
       "status": 200,
-      "seconds": 0.68788
+      "seconds": 1.226541
     }
   ],
   "redactions": 1,
@@ -112,10 +112,10 @@
     "done_24h": 2,
     "counts": {
       "archived": 88,
-      "blocked": 1,
+      "blocked": 3,
       "done": 412,
       "ready": 8,
-      "running": 1
+      "running": 2
     }
   },
   "standing": [
