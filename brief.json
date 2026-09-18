@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-09-18 04:30:59Z",
-  "generated_at_local": "2026-09-18 06:30 UTC+02:00",
+  "generated_at_utc": "2026-09-18 05:00:08Z",
+  "generated_at_local": "2026-09-18 07:00 UTC+02:00",
   "generator": "otto-brief.py \u2014 read-only brief generator",
   "satohash": {
     "source": "https://api.satohash.io/api/stamps",
@@ -24,57 +24,57 @@
     {
       "url": "https://giveabit.io/",
       "status": 200,
-      "seconds": 0.084205
+      "seconds": 0.229224
     },
     {
       "url": "https://satohash.io/",
       "status": 200,
-      "seconds": 0.109881
+      "seconds": 0.218271
     },
     {
       "url": "https://satohash.giveabit.io/",
       "status": 200,
-      "seconds": 0.160535
+      "seconds": 0.230673
     },
     {
       "url": "https://motopass.giveabit.io/",
       "status": 200,
-      "seconds": 0.172999
+      "seconds": 0.119027
     },
     {
       "url": "https://katoa.org/",
       "status": 200,
-      "seconds": 0.110639
+      "seconds": 0.235993
     },
     {
       "url": "https://sherpacarta.org/",
       "status": 200,
-      "seconds": 0.135431
+      "seconds": 0.162356
     },
     {
       "url": "https://stranded.giveabit.io/",
       "status": 200,
-      "seconds": 0.117043
+      "seconds": 0.099212
     },
     {
       "url": "https://tadbuy.giveabit.io/",
       "status": 200,
-      "seconds": 0.115074
+      "seconds": 0.117302
     },
     {
       "url": "https://openstrata.giveabit.io/",
       "status": 200,
-      "seconds": 0.107862
+      "seconds": 0.137756
     },
     {
       "url": "https://hq.giveabit.io/",
       "status": 200,
-      "seconds": 0.106132
+      "seconds": 0.329918
     },
     {
       "url": "https://agents.giveabit.io/",
       "status": 200,
-      "seconds": 0.68839
+      "seconds": 0.593802
     }
   ],
   "redactions": 2,
@@ -112,7 +112,7 @@
     "done_24h": 6,
     "counts": {
       "archived": 88,
-      "blocked": 2,
+      "blocked": 3,
       "done": 410,
       "ready": 8,
       "todo": 1
