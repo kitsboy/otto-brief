@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-09-19 03:30:16Z",
-  "generated_at_local": "2026-09-19 05:30 UTC+02:00",
+  "generated_at_utc": "2026-09-19 04:00:19Z",
+  "generated_at_local": "2026-09-19 06:00 UTC+02:00",
   "generator": "otto-brief.py \u2014 read-only brief generator",
   "satohash": {
     "source": "https://api.satohash.io/api/stamps",
@@ -24,57 +24,57 @@
     {
       "url": "https://giveabit.io/",
       "status": 200,
-      "seconds": 0.091155
+      "seconds": 0.163588
     },
     {
       "url": "https://satohash.io/",
       "status": 200,
-      "seconds": 0.092023
+      "seconds": 0.134606
     },
     {
       "url": "https://satohash.giveabit.io/",
       "status": 200,
-      "seconds": 0.115273
+      "seconds": 0.113132
     },
     {
       "url": "https://motopass.giveabit.io/",
       "status": 200,
-      "seconds": 0.121514
+      "seconds": 0.160115
     },
     {
       "url": "https://katoa.org/",
       "status": 200,
-      "seconds": 0.14025
+      "seconds": 0.082866
     },
     {
       "url": "https://sherpacarta.org/",
       "status": 200,
-      "seconds": 0.127341
+      "seconds": 0.093335
     },
     {
       "url": "https://stranded.giveabit.io/",
       "status": 200,
-      "seconds": 0.114047
+      "seconds": 0.208383
     },
     {
       "url": "https://tadbuy.giveabit.io/",
       "status": 200,
-      "seconds": 0.110498
+      "seconds": 0.110311
     },
     {
       "url": "https://openstrata.giveabit.io/",
       "status": 200,
-      "seconds": 0.149476
+      "seconds": 0.185997
     },
     {
       "url": "https://hq.giveabit.io/",
       "status": 200,
-      "seconds": 0.090663
+      "seconds": 0.133659
     },
     {
       "url": "https://agents.giveabit.io/",
       "status": 200,
-      "seconds": 0.890433
+      "seconds": 0.497074
     }
   ],
   "redactions": 1,
@@ -85,7 +85,7 @@
     },
     {
       "repo": "kitsboy/stranded",
-      "main": "a16cb518"
+      "main": "533ac370"
     },
     {
       "repo": "kitsboy/katoa",
@@ -105,7 +105,7 @@
     },
     {
       "repo": "kitsboy/openstrata",
-      "main": "7e73a090"
+      "main": "5cbe2144"
     }
   ],
   "progress": {
