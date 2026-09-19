@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-09-19 13:00:17Z",
-  "generated_at_local": "2026-09-19 15:00 UTC+02:00",
+  "generated_at_utc": "2026-09-19 13:30:16Z",
+  "generated_at_local": "2026-09-19 15:30 UTC+02:00",
   "generator": "otto-brief.py \u2014 read-only brief generator",
   "satohash": {
     "source": "https://api.satohash.io/api/stamps",
@@ -24,57 +24,57 @@
     {
       "url": "https://giveabit.io/",
       "status": 200,
-      "seconds": 0.11574
+      "seconds": 0.155621
     },
     {
       "url": "https://satohash.io/",
       "status": 200,
-      "seconds": 0.153071
+      "seconds": 0.226191
     },
     {
       "url": "https://satohash.giveabit.io/",
       "status": 200,
-      "seconds": 0.129906
+      "seconds": 0.130565
     },
     {
       "url": "https://motopass.giveabit.io/",
       "status": 200,
-      "seconds": 0.124423
+      "seconds": 0.159441
     },
     {
       "url": "https://katoa.org/",
       "status": 200,
-      "seconds": 0.148972
+      "seconds": 0.157035
     },
     {
       "url": "https://sherpacarta.org/",
       "status": 200,
-      "seconds": 0.114234
+      "seconds": 0.122183
     },
     {
       "url": "https://stranded.giveabit.io/",
       "status": 200,
-      "seconds": 0.099092
+      "seconds": 0.125579
     },
     {
       "url": "https://tadbuy.giveabit.io/",
       "status": 200,
-      "seconds": 0.125268
+      "seconds": 0.224374
     },
     {
       "url": "https://openstrata.giveabit.io/",
       "status": 200,
-      "seconds": 0.12456
+      "seconds": 0.164151
     },
     {
       "url": "https://hq.giveabit.io/",
       "status": 200,
-      "seconds": 0.137084
+      "seconds": 0.132013
     },
     {
       "url": "https://agents.giveabit.io/",
       "status": 200,
-      "seconds": 0.749795
+      "seconds": 0.867878
     }
   ],
   "redactions": 1,
@@ -109,11 +109,11 @@
     }
   ],
   "progress": {
-    "done_24h": 4,
+    "done_24h": 5,
     "counts": {
       "archived": 90,
-      "blocked": 4,
-      "done": 413,
+      "blocked": 3,
+      "done": 414,
       "ready": 8
     }
   },
