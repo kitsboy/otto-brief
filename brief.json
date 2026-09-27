@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-09-27 16:05:13Z",
-  "generated_at_local": "2026-09-27 18:05 UTC+02:00",
+  "generated_at_utc": "2026-09-27 16:30:32Z",
+  "generated_at_local": "2026-09-27 18:30 UTC+02:00",
   "generator": "otto-brief.py \u2014 read-only brief generator",
   "satohash": {
     "source": "https://api.satohash.io/api/stamps",
@@ -24,57 +24,57 @@
     {
       "url": "https://giveabit.io/",
       "status": 200,
-      "seconds": 0.092543
+      "seconds": 0.120482
     },
     {
       "url": "https://satohash.io/",
       "status": 200,
-      "seconds": 0.156168
+      "seconds": 0.130528
     },
     {
       "url": "https://satohash.giveabit.io/",
       "status": 200,
-      "seconds": 0.125547
+      "seconds": 0.223436
     },
     {
       "url": "https://motopass.giveabit.io/",
       "status": 200,
-      "seconds": 0.216393
+      "seconds": 0.123758
     },
     {
       "url": "https://katoa.org/",
       "status": 200,
-      "seconds": 0.122317
+      "seconds": 0.127416
     },
     {
       "url": "https://sherpacarta.org/",
       "status": 200,
-      "seconds": 0.119281
+      "seconds": 0.367039
     },
     {
       "url": "https://stranded.giveabit.io/",
       "status": 200,
-      "seconds": 0.097253
+      "seconds": 0.145584
     },
     {
       "url": "https://tadbuy.giveabit.io/",
       "status": 200,
-      "seconds": 0.159211
+      "seconds": 0.176151
     },
     {
       "url": "https://openstrata.giveabit.io/",
       "status": 200,
-      "seconds": 0.102363
+      "seconds": 0.118914
     },
     {
       "url": "https://hq.giveabit.io/",
       "status": 200,
-      "seconds": 0.13031
+      "seconds": 0.157146
     },
     {
       "url": "https://agents.giveabit.io/",
       "status": 200,
-      "seconds": 0.962842
+      "seconds": 0.691205
     }
   ],
   "redactions": 1,
@@ -112,9 +112,9 @@
     "done_24h": 6,
     "counts": {
       "archived": 520,
-      "blocked": 9,
+      "blocked": 10,
       "done": 7,
-      "ready": 3
+      "ready": 2
     }
   },
   "standing": [
