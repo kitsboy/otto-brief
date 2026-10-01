@@ -1,17 +1,10 @@
 {
-  "generated_at_utc": "2026-10-01 10:01:03Z",
-  "generated_at_local": "2026-10-01 12:01 UTC+02:00",
+  "generated_at_utc": "2026-10-01 10:31:02Z",
+  "generated_at_local": "2026-10-01 12:31 UTC+02:00",
   "generator": "otto-brief.py \u2014 read-only brief generator",
   "satohash": {
     "source": "https://api.satohash.io/api/stamps",
-    "ok": true,
-    "total": 491,
-    "fetched": 0,
-    "confirmed": 0,
-    "pending": 0,
-    "failed": 0,
-    "oldest": null,
-    "newest": null,
+    "ok": false,
     "api_build": {
       "source": "https://api.satohash.io/health",
       "ok": false
@@ -21,57 +14,57 @@
     {
       "url": "https://giveabit.io/",
       "status": 200,
-      "seconds": 0.188895
+      "seconds": 0.142248
     },
     {
       "url": "https://satohash.io/",
       "status": 200,
-      "seconds": 0.171274
+      "seconds": 0.145026
     },
     {
       "url": "https://satohash.giveabit.io/",
       "status": 200,
-      "seconds": 0.210371
+      "seconds": 0.209027
     },
     {
       "url": "https://motopass.giveabit.io/",
       "status": 200,
-      "seconds": 0.238821
+      "seconds": 0.203781
     },
     {
       "url": "https://katoa.org/",
       "status": 200,
-      "seconds": 0.12505
+      "seconds": 0.17889
     },
     {
       "url": "https://sherpacarta.org/",
       "status": 200,
-      "seconds": 0.179785
+      "seconds": 0.129472
     },
     {
       "url": "https://stranded.giveabit.io/",
       "status": 200,
-      "seconds": 0.122864
+      "seconds": 0.147955
     },
     {
       "url": "https://tadbuy.giveabit.io/",
       "status": 200,
-      "seconds": 0.205701
+      "seconds": 0.196886
     },
     {
       "url": "https://openstrata.giveabit.io/",
       "status": 200,
-      "seconds": 0.133111
+      "seconds": 0.115163
     },
     {
       "url": "https://hq.giveabit.io/",
       "status": 200,
-      "seconds": 0.157337
+      "seconds": 0.169902
     },
     {
       "url": "https://agents.giveabit.io/",
       "status": 200,
-      "seconds": 0.562442
+      "seconds": 0.489071
     }
   ],
   "redactions": 1,
