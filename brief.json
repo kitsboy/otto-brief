@@ -1,73 +1,77 @@
 {
-  "generated_at_utc": "2026-10-01 13:01:04Z",
-  "generated_at_local": "2026-10-01 15:01 UTC+02:00",
+  "generated_at_utc": "2026-10-01 13:31:02Z",
+  "generated_at_local": "2026-10-01 15:31 UTC+02:00",
   "generator": "otto-brief.py \u2014 read-only brief generator",
   "satohash": {
     "source": "https://api.satohash.io/api/stamps",
-    "ok": false,
+    "ok": true,
+    "total": 493,
+    "fetched": 0,
+    "confirmed": 0,
+    "pending": 0,
+    "failed": 0,
+    "oldest": null,
+    "newest": null,
     "api_build": {
       "source": "https://api.satohash.io/health",
-      "ok": true,
-      "git_sha": "21476f8",
-      "version": "5.0.0-ELITE",
-      "plane": "proof"
+      "ok": false
     }
   },
   "sites": [
     {
       "url": "https://giveabit.io/",
       "status": 200,
-      "seconds": 0.302885
+      "seconds": 0.174121
     },
     {
       "url": "https://satohash.io/",
       "status": 200,
-      "seconds": 0.243141
+      "seconds": 0.191429
     },
     {
       "url": "https://satohash.giveabit.io/",
       "status": 200,
-      "seconds": 0.240913
+      "seconds": 0.208848
     },
     {
       "url": "https://motopass.giveabit.io/",
       "status": 200,
-      "seconds": 0.218868
+      "seconds": 0.205236
     },
     {
       "url": "https://katoa.org/",
       "status": 200,
-      "seconds": 0.272032
+      "seconds": 0.305857
     },
     {
       "url": "https://sherpacarta.org/",
       "status": 200,
-      "seconds": 0.196366
+      "seconds": 0.129368
     },
     {
       "url": "https://stranded.giveabit.io/",
       "status": 200,
-      "seconds": 0.152945
+      "seconds": 0.155357
     },
     {
       "url": "https://tadbuy.giveabit.io/",
       "status": 200,
-      "seconds": 0.192283
+      "seconds": 0.241093
     },
     {
       "url": "https://openstrata.giveabit.io/",
       "status": 200,
-      "seconds": 0.222646
+      "seconds": 0.159853
     },
     {
       "url": "https://hq.giveabit.io/",
       "status": 200,
-      "seconds": 0.194557
+      "seconds": 0.153774
     },
     {
       "url": "https://agents.giveabit.io/",
       "status": 200,
-      "seconds": 0.570958
+      "seconds": 0.658641
     }
   ],
   "redactions": 1,
