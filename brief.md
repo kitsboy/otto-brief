@@ -1,6 +1,6 @@
 # THE BULLETIN (public) — brief for Otto
 
-**Generated:** 2026-10-01 02:01 UTC+02:00 local · 2026-10-01 00:01:03Z UTC  
+**Generated:** 2026-10-01 02:31 UTC+02:00 local · 2026-10-01 00:31:03Z UTC  
 **Generator:** `otto-brief.py` — read-only against every source  
 **Rule:** every figure carries its source. Nothing is quoted from memory.
 
@@ -8,31 +8,23 @@
 
 ## 1. Satohash — live numbers (fetched, not remembered)
 
-| measure | value | source |
-|---|---|---|
-| stamps total | **491** | https://api.satohash.io/api/stamps |
-| confirmed | **298** | same |
-| pending | **0** | same |
-| failed | **2** | same |
-| first stamp | 2026-08-29 11:56:12 | same |
-| latest stamp | 2026-09-30 20:44:43 | same |
-| deployed API build | `None` · None | https://api.satohash.io/health |
+**COULD NOT FETCH** — do not quote any satohash number this run.
 
 ## 2. Site availability (this run)
 
 | site | status | response |
 |---|---|---|
-| https://giveabit.io/ | 200 | 0.157916s |
-| https://satohash.io/ | 200 | 0.220576s |
-| https://satohash.giveabit.io/ | 200 | 0.19335s |
-| https://motopass.giveabit.io/ | 200 | 0.219423s |
-| https://katoa.org/ | 200 | 0.162261s |
-| https://sherpacarta.org/ | 200 | 0.205379s |
-| https://stranded.giveabit.io/ | 200 | 0.180515s |
-| https://tadbuy.giveabit.io/ | 200 | 0.176187s |
-| https://openstrata.giveabit.io/ | 200 | 0.108814s |
-| https://hq.giveabit.io/ | 200 | 0.117924s |
-| https://agents.giveabit.io/ | 200 | 0.472058s |
+| https://giveabit.io/ | 200 | 0.143978s |
+| https://satohash.io/ | 200 | 0.171454s |
+| https://satohash.giveabit.io/ | 200 | 0.140768s |
+| https://motopass.giveabit.io/ | 200 | 0.107193s |
+| https://katoa.org/ | 200 | 0.125387s |
+| https://sherpacarta.org/ | 200 | 0.297168s |
+| https://stranded.giveabit.io/ | 200 | 0.103861s |
+| https://tadbuy.giveabit.io/ | 200 | 0.106389s |
+| https://openstrata.giveabit.io/ | 200 | 0.255413s |
+| https://hq.giveabit.io/ | 200 | 0.248381s |
+| https://agents.giveabit.io/ | 200 | 0.851339s |
 
 ## 3. Public repositories — `main`
 
@@ -44,7 +36,7 @@
 | kitsboy/sherpacarta | `52c470b6` |
 | kitsboy/motopass | `b8ac58de` |
 | kitsboy/tadbuy | `b0668d75` |
-| kitsboy/openstrata | `eff4ee91` |
+| kitsboy/openstrata | `1f7f3e73` |
 
 ## 4. Progress (aggregate — no internal detail)
 
