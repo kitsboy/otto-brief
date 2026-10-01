@@ -1,6 +1,6 @@
 # THE BULLETIN (public) — brief for Otto
 
-**Generated:** 2026-10-01 04:31 UTC+02:00 local · 2026-10-01 02:31:02Z UTC  
+**Generated:** 2026-10-01 05:01 UTC+02:00 local · 2026-10-01 03:01:03Z UTC  
 **Generator:** `otto-brief.py` — read-only against every source  
 **Rule:** every figure carries its source. Nothing is quoted from memory.
 
@@ -8,31 +8,23 @@
 
 ## 1. Satohash — live numbers (fetched, not remembered)
 
-| measure | value | source |
-|---|---|---|
-| stamps total | **491** | https://api.satohash.io/api/stamps |
-| confirmed | **199** | same |
-| pending | **0** | same |
-| failed | **1** | same |
-| first stamp | 2026-09-08 18:49:24 | same |
-| latest stamp | 2026-09-30 20:44:43 | same |
-| deployed API build | `None` · None | https://api.satohash.io/health |
+**COULD NOT FETCH** — do not quote any satohash number this run.
 
 ## 2. Site availability (this run)
 
 | site | status | response |
 |---|---|---|
-| https://giveabit.io/ | 200 | 0.098105s |
-| https://satohash.io/ | 200 | 0.217806s |
-| https://satohash.giveabit.io/ | 200 | 0.358163s |
-| https://motopass.giveabit.io/ | 200 | 0.119808s |
-| https://katoa.org/ | 200 | 0.115307s |
-| https://sherpacarta.org/ | 200 | 0.097301s |
-| https://stranded.giveabit.io/ | 200 | 0.126412s |
-| https://tadbuy.giveabit.io/ | 200 | 0.175489s |
-| https://openstrata.giveabit.io/ | 200 | 0.095212s |
-| https://hq.giveabit.io/ | 200 | 0.099682s |
-| https://agents.giveabit.io/ | 200 | 0.465844s |
+| https://giveabit.io/ | 200 | 0.098235s |
+| https://satohash.io/ | 200 | 0.188072s |
+| https://satohash.giveabit.io/ | 200 | 0.174822s |
+| https://motopass.giveabit.io/ | 200 | 0.212711s |
+| https://katoa.org/ | 200 | 0.196781s |
+| https://sherpacarta.org/ | 200 | 0.145197s |
+| https://stranded.giveabit.io/ | 200 | 0.190084s |
+| https://tadbuy.giveabit.io/ | 200 | 0.146837s |
+| https://openstrata.giveabit.io/ | 200 | 0.122412s |
+| https://hq.giveabit.io/ | 200 | 0.114278s |
+| https://agents.giveabit.io/ | 200 | 0.474265s |
 
 ## 3. Public repositories — `main`
 
