@@ -1,6 +1,6 @@
 # THE BULLETIN (public) — brief for Otto
 
-**Generated:** 2026-10-01 14:01 UTC+02:00 local · 2026-10-01 12:01:02Z UTC  
+**Generated:** 2026-10-01 14:31 UTC+02:00 local · 2026-10-01 12:31:02Z UTC  
 **Generator:** `otto-brief.py` — read-only against every source  
 **Rule:** every figure carries its source. Nothing is quoted from memory.
 
@@ -8,23 +8,31 @@
 
 ## 1. Satohash — live numbers (fetched, not remembered)
 
-**COULD NOT FETCH** — do not quote any satohash number this run.
+| measure | value | source |
+|---|---|---|
+| stamps total | **493** | https://api.satohash.io/api/stamps |
+| confirmed | **489** | same |
+| pending | **2** | same |
+| failed | **2** | same |
+| first stamp | 2026-07-20 03:32:54 | same |
+| latest stamp | 2026-10-01 12:01:08 | same |
+| deployed API build | `21476f8` · 5.0.0-ELITE | https://api.satohash.io/health |
 
 ## 2. Site availability (this run)
 
 | site | status | response |
 |---|---|---|
-| https://giveabit.io/ | 200 | 0.21923s |
-| https://satohash.io/ | 200 | 0.208648s |
-| https://satohash.giveabit.io/ | 200 | 0.195129s |
-| https://motopass.giveabit.io/ | 200 | 0.20522s |
-| https://katoa.org/ | 200 | 0.313405s |
-| https://sherpacarta.org/ | 200 | 0.133133s |
-| https://stranded.giveabit.io/ | 200 | 0.187033s |
-| https://tadbuy.giveabit.io/ | 200 | 0.182263s |
-| https://openstrata.giveabit.io/ | 200 | 0.153231s |
-| https://hq.giveabit.io/ | 200 | 0.148217s |
-| https://agents.giveabit.io/ | 200 | 0.705537s |
+| https://giveabit.io/ | 200 | 0.139757s |
+| https://satohash.io/ | 200 | 0.285229s |
+| https://satohash.giveabit.io/ | 200 | 0.282343s |
+| https://motopass.giveabit.io/ | 200 | 0.17984s |
+| https://katoa.org/ | 200 | 0.235226s |
+| https://sherpacarta.org/ | 200 | 0.329095s |
+| https://stranded.giveabit.io/ | 200 | 0.136782s |
+| https://tadbuy.giveabit.io/ | 200 | 0.203434s |
+| https://openstrata.giveabit.io/ | 200 | 0.11901s |
+| https://hq.giveabit.io/ | 200 | 0.148771s |
+| https://agents.giveabit.io/ | 200 | 0.672048s |
 
 ## 3. Public repositories — `main`
 
@@ -34,7 +42,7 @@
 | kitsboy/stranded | `0b2e7ca9` |
 | kitsboy/katoa | `f1ab7543` |
 | kitsboy/sherpacarta | `52c470b6` |
-| kitsboy/motopass | `e6997f92` |
+| kitsboy/motopass | `d68895a2` |
 | kitsboy/tadbuy | `b0668d75` |
 | kitsboy/openstrata | `1f7f3e73` |
 
