@@ -1,6 +1,6 @@
 # THE BULLETIN (public) — brief for Otto
 
-**Generated:** 2026-10-01 06:31 UTC+02:00 local · 2026-10-01 04:31:02Z UTC  
+**Generated:** 2026-10-01 07:01 UTC+02:00 local · 2026-10-01 05:01:03Z UTC  
 **Generator:** `otto-brief.py` — read-only against every source  
 **Rule:** every figure carries its source. Nothing is quoted from memory.
 
@@ -11,28 +11,28 @@
 | measure | value | source |
 |---|---|---|
 | stamps total | **491** | https://api.satohash.io/api/stamps |
-| confirmed | **0** | same |
+| confirmed | **199** | same |
 | pending | **0** | same |
-| failed | **0** | same |
-| first stamp | None | same |
-| latest stamp | None | same |
+| failed | **1** | same |
+| first stamp | 2026-09-08 18:49:24 | same |
+| latest stamp | 2026-09-30 20:44:43 | same |
 | deployed API build | `21476f8` · 5.0.0-ELITE | https://api.satohash.io/health |
 
 ## 2. Site availability (this run)
 
 | site | status | response |
 |---|---|---|
-| https://giveabit.io/ | 200 | 0.167184s |
-| https://satohash.io/ | 200 | 0.144622s |
-| https://satohash.giveabit.io/ | 200 | 0.123903s |
-| https://motopass.giveabit.io/ | 200 | 1.509386s |
-| https://katoa.org/ | 200 | 0.098212s |
-| https://sherpacarta.org/ | 200 | 0.116109s |
-| https://stranded.giveabit.io/ | 200 | 0.102079s |
-| https://tadbuy.giveabit.io/ | 200 | 0.113793s |
-| https://openstrata.giveabit.io/ | 200 | 0.128499s |
-| https://hq.giveabit.io/ | 200 | 0.091629s |
-| https://agents.giveabit.io/ | 200 | 0.451502s |
+| https://giveabit.io/ | 200 | 0.218012s |
+| https://satohash.io/ | 200 | 0.230269s |
+| https://satohash.giveabit.io/ | 200 | 0.232615s |
+| https://motopass.giveabit.io/ | 200 | 0.206023s |
+| https://katoa.org/ | 200 | 0.13721s |
+| https://sherpacarta.org/ | 200 | 0.158567s |
+| https://stranded.giveabit.io/ | 200 | 0.178504s |
+| https://tadbuy.giveabit.io/ | 200 | 0.161946s |
+| https://openstrata.giveabit.io/ | 200 | 0.160206s |
+| https://hq.giveabit.io/ | 200 | 0.15026s |
+| https://agents.giveabit.io/ | 200 | 0.574668s |
 
 ## 3. Public repositories — `main`
 
