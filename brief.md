@@ -1,6 +1,6 @@
 # THE BULLETIN (public) — brief for Otto
 
-**Generated:** 2026-10-01 16:31 UTC+02:00 local · 2026-10-01 14:31:02Z UTC  
+**Generated:** 2026-10-01 17:01 UTC+02:00 local · 2026-10-01 15:01:03Z UTC  
 **Generator:** `otto-brief.py` — read-only against every source  
 **Rule:** every figure carries its source. Nothing is quoted from memory.
 
@@ -11,28 +11,28 @@
 | measure | value | source |
 |---|---|---|
 | stamps total | **493** | https://api.satohash.io/api/stamps |
-| confirmed | **296** | same |
+| confirmed | **396** | same |
 | pending | **2** | same |
 | failed | **2** | same |
-| first stamp | 2026-08-29 11:56:20 | same |
+| first stamp | 2026-08-21 00:15:22 | same |
 | latest stamp | 2026-10-01 12:01:08 | same |
-| deployed API build | `None` · None | https://api.satohash.io/health |
+| deployed API build | `21476f8` · 5.0.0-ELITE | https://api.satohash.io/health |
 
 ## 2. Site availability (this run)
 
 | site | status | response |
 |---|---|---|
-| https://giveabit.io/ | 200 | 0.168108s |
-| https://satohash.io/ | 200 | 0.20052s |
-| https://satohash.giveabit.io/ | 200 | 0.345433s |
-| https://motopass.giveabit.io/ | 200 | 0.302243s |
-| https://katoa.org/ | 200 | 0.201505s |
-| https://sherpacarta.org/ | 200 | 0.128972s |
-| https://stranded.giveabit.io/ | 200 | 0.193781s |
-| https://tadbuy.giveabit.io/ | 200 | 0.192017s |
-| https://openstrata.giveabit.io/ | 200 | 0.126301s |
-| https://hq.giveabit.io/ | 200 | 0.119653s |
-| https://agents.giveabit.io/ | 200 | 0.821872s |
+| https://giveabit.io/ | 200 | 0.226481s |
+| https://satohash.io/ | 200 | 0.186193s |
+| https://satohash.giveabit.io/ | 200 | 0.205159s |
+| https://motopass.giveabit.io/ | 200 | 0.199712s |
+| https://katoa.org/ | 200 | 0.398468s |
+| https://sherpacarta.org/ | 200 | 0.163294s |
+| https://stranded.giveabit.io/ | 200 | 0.158165s |
+| https://tadbuy.giveabit.io/ | 200 | 0.220947s |
+| https://openstrata.giveabit.io/ | 200 | 0.14488s |
+| https://hq.giveabit.io/ | 200 | 0.151378s |
+| https://agents.giveabit.io/ | 200 | 0.870293s |
 
 ## 3. Public repositories — `main`
 
