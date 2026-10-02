@@ -1,10 +1,10 @@
 # THE BULLETIN (public) — brief for Otto
 
-**Generated:** 2026-10-03 00:30 UTC+02:00 local · 2026-10-02 22:30:46Z UTC  
+**Generated:** 2026-10-03 01:00 UTC+02:00 local · 2026-10-02 23:00:47Z UTC  
 **Generator:** `otto-brief.py` — read-only against every source  
 **Rule:** every figure carries its source. Nothing is quoted from memory.
 
-> ⚠️ 1 line(s) withheld by the sanitizer.
+> ⚠️ 5 line(s) withheld by the sanitizer.
 
 ## 1. Satohash — live numbers (fetched, not remembered)
 
@@ -14,17 +14,17 @@
 
 | site | status | response |
 |---|---|---|
-| https://giveabit.io/ | 200 | 0.130363s |
-| https://satohash.io/ | 200 | 0.136049s |
-| https://satohash.giveabit.io/ | 200 | 0.143097s |
-| https://motopass.giveabit.io/ | 200 | 0.163482s |
-| https://katoa.org/ | 200 | 0.149835s |
-| https://sherpacarta.org/ | 200 | 0.168208s |
-| https://stranded.giveabit.io/ | 200 | 0.15667s |
-| https://tadbuy.giveabit.io/ | 200 | 0.119531s |
-| https://openstrata.giveabit.io/ | 200 | 0.161488s |
-| https://hq.giveabit.io/ | 200 | 0.101894s |
-| https://agents.giveabit.io/ | 200 | 0.563206s |
+| https://giveabit.io/ | 200 | 0.146335s |
+| https://satohash.io/ | 200 | 0.196553s |
+| https://satohash.giveabit.io/ | 200 | 0.14971s |
+| https://motopass.giveabit.io/ | 200 | 0.150163s |
+| https://katoa.org/ | 200 | 0.105383s |
+| https://sherpacarta.org/ | 200 | 0.13104s |
+| https://stranded.giveabit.io/ | 200 | 0.121729s |
+| https://tadbuy.giveabit.io/ | 200 | 0.139683s |
+| https://openstrata.giveabit.io/ | 200 | 0.122736s |
+| https://hq.giveabit.io/ | 200 | 0.100678s |
+| https://agents.giveabit.io/ | 200 | 0.492633s |
 
 ## 3. Public repositories — `main`
 
@@ -40,8 +40,8 @@
 
 ## 4. Progress (aggregate — no internal detail)
 
-- Items shipped in the last 24 hours: **7**
-- Work status: archived 520 · blocked 22 · done 26 · ready 1 · todo 1
+- Items shipped in the last 24 hours: **8**
+- Work status: archived 520 · blocked 33 · done 27 · ready 1 · todo 1
 - Item-level detail is internal and is not published.
 
 ## 5. Standing commitments (ours, in public)
