@@ -1,6 +1,6 @@
 # THE BULLETIN (public) — brief for Otto
 
-**Generated:** 2026-10-03 01:00 UTC+02:00 local · 2026-10-02 23:00:47Z UTC  
+**Generated:** 2026-10-03 01:30 UTC+02:00 local · 2026-10-02 23:30:46Z UTC  
 **Generator:** `otto-brief.py` — read-only against every source  
 **Rule:** every figure carries its source. Nothing is quoted from memory.
 
@@ -8,23 +8,31 @@
 
 ## 1. Satohash — live numbers (fetched, not remembered)
 
-**COULD NOT FETCH** — do not quote any satohash number this run.
+| measure | value | source |
+|---|---|---|
+| stamps total | **494** | https://api.satohash.io/api/stamps |
+| confirmed | **0** | same |
+| pending | **0** | same |
+| failed | **0** | same |
+| first stamp | None | same |
+| latest stamp | None | same |
+| deployed API build | `21476f8` · 5.0.0-ELITE | https://api.satohash.io/health |
 
 ## 2. Site availability (this run)
 
 | site | status | response |
 |---|---|---|
-| https://giveabit.io/ | 200 | 0.146335s |
-| https://satohash.io/ | 200 | 0.196553s |
-| https://satohash.giveabit.io/ | 200 | 0.14971s |
-| https://motopass.giveabit.io/ | 200 | 0.150163s |
-| https://katoa.org/ | 200 | 0.105383s |
-| https://sherpacarta.org/ | 200 | 0.13104s |
-| https://stranded.giveabit.io/ | 200 | 0.121729s |
-| https://tadbuy.giveabit.io/ | 200 | 0.139683s |
-| https://openstrata.giveabit.io/ | 200 | 0.122736s |
-| https://hq.giveabit.io/ | 200 | 0.100678s |
-| https://agents.giveabit.io/ | 200 | 0.492633s |
+| https://giveabit.io/ | 200 | 0.157289s |
+| https://satohash.io/ | 200 | 0.141106s |
+| https://satohash.giveabit.io/ | 200 | 0.144254s |
+| https://motopass.giveabit.io/ | 200 | 0.166568s |
+| https://katoa.org/ | 200 | 0.395758s |
+| https://sherpacarta.org/ | 200 | 0.10537s |
+| https://stranded.giveabit.io/ | 200 | 0.098671s |
+| https://tadbuy.giveabit.io/ | 200 | 0.112018s |
+| https://openstrata.giveabit.io/ | 200 | 0.098944s |
+| https://hq.giveabit.io/ | 200 | 0.107415s |
+| https://agents.giveabit.io/ | 200 | 0.596795s |
 
 ## 3. Public repositories — `main`
 
