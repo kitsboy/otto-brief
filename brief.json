@@ -1,17 +1,10 @@
 {
-  "generated_at_utc": "2026-10-02 09:31:02Z",
-  "generated_at_local": "2026-10-02 11:31 UTC+02:00",
+  "generated_at_utc": "2026-10-02 10:01:03Z",
+  "generated_at_local": "2026-10-02 12:01 UTC+02:00",
   "generator": "otto-brief.py \u2014 read-only brief generator",
   "satohash": {
     "source": "https://api.satohash.io/api/stamps",
-    "ok": true,
-    "total": 493,
-    "fetched": 0,
-    "confirmed": 0,
-    "pending": 0,
-    "failed": 0,
-    "oldest": null,
-    "newest": null,
+    "ok": false,
     "api_build": {
       "source": "https://api.satohash.io/health",
       "ok": false
@@ -21,57 +14,57 @@
     {
       "url": "https://giveabit.io/",
       "status": 200,
-      "seconds": 0.276149
+      "seconds": 0.134749
     },
     {
       "url": "https://satohash.io/",
       "status": 200,
-      "seconds": 0.32536
+      "seconds": 0.248768
     },
     {
       "url": "https://satohash.giveabit.io/",
       "status": 200,
-      "seconds": 0.219738
+      "seconds": 0.27811
     },
     {
       "url": "https://motopass.giveabit.io/",
       "status": 200,
-      "seconds": 0.150471
+      "seconds": 0.175639
     },
     {
       "url": "https://katoa.org/",
       "status": 200,
-      "seconds": 0.147151
+      "seconds": 0.147509
     },
     {
       "url": "https://sherpacarta.org/",
-      "status": 0,
-      "seconds": 0.306862
+      "status": 200,
+      "seconds": 0.109782
     },
     {
       "url": "https://stranded.giveabit.io/",
       "status": 200,
-      "seconds": 0.265364
+      "seconds": 0.145485
     },
     {
       "url": "https://tadbuy.giveabit.io/",
       "status": 200,
-      "seconds": 0.371357
+      "seconds": 0.145657
     },
     {
       "url": "https://openstrata.giveabit.io/",
       "status": 200,
-      "seconds": 0.115003
+      "seconds": 0.303403
     },
     {
       "url": "https://hq.giveabit.io/",
       "status": 200,
-      "seconds": 0.104835
+      "seconds": 0.134989
     },
     {
       "url": "https://agents.giveabit.io/",
       "status": 200,
-      "seconds": 0.507623
+      "seconds": 0.531549
     }
   ],
   "redactions": 1,
