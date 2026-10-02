@@ -1,6 +1,6 @@
 # THE BULLETIN (public) — brief for Otto
 
-**Generated:** 2026-10-02 13:31 UTC+02:00 local · 2026-10-02 11:31:02Z UTC  
+**Generated:** 2026-10-02 14:00 UTC+02:00 local · 2026-10-02 12:00:47Z UTC  
 **Generator:** `otto-brief.py` — read-only against every source  
 **Rule:** every figure carries its source. Nothing is quoted from memory.
 
@@ -8,23 +8,31 @@
 
 ## 1. Satohash — live numbers (fetched, not remembered)
 
-**COULD NOT FETCH** — do not quote any satohash number this run.
+| measure | value | source |
+|---|---|---|
+| stamps total | **493** | https://api.satohash.io/api/stamps |
+| confirmed | **0** | same |
+| pending | **0** | same |
+| failed | **0** | same |
+| first stamp | None | same |
+| latest stamp | None | same |
+| deployed API build | `21476f8` · 5.0.0-ELITE | https://api.satohash.io/health |
 
 ## 2. Site availability (this run)
 
 | site | status | response |
 |---|---|---|
-| https://giveabit.io/ | 200 | 0.173948s |
-| https://satohash.io/ | 200 | 0.259521s |
-| https://satohash.giveabit.io/ | 200 | 0.154778s |
-| https://motopass.giveabit.io/ | 200 | 0.153805s |
-| https://katoa.org/ | 200 | 0.153765s |
-| https://sherpacarta.org/ | 200 | 0.122524s |
-| https://stranded.giveabit.io/ | 200 | 0.127841s |
-| https://tadbuy.giveabit.io/ | 200 | 0.14505s |
-| https://openstrata.giveabit.io/ | 200 | 0.125153s |
-| https://hq.giveabit.io/ | 200 | 0.144436s |
-| https://agents.giveabit.io/ | 200 | 0.510097s |
+| https://giveabit.io/ | 200 | 0.098755s |
+| https://satohash.io/ | 200 | 0.161273s |
+| https://satohash.giveabit.io/ | 200 | 0.271443s |
+| https://motopass.giveabit.io/ | 200 | 0.220225s |
+| https://katoa.org/ | 200 | 0.425842s |
+| https://sherpacarta.org/ | 200 | 0.156293s |
+| https://stranded.giveabit.io/ | 200 | 0.350712s |
+| https://tadbuy.giveabit.io/ | 200 | 0.192875s |
+| https://openstrata.giveabit.io/ | 200 | 0.127149s |
+| https://hq.giveabit.io/ | 200 | 0.151505s |
+| https://agents.giveabit.io/ | 200 | 0.52481s |
 
 ## 3. Public repositories — `main`
 
@@ -34,7 +42,7 @@
 | kitsboy/stranded | `f4639fff` |
 | kitsboy/katoa | `f1ab7543` |
 | kitsboy/sherpacarta | `52c470b6` |
-| kitsboy/motopass | `88872d81` |
+| kitsboy/motopass | `a23b18d6` |
 | kitsboy/tadbuy | `f5f94e74` |
 | kitsboy/openstrata | `1f7f3e73` |
 
