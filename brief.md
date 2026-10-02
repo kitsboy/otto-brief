@@ -1,6 +1,6 @@
 # THE BULLETIN (public) — brief for Otto
 
-**Generated:** 2026-10-02 19:00 UTC+02:00 local · 2026-10-02 17:00:48Z UTC  
+**Generated:** 2026-10-02 19:30 UTC+02:00 local · 2026-10-02 17:30:45Z UTC  
 **Generator:** `otto-brief.py` — read-only against every source  
 **Rule:** every figure carries its source. Nothing is quoted from memory.
 
@@ -8,23 +8,31 @@
 
 ## 1. Satohash — live numbers (fetched, not remembered)
 
-**COULD NOT FETCH** — do not quote any satohash number this run.
+| measure | value | source |
+|---|---|---|
+| stamps total | **493** | https://api.satohash.io/api/stamps |
+| confirmed | **0** | same |
+| pending | **0** | same |
+| failed | **0** | same |
+| first stamp | None | same |
+| latest stamp | None | same |
+| deployed API build | `21476f8` · 5.0.0-ELITE | https://api.satohash.io/health |
 
 ## 2. Site availability (this run)
 
 | site | status | response |
 |---|---|---|
-| https://giveabit.io/ | 200 | 0.106685s |
-| https://satohash.io/ | 200 | 0.126103s |
-| https://satohash.giveabit.io/ | 200 | 0.202836s |
-| https://motopass.giveabit.io/ | 200 | 0.229317s |
-| https://katoa.org/ | 200 | 0.143643s |
-| https://sherpacarta.org/ | 200 | 0.106625s |
-| https://stranded.giveabit.io/ | 200 | 0.398636s |
-| https://tadbuy.giveabit.io/ | 200 | 0.200662s |
-| https://openstrata.giveabit.io/ | 200 | 0.147482s |
-| https://hq.giveabit.io/ | 200 | 0.139237s |
-| https://agents.giveabit.io/ | 200 | 0.773602s |
+| https://giveabit.io/ | 200 | 0.160402s |
+| https://satohash.io/ | 200 | 0.139511s |
+| https://satohash.giveabit.io/ | 200 | 0.183188s |
+| https://motopass.giveabit.io/ | 200 | 0.142097s |
+| https://katoa.org/ | 200 | 0.130686s |
+| https://sherpacarta.org/ | 200 | 0.119726s |
+| https://stranded.giveabit.io/ | 200 | 0.106975s |
+| https://tadbuy.giveabit.io/ | 200 | 0.157172s |
+| https://openstrata.giveabit.io/ | 200 | 0.18123s |
+| https://hq.giveabit.io/ | 200 | 0.111323s |
+| https://agents.giveabit.io/ | 200 | 0.65393s |
 
 ## 3. Public repositories — `main`
 
@@ -40,8 +48,8 @@
 
 ## 4. Progress (aggregate — no internal detail)
 
-- Items shipped in the last 24 hours: **1**
-- Work status: archived 520 · blocked 21 · done 20 · ready 1
+- Items shipped in the last 24 hours: **5**
+- Work status: archived 520 · blocked 22 · done 24 · ready 1 · todo 1
 - Item-level detail is internal and is not published.
 
 ## 5. Standing commitments (ours, in public)
