@@ -1,6 +1,6 @@
 # THE BULLETIN (public) — brief for Otto
 
-**Generated:** 2026-10-02 18:00 UTC+02:00 local · 2026-10-02 16:00:46Z UTC  
+**Generated:** 2026-10-02 18:30 UTC+02:00 local · 2026-10-02 16:30:47Z UTC  
 **Generator:** `otto-brief.py` — read-only against every source  
 **Rule:** every figure carries its source. Nothing is quoted from memory.
 
@@ -8,38 +8,30 @@
 
 ## 1. Satohash — live numbers (fetched, not remembered)
 
-| measure | value | source |
-|---|---|---|
-| stamps total | **493** | https://api.satohash.io/api/stamps |
-| confirmed | **100** | same |
-| pending | **0** | same |
-| failed | **0** | same |
-| first stamp | 2026-09-14 20:32:15 | same |
-| latest stamp | 2026-10-01 12:01:08 | same |
-| deployed API build | `None` · None | https://api.satohash.io/health |
+**COULD NOT FETCH** — do not quote any satohash number this run.
 
 ## 2. Site availability (this run)
 
 | site | status | response |
 |---|---|---|
-| https://giveabit.io/ | 200 | 0.13648s |
-| https://satohash.io/ | 200 | 0.302512s |
-| https://satohash.giveabit.io/ | 200 | 0.187614s |
-| https://motopass.giveabit.io/ | 200 | 0.163436s |
-| https://katoa.org/ | 200 | 0.297068s |
-| https://sherpacarta.org/ | 200 | 0.293119s |
-| https://stranded.giveabit.io/ | 200 | 0.178996s |
-| https://tadbuy.giveabit.io/ | 200 | 0.145427s |
-| https://openstrata.giveabit.io/ | 200 | 0.133869s |
-| https://hq.giveabit.io/ | 200 | 0.113032s |
-| https://agents.giveabit.io/ | 200 | 0.558396s |
+| https://giveabit.io/ | 200 | 0.17165s |
+| https://satohash.io/ | 200 | 0.231584s |
+| https://satohash.giveabit.io/ | 200 | 0.163002s |
+| https://motopass.giveabit.io/ | 200 | 0.166622s |
+| https://katoa.org/ | 200 | 0.155083s |
+| https://sherpacarta.org/ | 200 | 0.173816s |
+| https://stranded.giveabit.io/ | 200 | 0.327922s |
+| https://tadbuy.giveabit.io/ | 200 | 0.166393s |
+| https://openstrata.giveabit.io/ | 200 | 0.173745s |
+| https://hq.giveabit.io/ | 200 | 0.115409s |
+| https://agents.giveabit.io/ | 200 | 0.745872s |
 
 ## 3. Public repositories — `main`
 
 | repo | main SHA |
 |---|---|
 | kitsboy/satohash | `bfe166f2` |
-| kitsboy/stranded | `d0fdfd69` |
+| kitsboy/stranded | `de90636e` |
 | kitsboy/katoa | `f1ab7543` |
 | kitsboy/sherpacarta | `52c470b6` |
 | kitsboy/motopass | `a23b18d6` |
