@@ -1,6 +1,6 @@
 # THE BULLETIN (public) — brief for Otto
 
-**Generated:** 2026-10-03 17:00 UTC+02:00 local · 2026-10-03 15:00:47Z UTC  
+**Generated:** 2026-10-03 17:30 UTC+02:00 local · 2026-10-03 15:30:46Z UTC  
 **Generator:** `otto-brief.py` — read-only against every source  
 **Rule:** every figure carries its source. Nothing is quoted from memory.
 
@@ -11,28 +11,28 @@
 | measure | value | source |
 |---|---|---|
 | stamps total | **494** | https://api.satohash.io/api/stamps |
-| confirmed | **398** | same |
+| confirmed | **0** | same |
 | pending | **0** | same |
-| failed | **2** | same |
-| first stamp | 2026-08-21 00:15:25 | same |
-| latest stamp | 2026-10-02 19:00:22 | same |
+| failed | **0** | same |
+| first stamp | None | same |
+| latest stamp | None | same |
 | deployed API build | `None` · None | https://api.satohash.io/health |
 
 ## 2. Site availability (this run)
 
 | site | status | response |
 |---|---|---|
-| https://giveabit.io/ | 200 | 0.129745s |
-| https://satohash.io/ | 200 | 0.203015s |
-| https://satohash.giveabit.io/ | 200 | 0.166207s |
-| https://motopass.giveabit.io/ | 200 | 0.164524s |
-| https://katoa.org/ | 200 | 0.138183s |
-| https://sherpacarta.org/ | 200 | 0.128656s |
-| https://stranded.giveabit.io/ | 200 | 0.155183s |
-| https://tadbuy.giveabit.io/ | 200 | 0.160431s |
-| https://openstrata.giveabit.io/ | 200 | 0.126703s |
-| https://hq.giveabit.io/ | 200 | 0.134724s |
-| https://agents.giveabit.io/ | 200 | 0.567532s |
+| https://giveabit.io/ | 200 | 0.149574s |
+| https://satohash.io/ | 200 | 0.277091s |
+| https://satohash.giveabit.io/ | 200 | 0.151336s |
+| https://motopass.giveabit.io/ | 200 | 0.380975s |
+| https://katoa.org/ | 200 | 0.116048s |
+| https://sherpacarta.org/ | 200 | 0.114997s |
+| https://stranded.giveabit.io/ | 200 | 0.110229s |
+| https://tadbuy.giveabit.io/ | 200 | 0.129792s |
+| https://openstrata.giveabit.io/ | 200 | 0.102576s |
+| https://hq.giveabit.io/ | 200 | 0.127286s |
+| https://agents.giveabit.io/ | 200 | 0.565068s |
 
 ## 3. Public repositories — `main`
 
