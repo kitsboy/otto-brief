@@ -1,6 +1,6 @@
 # THE BULLETIN (public) — brief for Otto
 
-**Generated:** 2026-10-03 23:00 UTC+02:00 local · 2026-10-03 21:00:46Z UTC  
+**Generated:** 2026-10-03 23:30 UTC+02:00 local · 2026-10-03 21:30:47Z UTC  
 **Generator:** `otto-brief.py` — read-only against every source  
 **Rule:** every figure carries its source. Nothing is quoted from memory.
 
@@ -8,31 +8,23 @@
 
 ## 1. Satohash — live numbers (fetched, not remembered)
 
-| measure | value | source |
-|---|---|---|
-| stamps total | **494** | https://api.satohash.io/api/stamps |
-| confirmed | **199** | same |
-| pending | **0** | same |
-| failed | **1** | same |
-| first stamp | 2026-09-11 10:10:41 | same |
-| latest stamp | 2026-10-02 19:00:22 | same |
-| deployed API build | `None` · None | https://api.satohash.io/health |
+**COULD NOT FETCH** — do not quote any satohash number this run.
 
 ## 2. Site availability (this run)
 
 | site | status | response |
 |---|---|---|
-| https://giveabit.io/ | 200 | 0.380497s |
-| https://satohash.io/ | 200 | 0.522616s |
-| https://satohash.giveabit.io/ | 200 | 0.421333s |
-| https://motopass.giveabit.io/ | 200 | 0.377987s |
-| https://katoa.org/ | 200 | 0.321677s |
-| https://sherpacarta.org/ | 200 | 0.318s |
-| https://stranded.giveabit.io/ | 200 | 0.305639s |
-| https://tadbuy.giveabit.io/ | 200 | 0.3538s |
-| https://openstrata.giveabit.io/ | 200 | 0.369253s |
-| https://hq.giveabit.io/ | 200 | 0.326005s |
-| https://agents.giveabit.io/ | 200 | 0.79043s |
+| https://giveabit.io/ | 200 | 0.150652s |
+| https://satohash.io/ | 200 | 0.182227s |
+| https://satohash.giveabit.io/ | 200 | 0.208885s |
+| https://motopass.giveabit.io/ | 200 | 0.198931s |
+| https://katoa.org/ | 200 | 0.205437s |
+| https://sherpacarta.org/ | 200 | 0.176623s |
+| https://stranded.giveabit.io/ | 200 | 0.123913s |
+| https://tadbuy.giveabit.io/ | 200 | 0.159822s |
+| https://openstrata.giveabit.io/ | 200 | 0.157698s |
+| https://hq.giveabit.io/ | 200 | 0.144635s |
+| https://agents.giveabit.io/ | 200 | 0.539658s |
 
 ## 3. Public repositories — `main`
 
