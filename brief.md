@@ -1,6 +1,6 @@
 # THE BULLETIN (public) — brief for Otto
 
-**Generated:** 2026-10-03 19:30 UTC+02:00 local · 2026-10-03 17:30:46Z UTC  
+**Generated:** 2026-10-03 20:00 UTC+02:00 local · 2026-10-03 18:00:46Z UTC  
 **Generator:** `otto-brief.py` — read-only against every source  
 **Rule:** every figure carries its source. Nothing is quoted from memory.
 
@@ -8,23 +8,31 @@
 
 ## 1. Satohash — live numbers (fetched, not remembered)
 
-**COULD NOT FETCH** — do not quote any satohash number this run.
+| measure | value | source |
+|---|---|---|
+| stamps total | **494** | https://api.satohash.io/api/stamps |
+| confirmed | **100** | same |
+| pending | **0** | same |
+| failed | **0** | same |
+| first stamp | 2026-09-14 20:49:16 | same |
+| latest stamp | 2026-10-02 19:00:22 | same |
+| deployed API build | `21476f8` · 5.0.0-ELITE | https://api.satohash.io/health |
 
 ## 2. Site availability (this run)
 
 | site | status | response |
 |---|---|---|
-| https://giveabit.io/ | 200 | 0.097304s |
-| https://satohash.io/ | 200 | 0.150143s |
-| https://satohash.giveabit.io/ | 200 | 0.164493s |
-| https://motopass.giveabit.io/ | 200 | 0.177091s |
-| https://katoa.org/ | 200 | 0.177319s |
-| https://sherpacarta.org/ | 200 | 0.152374s |
-| https://stranded.giveabit.io/ | 200 | 0.117368s |
-| https://tadbuy.giveabit.io/ | 200 | 0.158763s |
-| https://openstrata.giveabit.io/ | 200 | 0.127559s |
-| https://hq.giveabit.io/ | 200 | 0.091987s |
-| https://agents.giveabit.io/ | 200 | 0.505148s |
+| https://giveabit.io/ | 200 | 0.191721s |
+| https://satohash.io/ | 200 | 0.434901s |
+| https://satohash.giveabit.io/ | 200 | 0.154496s |
+| https://motopass.giveabit.io/ | 200 | 0.299371s |
+| https://katoa.org/ | 200 | 0.166462s |
+| https://sherpacarta.org/ | 200 | 0.125047s |
+| https://stranded.giveabit.io/ | 200 | 0.187039s |
+| https://tadbuy.giveabit.io/ | 200 | 0.193869s |
+| https://openstrata.giveabit.io/ | 200 | 0.185306s |
+| https://hq.giveabit.io/ | 200 | 0.104638s |
+| https://agents.giveabit.io/ | 200 | 0.712604s |
 
 ## 3. Public repositories — `main`
 
