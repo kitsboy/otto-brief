@@ -1,6 +1,6 @@
 # THE BULLETIN (public) — brief for Otto
 
-**Generated:** 2026-10-03 23:30 UTC+02:00 local · 2026-10-03 21:30:47Z UTC  
+**Generated:** 2026-10-04 00:00 UTC+02:00 local · 2026-10-03 22:00:47Z UTC  
 **Generator:** `otto-brief.py` — read-only against every source  
 **Rule:** every figure carries its source. Nothing is quoted from memory.
 
@@ -8,23 +8,31 @@
 
 ## 1. Satohash — live numbers (fetched, not remembered)
 
-**COULD NOT FETCH** — do not quote any satohash number this run.
+| measure | value | source |
+|---|---|---|
+| stamps total | **494** | https://api.satohash.io/api/stamps |
+| confirmed | **0** | same |
+| pending | **0** | same |
+| failed | **0** | same |
+| first stamp | None | same |
+| latest stamp | None | same |
+| deployed API build | `21476f8` · 5.0.0-ELITE | https://api.satohash.io/health |
 
 ## 2. Site availability (this run)
 
 | site | status | response |
 |---|---|---|
-| https://giveabit.io/ | 200 | 0.150652s |
-| https://satohash.io/ | 200 | 0.182227s |
-| https://satohash.giveabit.io/ | 200 | 0.208885s |
-| https://motopass.giveabit.io/ | 200 | 0.198931s |
-| https://katoa.org/ | 200 | 0.205437s |
-| https://sherpacarta.org/ | 200 | 0.176623s |
-| https://stranded.giveabit.io/ | 200 | 0.123913s |
-| https://tadbuy.giveabit.io/ | 200 | 0.159822s |
-| https://openstrata.giveabit.io/ | 200 | 0.157698s |
-| https://hq.giveabit.io/ | 200 | 0.144635s |
-| https://agents.giveabit.io/ | 200 | 0.539658s |
+| https://giveabit.io/ | 200 | 0.104631s |
+| https://satohash.io/ | 200 | 0.155639s |
+| https://satohash.giveabit.io/ | 200 | 0.246536s |
+| https://motopass.giveabit.io/ | 200 | 0.273898s |
+| https://katoa.org/ | 200 | 0.156274s |
+| https://sherpacarta.org/ | 200 | 0.214319s |
+| https://stranded.giveabit.io/ | 200 | 0.216537s |
+| https://tadbuy.giveabit.io/ | 200 | 0.178596s |
+| https://openstrata.giveabit.io/ | 200 | 0.137676s |
+| https://hq.giveabit.io/ | 200 | 0.133426s |
+| https://agents.giveabit.io/ | 200 | 0.606907s |
 
 ## 3. Public repositories — `main`
 
