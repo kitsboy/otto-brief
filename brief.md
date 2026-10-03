@@ -1,6 +1,6 @@
 # THE BULLETIN (public) — brief for Otto
 
-**Generated:** 2026-10-03 16:00 UTC+02:00 local · 2026-10-03 14:00:46Z UTC  
+**Generated:** 2026-10-03 16:30 UTC+02:00 local · 2026-10-03 14:30:46Z UTC  
 **Generator:** `otto-brief.py` — read-only against every source  
 **Rule:** every figure carries its source. Nothing is quoted from memory.
 
@@ -11,28 +11,28 @@
 | measure | value | source |
 |---|---|---|
 | stamps total | **494** | https://api.satohash.io/api/stamps |
-| confirmed | **0** | same |
+| confirmed | **100** | same |
 | pending | **0** | same |
 | failed | **0** | same |
-| first stamp | None | same |
-| latest stamp | None | same |
-| deployed API build | `None` · None | https://api.satohash.io/health |
+| first stamp | 2026-09-14 20:49:16 | same |
+| latest stamp | 2026-10-02 19:00:22 | same |
+| deployed API build | `21476f8` · 5.0.0-ELITE | https://api.satohash.io/health |
 
 ## 2. Site availability (this run)
 
 | site | status | response |
 |---|---|---|
-| https://giveabit.io/ | 200 | 0.147106s |
-| https://satohash.io/ | 200 | 0.14554s |
-| https://satohash.giveabit.io/ | 200 | 0.214849s |
-| https://motopass.giveabit.io/ | 200 | 0.125004s |
-| https://katoa.org/ | 200 | 0.210578s |
-| https://sherpacarta.org/ | 200 | 0.126382s |
-| https://stranded.giveabit.io/ | 200 | 0.165304s |
-| https://tadbuy.giveabit.io/ | 200 | 0.155781s |
-| https://openstrata.giveabit.io/ | 200 | 0.135174s |
-| https://hq.giveabit.io/ | 200 | 0.114309s |
-| https://agents.giveabit.io/ | 200 | 0.73113s |
+| https://giveabit.io/ | 200 | 0.142826s |
+| https://satohash.io/ | 200 | 0.219407s |
+| https://satohash.giveabit.io/ | 200 | 0.136624s |
+| https://motopass.giveabit.io/ | 200 | 0.123626s |
+| https://katoa.org/ | 200 | 0.152046s |
+| https://sherpacarta.org/ | 200 | 0.150998s |
+| https://stranded.giveabit.io/ | 200 | 0.129396s |
+| https://tadbuy.giveabit.io/ | 200 | 0.164082s |
+| https://openstrata.giveabit.io/ | 200 | 0.113866s |
+| https://hq.giveabit.io/ | 200 | 0.139023s |
+| https://agents.giveabit.io/ | 200 | 0.539838s |
 
 ## 3. Public repositories — `main`
 
@@ -48,7 +48,7 @@
 
 ## 4. Progress (aggregate — no internal detail)
 
-- Items shipped in the last 24 hours: **17**
+- Items shipped in the last 24 hours: **16**
 - Work status: archived 521 · blocked 25 · done 35 · ready 1 · todo 1
 - Item-level detail is internal and is not published.
 
