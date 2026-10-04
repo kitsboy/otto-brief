@@ -1,6 +1,6 @@
 # THE BULLETIN (public) — brief for Otto
 
-**Generated:** 2026-10-04 04:00 UTC+02:00 local · 2026-10-04 02:00:47Z UTC  
+**Generated:** 2026-10-04 04:30 UTC+02:00 local · 2026-10-04 02:30:47Z UTC  
 **Generator:** `otto-brief.py` — read-only against every source  
 **Rule:** every figure carries its source. Nothing is quoted from memory.
 
@@ -8,30 +8,38 @@
 
 ## 1. Satohash — live numbers (fetched, not remembered)
 
-**COULD NOT FETCH** — do not quote any satohash number this run.
+| measure | value | source |
+|---|---|---|
+| stamps total | **494** | https://api.satohash.io/api/stamps |
+| confirmed | **0** | same |
+| pending | **0** | same |
+| failed | **0** | same |
+| first stamp | None | same |
+| latest stamp | None | same |
+| deployed API build | `{"message": "No server is currently available to service your request. Sorry about that. Please try resubmitting your request and contact us if the problem persists."}` · 5.0.0-ELITE | https://api.satohash.io/health |
 
 ## 2. Site availability (this run)
 
 | site | status | response |
 |---|---|---|
-| https://giveabit.io/ | 200 | 0.204264s |
-| https://satohash.io/ | 200 | 0.179096s |
-| https://satohash.giveabit.io/ | 200 | 0.162828s |
-| https://motopass.giveabit.io/ | 200 | 0.151888s |
-| https://katoa.org/ | 200 | 0.145406s |
-| https://sherpacarta.org/ | 200 | 0.188468s |
-| https://stranded.giveabit.io/ | 200 | 0.156796s |
-| https://tadbuy.giveabit.io/ | 200 | 0.128937s |
-| https://openstrata.giveabit.io/ | 200 | 0.099428s |
-| https://hq.giveabit.io/ | 200 | 0.115762s |
-| https://agents.giveabit.io/ | 200 | 0.625359s |
+| https://giveabit.io/ | 200 | 0.130044s |
+| https://satohash.io/ | 200 | 0.163146s |
+| https://satohash.giveabit.io/ | 200 | 0.108384s |
+| https://motopass.giveabit.io/ | 200 | 0.102791s |
+| https://katoa.org/ | 200 | 0.130455s |
+| https://sherpacarta.org/ | 200 | 0.133348s |
+| https://stranded.giveabit.io/ | 200 | 0.087357s |
+| https://tadbuy.giveabit.io/ | 200 | 0.117561s |
+| https://openstrata.giveabit.io/ | 200 | 0.095127s |
+| https://hq.giveabit.io/ | 200 | 0.192078s |
+| https://agents.giveabit.io/ | 200 | 0.451918s |
 
 ## 3. Public repositories — `main`
 
 | repo | main SHA |
 |---|---|
 | kitsboy/satohash | `bfe166f2` |
-| kitsboy/stranded | `519c4680` |
+| kitsboy/stranded | `d51a39eb` |
 | kitsboy/katoa | `f1ab7543` |
 | kitsboy/sherpacarta | `52c470b6` |
 | kitsboy/motopass | `851ecf8f` |
@@ -40,8 +48,8 @@
 
 ## 4. Progress (aggregate — no internal detail)
 
-- Items shipped in the last 24 hours: **10**
-- Work status: archived 524 · blocked 25 · done 33 · ready 2 · todo 1
+- Items shipped in the last 24 hours: **4**
+- Work status: archived 524 · blocked 23 · done 36 · ready 1 · todo 1
 - Item-level detail is internal and is not published.
 
 ## 5. Standing commitments (ours, in public)
