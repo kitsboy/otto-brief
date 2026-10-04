@@ -1,6 +1,6 @@
 # THE BULLETIN (public) — brief for Otto
 
-**Generated:** 2026-10-04 21:00 UTC+02:00 local · 2026-10-04 19:00:47Z UTC  
+**Generated:** 2026-10-04 21:30 UTC+02:00 local · 2026-10-04 19:30:46Z UTC  
 **Generator:** `otto-brief.py` — read-only against every source  
 **Rule:** every figure carries its source. Nothing is quoted from memory.
 
@@ -11,28 +11,28 @@
 | measure | value | source |
 |---|---|---|
 | stamps total | **494** | https://api.satohash.io/api/stamps |
-| confirmed | **100** | same |
+| confirmed | **0** | same |
 | pending | **0** | same |
 | failed | **0** | same |
-| first stamp | 2026-09-14 20:49:16 | same |
-| latest stamp | 2026-10-02 19:00:22 | same |
-| deployed API build | `{"message": "No server is currently available to service your request. Sorry about that. Please try resubmitting your request and contact us if the problem persists."}` · 5.0.0-ELITE | https://api.satohash.io/health |
+| first stamp | None | same |
+| latest stamp | None | same |
+| deployed API build | `None` · None | https://api.satohash.io/health |
 
 ## 2. Site availability (this run)
 
 | site | status | response |
 |---|---|---|
-| https://giveabit.io/ | 200 | 0.142418s |
-| https://satohash.io/ | 200 | 0.19219s |
-| https://satohash.giveabit.io/ | 200 | 0.182871s |
-| https://motopass.giveabit.io/ | 200 | 0.250763s |
-| https://katoa.org/ | 200 | 0.248155s |
-| https://sherpacarta.org/ | 200 | 0.164752s |
-| https://stranded.giveabit.io/ | 200 | 0.248701s |
-| https://tadbuy.giveabit.io/ | 200 | 0.188522s |
-| https://openstrata.giveabit.io/ | 200 | 0.160014s |
-| https://hq.giveabit.io/ | 200 | 0.133843s |
-| https://agents.giveabit.io/ | 200 | 0.65421s |
+| https://giveabit.io/ | 200 | 0.142184s |
+| https://satohash.io/ | 200 | 0.305537s |
+| https://satohash.giveabit.io/ | 200 | 0.228088s |
+| https://motopass.giveabit.io/ | 200 | 0.164965s |
+| https://katoa.org/ | 200 | 0.173167s |
+| https://sherpacarta.org/ | 200 | 0.127315s |
+| https://stranded.giveabit.io/ | 200 | 0.280644s |
+| https://tadbuy.giveabit.io/ | 200 | 0.134679s |
+| https://openstrata.giveabit.io/ | 200 | 0.204105s |
+| https://hq.giveabit.io/ | 200 | 0.158303s |
+| https://agents.giveabit.io/ | 200 | 0.586596s |
 
 ## 3. Public repositories — `main`
 
