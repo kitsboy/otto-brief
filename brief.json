@@ -1,80 +1,77 @@
 {
-  "generated_at_utc": "2026-10-04 06:30:47Z",
-  "generated_at_local": "2026-10-04 08:30 UTC+02:00",
+  "generated_at_utc": "2026-10-04 07:00:47Z",
+  "generated_at_local": "2026-10-04 09:00 UTC+02:00",
   "generator": "otto-brief.py \u2014 read-only brief generator",
   "satohash": {
     "source": "https://api.satohash.io/api/stamps",
     "ok": true,
     "total": 494,
-    "fetched": 200,
-    "confirmed": 199,
+    "fetched": 0,
+    "confirmed": 0,
     "pending": 0,
-    "failed": 1,
-    "oldest": "2026-09-11 10:10:41",
-    "newest": "2026-10-02 19:00:22",
+    "failed": 0,
+    "oldest": null,
+    "newest": null,
     "api_build": {
       "source": "https://api.satohash.io/health",
-      "ok": true,
-      "git_sha": "{\"message\": \"No server is currently available to service your request. Sorry about that. Please try resubmitting your request and contact us if the problem persists.\"}\r",
-      "version": "5.0.0-ELITE",
-      "plane": "proof"
+      "ok": false
     }
   },
   "sites": [
     {
       "url": "https://giveabit.io/",
       "status": 200,
-      "seconds": 0.112549
+      "seconds": 0.305019
     },
     {
       "url": "https://satohash.io/",
       "status": 200,
-      "seconds": 0.154161
+      "seconds": 0.406681
     },
     {
       "url": "https://satohash.giveabit.io/",
       "status": 200,
-      "seconds": 0.125125
+      "seconds": 0.361893
     },
     {
       "url": "https://motopass.giveabit.io/",
       "status": 200,
-      "seconds": 0.121343
+      "seconds": 0.330436
     },
     {
       "url": "https://katoa.org/",
       "status": 200,
-      "seconds": 0.134495
+      "seconds": 0.378626
     },
     {
       "url": "https://sherpacarta.org/",
       "status": 200,
-      "seconds": 0.126998
+      "seconds": 0.354003
     },
     {
       "url": "https://stranded.giveabit.io/",
       "status": 200,
-      "seconds": 0.092083
+      "seconds": 0.358521
     },
     {
       "url": "https://tadbuy.giveabit.io/",
       "status": 200,
-      "seconds": 0.125874
+      "seconds": 0.396183
     },
     {
       "url": "https://openstrata.giveabit.io/",
       "status": 200,
-      "seconds": 0.100406
+      "seconds": 0.508433
     },
     {
       "url": "https://hq.giveabit.io/",
       "status": 200,
-      "seconds": 0.117078
+      "seconds": 0.45478
     },
     {
       "url": "https://agents.giveabit.io/",
       "status": 200,
-      "seconds": 0.451275
+      "seconds": 0.729151
     }
   ],
   "redactions": 5,
@@ -112,7 +109,7 @@
     "done_24h": 4,
     "counts": {
       "archived": 525,
-      "blocked": 23,
+      "blocked": 24,
       "done": 35,
       "ready": 1,
       "todo": 1
