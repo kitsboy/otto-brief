@@ -1,6 +1,6 @@
 # THE BULLETIN (public) — brief for Otto
 
-**Generated:** 2026-10-05 17:30 UTC+02:00 local · 2026-10-05 15:30:46Z UTC  
+**Generated:** 2026-10-05 18:00 UTC+02:00 local · 2026-10-05 16:00:47Z UTC  
 **Generator:** `otto-brief.py` — read-only against every source  
 **Rule:** every figure carries its source. Nothing is quoted from memory.
 
@@ -11,28 +11,28 @@
 | measure | value | source |
 |---|---|---|
 | stamps total | **494** | https://api.satohash.io/api/stamps |
-| confirmed | **199** | same |
+| confirmed | **0** | same |
 | pending | **0** | same |
-| failed | **1** | same |
-| first stamp | 2026-09-11 10:10:41 | same |
-| latest stamp | 2026-10-02 19:00:22 | same |
+| failed | **0** | same |
+| first stamp | None | same |
+| latest stamp | None | same |
 | deployed API build | `None` · None | https://api.satohash.io/health |
 
 ## 2. Site availability (this run)
 
 | site | status | response |
 |---|---|---|
-| https://giveabit.io/ | 200 | 0.205913s |
-| https://satohash.io/ | 200 | 0.192815s |
-| https://satohash.giveabit.io/ | 200 | 0.20405s |
-| https://motopass.giveabit.io/ | 200 | 0.189943s |
-| https://katoa.org/ | 200 | 0.175282s |
-| https://sherpacarta.org/ | 200 | 0.133008s |
-| https://stranded.giveabit.io/ | 200 | 0.116941s |
-| https://tadbuy.giveabit.io/ | 200 | 0.170746s |
-| https://openstrata.giveabit.io/ | 200 | 0.121418s |
-| https://hq.giveabit.io/ | 200 | 0.157008s |
-| https://agents.giveabit.io/ | 200 | 0.778412s |
+| https://giveabit.io/ | 200 | 0.180767s |
+| https://satohash.io/ | 200 | 0.223983s |
+| https://satohash.giveabit.io/ | 200 | 0.15016s |
+| https://motopass.giveabit.io/ | 200 | 0.194541s |
+| https://katoa.org/ | 200 | 0.293076s |
+| https://sherpacarta.org/ | 200 | 0.222663s |
+| https://stranded.giveabit.io/ | 200 | 0.196434s |
+| https://tadbuy.giveabit.io/ | 200 | 0.190083s |
+| https://openstrata.giveabit.io/ | 200 | 0.164814s |
+| https://hq.giveabit.io/ | 200 | 0.1214s |
+| https://agents.giveabit.io/ | 200 | 0.705583s |
 
 ## 3. Public repositories — `main`
 
