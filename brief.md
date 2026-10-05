@@ -1,6 +1,6 @@
 # THE BULLETIN (public) — brief for Otto
 
-**Generated:** 2026-10-05 05:30 UTC+02:00 local · 2026-10-05 03:30:46Z UTC  
+**Generated:** 2026-10-05 06:00 UTC+02:00 local · 2026-10-05 04:00:56Z UTC  
 **Generator:** `otto-brief.py` — read-only against every source  
 **Rule:** every figure carries its source. Nothing is quoted from memory.
 
@@ -14,24 +14,24 @@
 
 | site | status | response |
 |---|---|---|
-| https://giveabit.io/ | 200 | 0.309856s |
-| https://satohash.io/ | 200 | 0.323976s |
-| https://satohash.giveabit.io/ | 200 | 0.34626s |
-| https://motopass.giveabit.io/ | 200 | 0.36886s |
-| https://katoa.org/ | 200 | 0.322805s |
-| https://sherpacarta.org/ | 200 | 0.285439s |
-| https://stranded.giveabit.io/ | 200 | 0.305394s |
-| https://tadbuy.giveabit.io/ | 200 | 0.321085s |
-| https://openstrata.giveabit.io/ | 200 | 0.305549s |
-| https://hq.giveabit.io/ | 200 | 0.29515s |
-| https://agents.giveabit.io/ | 200 | 0.667557s |
+| https://giveabit.io/ | 200 | 0.110695s |
+| https://satohash.io/ | 200 | 0.146404s |
+| https://satohash.giveabit.io/ | 200 | 0.149899s |
+| https://motopass.giveabit.io/ | 200 | 0.136956s |
+| https://katoa.org/ | 200 | 0.181045s |
+| https://sherpacarta.org/ | 200 | 0.122473s |
+| https://stranded.giveabit.io/ | 200 | 0.120128s |
+| https://tadbuy.giveabit.io/ | 200 | 0.174499s |
+| https://openstrata.giveabit.io/ | 200 | 0.117123s |
+| https://hq.giveabit.io/ | 200 | 0.178476s |
+| https://agents.giveabit.io/ | 200 | 0.549184s |
 
 ## 3. Public repositories — `main`
 
 | repo | main SHA |
 |---|---|
 | kitsboy/satohash | `bfe166f2` |
-| kitsboy/stranded | `75d94c54` |
+| kitsboy/stranded | `3a0c58d9` |
 | kitsboy/katoa | `f1ab7543` |
 | kitsboy/sherpacarta | `52c470b6` |
 | kitsboy/motopass | `b1e4d79b` |
@@ -40,8 +40,8 @@
 
 ## 4. Progress (aggregate — no internal detail)
 
-- Items shipped in the last 24 hours: **5**
-- Work status: archived 530 · blocked 22 · done 37 · ready 1 · running 1 · todo 2
+- Items shipped in the last 24 hours: **6**
+- Work status: archived 530 · blocked 23 · done 38 · ready 1 · todo 1
 - Item-level detail is internal and is not published.
 
 ## 5. Standing commitments (ours, in public)
