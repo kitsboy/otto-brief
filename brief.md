@@ -1,6 +1,6 @@
 # THE BULLETIN (public) — brief for Otto
 
-**Generated:** 2026-10-07 21:30 UTC+02:00 local · 2026-10-07 19:30:46Z UTC  
+**Generated:** 2026-10-07 22:00 UTC+02:00 local · 2026-10-07 20:00:47Z UTC  
 **Generator:** `otto-brief.py` — read-only against every source  
 **Rule:** every figure carries its source. Nothing is quoted from memory.
 
@@ -8,23 +8,31 @@
 
 ## 1. Satohash — live numbers (fetched, not remembered)
 
-**COULD NOT FETCH** — do not quote any satohash number this run.
+| measure | value | source |
+|---|---|---|
+| stamps total | **494** | https://api.satohash.io/api/stamps |
+| confirmed | **199** | same |
+| pending | **0** | same |
+| failed | **1** | same |
+| first stamp | 2026-09-11 10:10:41 | same |
+| latest stamp | 2026-10-02 19:00:22 | same |
+| deployed API build | `None` · None | https://api.satohash.io/health |
 
 ## 2. Site availability (this run)
 
 | site | status | response |
 |---|---|---|
-| https://giveabit.io/ | 200 | 0.202616s |
-| https://satohash.io/ | 200 | 0.140296s |
-| https://satohash.giveabit.io/ | 200 | 0.183691s |
-| https://motopass.giveabit.io/ | 200 | 0.184617s |
-| https://katoa.org/ | 200 | 0.221691s |
-| https://sherpacarta.org/ | 200 | 0.135125s |
-| https://stranded.giveabit.io/ | 200 | 0.16152s |
-| https://tadbuy.giveabit.io/ | 200 | 0.208927s |
-| https://openstrata.giveabit.io/ | 200 | 0.143081s |
-| https://hq.giveabit.io/ | 200 | 0.146338s |
-| https://agents.giveabit.io/ | 200 | 0.644335s |
+| https://giveabit.io/ | 200 | 0.153124s |
+| https://satohash.io/ | 200 | 0.206936s |
+| https://satohash.giveabit.io/ | 200 | 0.138232s |
+| https://motopass.giveabit.io/ | 200 | 0.170068s |
+| https://katoa.org/ | 200 | 0.256022s |
+| https://sherpacarta.org/ | 200 | 0.164575s |
+| https://stranded.giveabit.io/ | 200 | 0.126447s |
+| https://tadbuy.giveabit.io/ | 200 | 0.184947s |
+| https://openstrata.giveabit.io/ | 200 | 0.166955s |
+| https://hq.giveabit.io/ | 200 | 0.153748s |
+| https://agents.giveabit.io/ | 200 | 0.647001s |
 
 ## 3. Public repositories — `main`
 
