@@ -1,6 +1,6 @@
 # THE BULLETIN (public) — brief for Otto
 
-**Generated:** 2026-10-08 20:00 UTC+02:00 local · 2026-10-08 18:00:47Z UTC  
+**Generated:** 2026-10-08 20:30 UTC+02:00 local · 2026-10-08 18:30:46Z UTC  
 **Generator:** `otto-brief.py` — read-only against every source  
 **Rule:** every figure carries its source. Nothing is quoted from memory.
 
@@ -8,23 +8,31 @@
 
 ## 1. Satohash — live numbers (fetched, not remembered)
 
-**COULD NOT FETCH** — do not quote any satohash number this run.
+| measure | value | source |
+|---|---|---|
+| stamps total | **494** | https://api.satohash.io/api/stamps |
+| confirmed | **199** | same |
+| pending | **0** | same |
+| failed | **1** | same |
+| first stamp | 2026-09-11 10:10:41 | same |
+| latest stamp | 2026-10-02 19:00:22 | same |
+| deployed API build | `None` · None | https://api.satohash.io/health |
 
 ## 2. Site availability (this run)
 
 | site | status | response |
 |---|---|---|
-| https://giveabit.io/ | 200 | 0.180683s |
-| https://satohash.io/ | 200 | 0.218175s |
-| https://satohash.giveabit.io/ | 200 | 0.32494s |
-| https://motopass.giveabit.io/ | 200 | 0.214008s |
-| https://katoa.org/ | 200 | 0.227132s |
-| https://sherpacarta.org/ | 200 | 0.30075s |
-| https://stranded.giveabit.io/ | 200 | 0.43715s |
-| https://tadbuy.giveabit.io/ | 200 | 0.22175s |
-| https://openstrata.giveabit.io/ | 200 | 0.274238s |
-| https://hq.giveabit.io/ | 200 | 0.169988s |
-| https://agents.giveabit.io/ | 200 | 0.611144s |
+| https://giveabit.io/ | 200 | 0.380369s |
+| https://satohash.io/ | 200 | 0.512257s |
+| https://satohash.giveabit.io/ | 200 | 0.387138s |
+| https://motopass.giveabit.io/ | 200 | 0.547436s |
+| https://katoa.org/ | 200 | 0.384719s |
+| https://sherpacarta.org/ | 200 | 0.829167s |
+| https://stranded.giveabit.io/ | 200 | 0.666174s |
+| https://tadbuy.giveabit.io/ | 200 | 0.377141s |
+| https://openstrata.giveabit.io/ | 200 | 0.585595s |
+| https://hq.giveabit.io/ | 200 | 0.390396s |
+| https://agents.giveabit.io/ | 200 | 0.841031s |
 
 ## 3. Public repositories — `main`
 
@@ -32,7 +40,7 @@
 |---|---|
 | kitsboy/satohash | `bfe166f2` |
 | kitsboy/stranded | `2d53d386` |
-| kitsboy/katoa | `f7d1a4cd` |
+| kitsboy/katoa | `baf07c67` |
 | kitsboy/sherpacarta | `d3cd163a` |
 | kitsboy/motopass | `e40a63f2` |
 | kitsboy/tadbuy | `f5f94e74` |
