@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-10-10 22:30:46Z",
-  "generated_at_local": "2026-10-11 00:30 UTC+02:00",
+  "generated_at_utc": "2026-10-10 23:00:47Z",
+  "generated_at_local": "2026-10-11 01:00 UTC+02:00",
   "generator": "otto-brief.py \u2014 read-only brief generator",
   "satohash": {
     "source": "https://api.satohash.io/api/stamps",
@@ -24,57 +24,57 @@
     {
       "url": "https://giveabit.io/",
       "status": 200,
-      "seconds": 0.076895
+      "seconds": 0.186312
     },
     {
       "url": "https://satohash.io/",
       "status": 200,
-      "seconds": 0.155712
+      "seconds": 0.170328
     },
     {
       "url": "https://satohash.giveabit.io/",
       "status": 200,
-      "seconds": 0.206569
+      "seconds": 0.169536
     },
     {
       "url": "https://motopass.giveabit.io/",
       "status": 200,
-      "seconds": 0.166335
+      "seconds": 0.140678
     },
     {
       "url": "https://katoa.org/",
       "status": 200,
-      "seconds": 0.201185
+      "seconds": 0.14652
     },
     {
       "url": "https://sherpacarta.org/",
       "status": 200,
-      "seconds": 0.183536
+      "seconds": 0.147412
     },
     {
       "url": "https://stranded.giveabit.io/",
       "status": 200,
-      "seconds": 0.122151
+      "seconds": 0.175105
     },
     {
       "url": "https://tadbuy.giveabit.io/",
       "status": 200,
-      "seconds": 0.187918
+      "seconds": 0.170727
     },
     {
       "url": "https://openstrata.giveabit.io/",
       "status": 200,
-      "seconds": 0.107909
+      "seconds": 0.166938
     },
     {
       "url": "https://hq.giveabit.io/",
       "status": 200,
-      "seconds": 0.097294
+      "seconds": 0.193999
     },
     {
       "url": "https://agents.giveabit.io/",
       "status": 200,
-      "seconds": 0.556119
+      "seconds": 0.558436
     }
   ],
   "redactions": 5,
@@ -111,9 +111,9 @@
   "progress": {
     "done_24h": 8,
     "counts": {
-      "archived": 558,
+      "archived": 559,
       "blocked": 26,
-      "done": 26,
+      "done": 25,
       "todo": 1
     }
   },
