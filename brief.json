@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-10-13 01:30:51Z",
-  "generated_at_local": "2026-10-13 03:30 UTC+02:00",
+  "generated_at_utc": "2026-10-13 02:00:52Z",
+  "generated_at_local": "2026-10-13 04:00 UTC+02:00",
   "generator": "otto-brief.py \u2014 read-only brief generator",
   "satohash": {
     "source": "https://api.satohash.io/api/stamps",
@@ -24,64 +24,64 @@
     {
       "url": "https://giveabit.io/",
       "status": 200,
-      "seconds": 0.14957
+      "seconds": 0.157565
     },
     {
       "url": "https://satohash.io/",
       "status": 200,
-      "seconds": 0.142186
+      "seconds": 0.224356
     },
     {
       "url": "https://satohash.giveabit.io/",
       "status": 200,
-      "seconds": 0.181126
+      "seconds": 0.199511
     },
     {
       "url": "https://motopass.giveabit.io/",
       "status": 200,
-      "seconds": 0.161849
+      "seconds": 0.194884
     },
     {
       "url": "https://katoa.org/",
       "status": 200,
-      "seconds": 0.168718
+      "seconds": 0.220794
     },
     {
       "url": "https://sherpacarta.org/",
       "status": 200,
-      "seconds": 0.211819
+      "seconds": 0.15275
     },
     {
       "url": "https://stranded.giveabit.io/",
       "status": 200,
-      "seconds": 0.12045
+      "seconds": 0.145857
     },
     {
       "url": "https://tadbuy.giveabit.io/",
       "status": 200,
-      "seconds": 0.32844
+      "seconds": 0.188433
     },
     {
       "url": "https://openstrata.giveabit.io/",
       "status": 200,
-      "seconds": 0.164943
+      "seconds": 0.147756
     },
     {
       "url": "https://hq.giveabit.io/",
       "status": 200,
-      "seconds": 0.110705
+      "seconds": 0.182771
     },
     {
       "url": "https://agents.giveabit.io/",
       "status": 200,
-      "seconds": 0.744799
+      "seconds": 0.854426
     }
   ],
   "redactions": 5,
   "public_repos": [
     {
       "repo": "kitsboy/satohash",
-      "main": "14a2c013"
+      "main": "1d1d3e3d"
     },
     {
       "repo": "kitsboy/stranded",
@@ -89,7 +89,7 @@
     },
     {
       "repo": "kitsboy/katoa",
-      "main": "e4e243eb"
+      "main": "37fd1256"
     },
     {
       "repo": "kitsboy/sherpacarta",
