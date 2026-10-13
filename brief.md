@@ -1,6 +1,6 @@
 # THE BULLETIN (public) — brief for Otto
 
-**Generated:** 2026-10-13 02:01 UTC+02:00 local · 2026-10-13 00:01:15Z UTC  
+**Generated:** 2026-10-13 02:30 UTC+02:00 local · 2026-10-13 00:30:58Z UTC  
 **Generator:** `otto-brief.py` — read-only against every source  
 **Rule:** every figure carries its source. Nothing is quoted from memory.
 
@@ -11,8 +11,8 @@
 | measure | value | source |
 |---|---|---|
 | stamps total | **495** | https://api.satohash.io/api/stamps |
-| confirmed | **492** | same |
-| pending | **1** | same |
+| confirmed | **493** | same |
+| pending | **0** | same |
 | failed | **2** | same |
 | first stamp | 2026-07-20 03:32:54 | same |
 | latest stamp | 2026-10-12 23:07:52 | same |
@@ -22,25 +22,25 @@
 
 | site | status | response |
 |---|---|---|
-| https://giveabit.io/ | 200 | 0.121003s |
-| https://satohash.io/ | 200 | 0.13898s |
-| https://satohash.giveabit.io/ | 200 | 0.247618s |
-| https://motopass.giveabit.io/ | 200 | 0.176364s |
-| https://katoa.org/ | 200 | 0.13379s |
-| https://sherpacarta.org/ | 200 | 0.13729s |
-| https://stranded.giveabit.io/ | 200 | 0.107649s |
-| https://tadbuy.giveabit.io/ | 200 | 0.247311s |
-| https://openstrata.giveabit.io/ | 200 | 0.262188s |
-| https://hq.giveabit.io/ | 200 | 0.152821s |
-| https://agents.giveabit.io/ | 200 | 0.647883s |
+| https://giveabit.io/ | 200 | 0.196464s |
+| https://satohash.io/ | 200 | 0.197605s |
+| https://satohash.giveabit.io/ | 200 | 0.261745s |
+| https://motopass.giveabit.io/ | 200 | 0.412768s |
+| https://katoa.org/ | 200 | 0.151951s |
+| https://sherpacarta.org/ | 200 | 0.216037s |
+| https://stranded.giveabit.io/ | 200 | 0.208398s |
+| https://tadbuy.giveabit.io/ | 200 | 0.251254s |
+| https://openstrata.giveabit.io/ | 200 | 0.252041s |
+| https://hq.giveabit.io/ | 200 | 0.20806s |
+| https://agents.giveabit.io/ | 200 | 1.07609s |
 
 ## 3. Public repositories — `main`
 
 | repo | main SHA |
 |---|---|
-| kitsboy/satohash | `f108c9a3` |
+| kitsboy/satohash | `3a62e62a` |
 | kitsboy/stranded | `482f7e4a` |
-| kitsboy/katoa | `319396e7` |
+| kitsboy/katoa | `e4e243eb` |
 | kitsboy/sherpacarta | `d3cd163a` |
 | kitsboy/motopass | `e0bb8fe7` |
 | kitsboy/tadbuy | `f5f94e74` |
