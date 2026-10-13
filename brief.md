@@ -1,6 +1,6 @@
 # THE BULLETIN (public) — brief for Otto
 
-**Generated:** 2026-10-13 02:30 UTC+02:00 local · 2026-10-13 00:30:58Z UTC  
+**Generated:** 2026-10-13 03:00 UTC+02:00 local · 2026-10-13 01:00:53Z UTC  
 **Generator:** `otto-brief.py` — read-only against every source  
 **Rule:** every figure carries its source. Nothing is quoted from memory.
 
@@ -16,29 +16,29 @@
 | failed | **2** | same |
 | first stamp | 2026-07-20 03:32:54 | same |
 | latest stamp | 2026-10-12 23:07:52 | same |
-| deployed API build | `{"message": "No server is currently available to service your request. Sorry about that. Please try resubmitting your request and contact us if the problem persists."}` · 5.0.0-ELITE | https://api.satohash.io/health |
+| deployed API build | `e814a5795d94d7fa9510878515bbf0ba16b01f07` · 5.0.0-ELITE | https://api.satohash.io/health |
 
 ## 2. Site availability (this run)
 
 | site | status | response |
 |---|---|---|
-| https://giveabit.io/ | 200 | 0.196464s |
-| https://satohash.io/ | 200 | 0.197605s |
-| https://satohash.giveabit.io/ | 200 | 0.261745s |
-| https://motopass.giveabit.io/ | 200 | 0.412768s |
-| https://katoa.org/ | 200 | 0.151951s |
-| https://sherpacarta.org/ | 200 | 0.216037s |
-| https://stranded.giveabit.io/ | 200 | 0.208398s |
-| https://tadbuy.giveabit.io/ | 200 | 0.251254s |
-| https://openstrata.giveabit.io/ | 200 | 0.252041s |
-| https://hq.giveabit.io/ | 200 | 0.20806s |
-| https://agents.giveabit.io/ | 200 | 1.07609s |
+| https://giveabit.io/ | 200 | 0.168899s |
+| https://satohash.io/ | 200 | 0.186818s |
+| https://satohash.giveabit.io/ | 200 | 0.190374s |
+| https://motopass.giveabit.io/ | 200 | 0.223746s |
+| https://katoa.org/ | 200 | 0.239686s |
+| https://sherpacarta.org/ | 200 | 0.159085s |
+| https://stranded.giveabit.io/ | 200 | 0.246826s |
+| https://tadbuy.giveabit.io/ | 200 | 0.215768s |
+| https://openstrata.giveabit.io/ | 200 | 0.293227s |
+| https://hq.giveabit.io/ | 200 | 0.174374s |
+| https://agents.giveabit.io/ | 200 | 1.047267s |
 
 ## 3. Public repositories — `main`
 
 | repo | main SHA |
 |---|---|
-| kitsboy/satohash | `3a62e62a` |
+| kitsboy/satohash | `42bfefd3` |
 | kitsboy/stranded | `482f7e4a` |
 | kitsboy/katoa | `e4e243eb` |
 | kitsboy/sherpacarta | `d3cd163a` |
