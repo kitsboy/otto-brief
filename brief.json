@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-10-15 22:30:44Z",
-  "generated_at_local": "2026-10-16 00:30 UTC+02:00",
+  "generated_at_utc": "2026-10-15 22:47:21Z",
+  "generated_at_local": "2026-10-16 00:47 UTC+02:00",
   "generator": "otto-brief.py \u2014 read-only brief generator",
   "satohash": {
     "source": "https://api.satohash.io/api/stamps",
@@ -24,57 +24,57 @@
     {
       "url": "https://giveabit.io/",
       "status": 200,
-      "seconds": 0.152324
+      "seconds": 0.118984
     },
     {
       "url": "https://satohash.io/",
       "status": 200,
-      "seconds": 0.213103
+      "seconds": 0.168177
     },
     {
       "url": "https://satohash.giveabit.io/",
       "status": 200,
-      "seconds": 0.174239
+      "seconds": 0.117075
     },
     {
       "url": "https://motopass.giveabit.io/",
       "status": 200,
-      "seconds": 0.161521
+      "seconds": 0.128945
     },
     {
       "url": "https://katoa.org/",
       "status": 200,
-      "seconds": 0.133655
+      "seconds": 0.333157
     },
     {
       "url": "https://sherpacarta.org/",
       "status": 200,
-      "seconds": 0.12146
+      "seconds": 0.284029
     },
     {
       "url": "https://stranded.giveabit.io/",
       "status": 200,
-      "seconds": 0.133655
+      "seconds": 0.14462
     },
     {
       "url": "https://tadbuy.giveabit.io/",
       "status": 200,
-      "seconds": 0.189642
+      "seconds": 0.133659
     },
     {
       "url": "https://openstrata.giveabit.io/",
       "status": 200,
-      "seconds": 0.183418
+      "seconds": 0.118911
     },
     {
       "url": "https://hq.giveabit.io/",
       "status": 200,
-      "seconds": 0.111608
+      "seconds": 0.103263
     },
     {
       "url": "https://agents.giveabit.io/",
       "status": 200,
-      "seconds": 0.96942
+      "seconds": 0.749025
     }
   ],
   "redactions": 5,
@@ -119,8 +119,8 @@
   },
   "standing": [
     {
-      "item": "Public copy audit \u2014 one open item (a rate-limit line needing correction)",
-      "state": "IN PROGRESS"
+      "item": "Public copy audit \u2014 old rate-limit copy gone from live; batch stat in source awaits a number call (live API caps batches at 50)",
+      "state": "AWAITING CAM CALL"
     },
     {
       "item": "P0 hang on /stamp + /verify",
