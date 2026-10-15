@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-10-15 20:00:11Z",
-  "generated_at_local": "2026-10-15 22:00 UTC+02:00",
+  "generated_at_utc": "2026-10-15 20:30:09Z",
+  "generated_at_local": "2026-10-15 22:30 UTC+02:00",
   "generator": "otto-brief.py \u2014 read-only brief generator",
   "satohash": {
     "source": "https://api.satohash.io/api/stamps",
@@ -24,57 +24,57 @@
     {
       "url": "https://giveabit.io/",
       "status": 200,
-      "seconds": 0.25076
+      "seconds": 0.213215
     },
     {
       "url": "https://satohash.io/",
       "status": 200,
-      "seconds": 0.309409
+      "seconds": 0.517551
     },
     {
       "url": "https://satohash.giveabit.io/",
       "status": 200,
-      "seconds": 0.414222
+      "seconds": 0.306853
     },
     {
       "url": "https://motopass.giveabit.io/",
       "status": 200,
-      "seconds": 0.292322
+      "seconds": 0.241184
     },
     {
       "url": "https://katoa.org/",
       "status": 200,
-      "seconds": 0.399222
+      "seconds": 0.239663
     },
     {
       "url": "https://sherpacarta.org/",
       "status": 200,
-      "seconds": 0.326292
+      "seconds": 0.257136
     },
     {
       "url": "https://stranded.giveabit.io/",
       "status": 200,
-      "seconds": 0.211263
+      "seconds": 0.201307
     },
     {
       "url": "https://tadbuy.giveabit.io/",
       "status": 200,
-      "seconds": 0.286157
+      "seconds": 0.243045
     },
     {
       "url": "https://openstrata.giveabit.io/",
       "status": 200,
-      "seconds": 0.240905
+      "seconds": 0.181199
     },
     {
       "url": "https://hq.giveabit.io/",
       "status": 200,
-      "seconds": 0.190936
+      "seconds": 0.255542
     },
     {
       "url": "https://agents.giveabit.io/",
       "status": 200,
-      "seconds": 1.077729
+      "seconds": 0.988357
     }
   ],
   "redactions": 5,
@@ -89,7 +89,7 @@
     },
     {
       "repo": "kitsboy/katoa",
-      "main": "ade3f1c0"
+      "main": "acfb9249"
     },
     {
       "repo": "kitsboy/sherpacarta",
