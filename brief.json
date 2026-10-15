@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-10-15 20:30:09Z",
-  "generated_at_local": "2026-10-15 22:30 UTC+02:00",
+  "generated_at_utc": "2026-10-15 21:00:45Z",
+  "generated_at_local": "2026-10-15 23:00 UTC+02:00",
   "generator": "otto-brief.py \u2014 read-only brief generator",
   "satohash": {
     "source": "https://api.satohash.io/api/stamps",
@@ -24,57 +24,57 @@
     {
       "url": "https://giveabit.io/",
       "status": 200,
-      "seconds": 0.213215
+      "seconds": 0.185176
     },
     {
       "url": "https://satohash.io/",
       "status": 200,
-      "seconds": 0.517551
+      "seconds": 0.229578
     },
     {
       "url": "https://satohash.giveabit.io/",
       "status": 200,
-      "seconds": 0.306853
+      "seconds": 0.395413
     },
     {
       "url": "https://motopass.giveabit.io/",
       "status": 200,
-      "seconds": 0.241184
+      "seconds": 0.354945
     },
     {
       "url": "https://katoa.org/",
       "status": 200,
-      "seconds": 0.239663
+      "seconds": 0.179327
     },
     {
       "url": "https://sherpacarta.org/",
       "status": 200,
-      "seconds": 0.257136
+      "seconds": 0.374396
     },
     {
       "url": "https://stranded.giveabit.io/",
       "status": 200,
-      "seconds": 0.201307
+      "seconds": 0.397535
     },
     {
       "url": "https://tadbuy.giveabit.io/",
       "status": 200,
-      "seconds": 0.243045
+      "seconds": 0.139967
     },
     {
       "url": "https://openstrata.giveabit.io/",
       "status": 200,
-      "seconds": 0.181199
+      "seconds": 0.148006
     },
     {
       "url": "https://hq.giveabit.io/",
       "status": 200,
-      "seconds": 0.255542
+      "seconds": 0.380517
     },
     {
       "url": "https://agents.giveabit.io/",
       "status": 200,
-      "seconds": 0.988357
+      "seconds": 1.238899
     }
   ],
   "redactions": 5,
@@ -89,7 +89,7 @@
     },
     {
       "repo": "kitsboy/katoa",
-      "main": "acfb9249"
+      "main": "d5becfc9"
     },
     {
       "repo": "kitsboy/sherpacarta",
