@@ -1,6 +1,6 @@
 # THE BULLETIN (public) — brief for Otto
 
-**Generated:** 2026-10-16 07:00 UTC+02:00 local · 2026-10-16 05:00:48Z UTC  
+**Generated:** 2026-10-16 07:30 UTC+02:00 local · 2026-10-16 05:30:49Z UTC  
 **Generator:** `otto-brief.py` — read-only against every source  
 **Rule:** every figure carries its source. Nothing is quoted from memory.
 
@@ -22,17 +22,17 @@
 
 | site | status | response |
 |---|---|---|
-| https://giveabit.io/ | 200 | 0.33623s |
-| https://satohash.io/ | 200 | 0.241336s |
-| https://satohash.giveabit.io/ | 200 | 0.430834s |
-| https://motopass.giveabit.io/ | 200 | 0.139887s |
-| https://katoa.org/ | 200 | 0.204654s |
-| https://sherpacarta.org/ | 200 | 0.255215s |
-| https://stranded.giveabit.io/ | 200 | 0.218831s |
-| https://tadbuy.giveabit.io/ | 200 | 0.206441s |
-| https://openstrata.giveabit.io/ | 200 | 0.183638s |
-| https://hq.giveabit.io/ | 200 | 0.174116s |
-| https://agents.giveabit.io/ | 200 | 0.745545s |
+| https://giveabit.io/ | 200 | 0.188229s |
+| https://satohash.io/ | 200 | 0.154674s |
+| https://satohash.giveabit.io/ | 200 | 0.214128s |
+| https://motopass.giveabit.io/ | 200 | 0.360032s |
+| https://katoa.org/ | 200 | 0.139103s |
+| https://sherpacarta.org/ | 200 | 0.144387s |
+| https://stranded.giveabit.io/ | 200 | 0.152112s |
+| https://tadbuy.giveabit.io/ | 200 | 0.191372s |
+| https://openstrata.giveabit.io/ | 200 | 0.188105s |
+| https://hq.giveabit.io/ | 200 | 0.095938s |
+| https://agents.giveabit.io/ | 200 | 1.12553s |
 
 ## 3. Public repositories — `main`
 
@@ -42,7 +42,7 @@
 | kitsboy/stranded | `e53e7e0c` |
 | kitsboy/katoa | `4654ce44` |
 | kitsboy/sherpacarta | `d3cd163a` |
-| kitsboy/motopass | `b5c49476` |
+| kitsboy/motopass | `050db2e8` |
 | kitsboy/tadbuy | `f5f94e74` |
 | kitsboy/openstrata | `1f7f3e73` |
 
