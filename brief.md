@@ -1,6 +1,6 @@
 # THE BULLETIN (public) — brief for Otto
 
-**Generated:** 2026-10-17 00:30 UTC+02:00 local · 2026-10-16 22:30:48Z UTC  
+**Generated:** 2026-10-17 00:38 UTC+02:00 local · 2026-10-16 22:38:52Z UTC  
 **Generator:** `otto-brief.py` — read-only against every source  
 **Rule:** every figure carries its source. Nothing is quoted from memory.
 
@@ -10,35 +10,35 @@
 
 | measure | value | source |
 |---|---|---|
-| stamps total | **497** | https://api.satohash.io/api/stamps |
+| stamps total | **498** | https://api.satohash.io/api/stamps |
 | confirmed | **495** | same |
-| pending | **0** | same |
+| pending | **1** | same |
 | failed | **2** | same |
 | first stamp | 2026-07-20 03:32:54 | same |
-| latest stamp | 2026-10-14 02:53:15 | same |
+| latest stamp | 2026-10-16 22:38:22 | same |
 | deployed API build | `6b84073a9eeb8b90b3214d25abc2f3874c0eca9e` · 5.0.0-ELITE | https://api.satohash.io/health |
 
 ## 2. Site availability (this run)
 
 | site | status | response |
 |---|---|---|
-| https://giveabit.io/ | 200 | 0.180801s |
-| https://satohash.io/ | 200 | 0.156481s |
-| https://satohash.giveabit.io/ | 200 | 0.167642s |
-| https://motopass.giveabit.io/ | 200 | 0.165178s |
-| https://katoa.org/ | 200 | 0.196567s |
-| https://sherpacarta.org/ | 200 | 0.095702s |
-| https://stranded.giveabit.io/ | 200 | 0.127088s |
-| https://tadbuy.giveabit.io/ | 200 | 0.179747s |
-| https://openstrata.giveabit.io/ | 200 | 0.144235s |
-| https://hq.giveabit.io/ | 200 | 0.183104s |
-| https://agents.giveabit.io/ | 200 | 0.946882s |
+| https://giveabit.io/ | 200 | 0.109879s |
+| https://satohash.io/ | 200 | 0.174839s |
+| https://satohash.giveabit.io/ | 200 | 0.119917s |
+| https://motopass.giveabit.io/ | 200 | 0.191801s |
+| https://katoa.org/ | 200 | 0.163775s |
+| https://sherpacarta.org/ | 200 | 0.134339s |
+| https://stranded.giveabit.io/ | 200 | 0.117927s |
+| https://tadbuy.giveabit.io/ | 200 | 0.138817s |
+| https://openstrata.giveabit.io/ | 200 | 0.116348s |
+| https://hq.giveabit.io/ | 200 | 0.109949s |
+| https://agents.giveabit.io/ | 200 | 0.687978s |
 
 ## 3. Public repositories — `main`
 
 | repo | main SHA |
 |---|---|
-| kitsboy/satohash | `2201c70b` |
+| kitsboy/satohash | `fb6b8b62` |
 | kitsboy/stranded | `e53e7e0c` |
 | kitsboy/katoa | `4654ce44` |
 | kitsboy/sherpacarta | `d3cd163a` |
@@ -54,7 +54,7 @@
 
 ## 5. Standing commitments (ours, in public)
 
-- **Public copy audit — old rate-limit copy gone from live; batch stat in source awaits a number call (live API caps batches at 50)** — AWAITING CAM CALL
+- **Premium-tier batch copy — 6 langs still say up to 100 files (en: unlimited); batch stat already live as 50** — AWAITING COPY CALL
 - **P0 hang on /stamp + /verify** — DONE
 - **Standing: free stamping stays free and needs no Lightning; no outreach to officials; /stamp UX is frozen** — STANDING
 

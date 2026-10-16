@@ -1,17 +1,17 @@
 {
-  "generated_at_utc": "2026-10-16 22:30:48Z",
-  "generated_at_local": "2026-10-17 00:30 UTC+02:00",
+  "generated_at_utc": "2026-10-16 22:38:52Z",
+  "generated_at_local": "2026-10-17 00:38 UTC+02:00",
   "generator": "otto-brief.py \u2014 read-only brief generator",
   "satohash": {
     "source": "https://api.satohash.io/api/stamps",
     "ok": true,
-    "total": 497,
-    "fetched": 497,
+    "total": 498,
+    "fetched": 498,
     "confirmed": 495,
-    "pending": 0,
+    "pending": 1,
     "failed": 2,
     "oldest": "2026-07-20 03:32:54",
-    "newest": "2026-10-14 02:53:15",
+    "newest": "2026-10-16 22:38:22",
     "api_build": {
       "source": "https://api.satohash.io/health",
       "ok": true,
@@ -24,64 +24,64 @@
     {
       "url": "https://giveabit.io/",
       "status": 200,
-      "seconds": 0.180801
+      "seconds": 0.109879
     },
     {
       "url": "https://satohash.io/",
       "status": 200,
-      "seconds": 0.156481
+      "seconds": 0.174839
     },
     {
       "url": "https://satohash.giveabit.io/",
       "status": 200,
-      "seconds": 0.167642
+      "seconds": 0.119917
     },
     {
       "url": "https://motopass.giveabit.io/",
       "status": 200,
-      "seconds": 0.165178
+      "seconds": 0.191801
     },
     {
       "url": "https://katoa.org/",
       "status": 200,
-      "seconds": 0.196567
+      "seconds": 0.163775
     },
     {
       "url": "https://sherpacarta.org/",
       "status": 200,
-      "seconds": 0.095702
+      "seconds": 0.134339
     },
     {
       "url": "https://stranded.giveabit.io/",
       "status": 200,
-      "seconds": 0.127088
+      "seconds": 0.117927
     },
     {
       "url": "https://tadbuy.giveabit.io/",
       "status": 200,
-      "seconds": 0.179747
+      "seconds": 0.138817
     },
     {
       "url": "https://openstrata.giveabit.io/",
       "status": 200,
-      "seconds": 0.144235
+      "seconds": 0.116348
     },
     {
       "url": "https://hq.giveabit.io/",
       "status": 200,
-      "seconds": 0.183104
+      "seconds": 0.109949
     },
     {
       "url": "https://agents.giveabit.io/",
       "status": 200,
-      "seconds": 0.946882
+      "seconds": 0.687978
     }
   ],
   "redactions": 5,
   "public_repos": [
     {
       "repo": "kitsboy/satohash",
-      "main": "2201c70b"
+      "main": "fb6b8b62"
     },
     {
       "repo": "kitsboy/stranded",
@@ -119,8 +119,8 @@
   },
   "standing": [
     {
-      "item": "Public copy audit \u2014 old rate-limit copy gone from live; batch stat in source awaits a number call (live API caps batches at 50)",
-      "state": "AWAITING CAM CALL"
+      "item": "Premium-tier batch copy \u2014 6 langs still say up to 100 files (en: unlimited); batch stat already live as 50",
+      "state": "AWAITING COPY CALL"
     },
     {
       "item": "P0 hang on /stamp + /verify",
