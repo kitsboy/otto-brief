@@ -1,6 +1,6 @@
 # THE BULLETIN (public) — brief for Otto
 
-**Generated:** 2026-10-17 05:00 UTC+02:00 local · 2026-10-17 03:00:51Z UTC  
+**Generated:** 2026-10-17 05:20 UTC+02:00 local · 2026-10-17 03:20:33Z UTC  
 **Generator:** `otto-brief.py` — read-only against every source  
 **Rule:** every figure carries its source. Nothing is quoted from memory.
 
@@ -22,23 +22,23 @@
 
 | site | status | response |
 |---|---|---|
-| https://giveabit.io/ | 200 | 0.203945s |
-| https://satohash.io/ | 200 | 0.233944s |
-| https://satohash.giveabit.io/ | 200 | 0.183486s |
-| https://motopass.giveabit.io/ | 200 | 0.230205s |
-| https://katoa.org/ | 200 | 0.245289s |
-| https://sherpacarta.org/ | 200 | 0.243003s |
-| https://stranded.giveabit.io/ | 200 | 0.206556s |
-| https://tadbuy.giveabit.io/ | 200 | 0.286956s |
-| https://openstrata.giveabit.io/ | 200 | 0.261165s |
-| https://hq.giveabit.io/ | 200 | 0.306377s |
-| https://agents.giveabit.io/ | 200 | 0.594847s |
+| https://giveabit.io/ | 200 | 0.099947s |
+| https://satohash.io/ | 200 | 0.093479s |
+| https://satohash.giveabit.io/ | 200 | 0.11429s |
+| https://motopass.giveabit.io/ | 200 | 0.160643s |
+| https://katoa.org/ | 200 | 0.121003s |
+| https://sherpacarta.org/ | 200 | 0.154645s |
+| https://stranded.giveabit.io/ | 200 | 0.09309s |
+| https://tadbuy.giveabit.io/ | 200 | 0.152976s |
+| https://openstrata.giveabit.io/ | 200 | 0.105584s |
+| https://hq.giveabit.io/ | 200 | 0.101083s |
+| https://agents.giveabit.io/ | 200 | 0.945318s |
 
 ## 3. Public repositories — `main`
 
 | repo | main SHA |
 |---|---|
-| kitsboy/satohash | `fb6b8b62` |
+| kitsboy/satohash | `1a6aa945` |
 | kitsboy/stranded | `e53e7e0c` |
 | kitsboy/katoa | `4654ce44` |
 | kitsboy/sherpacarta | `d3cd163a` |
@@ -54,7 +54,7 @@
 
 ## 5. Standing commitments (ours, in public)
 
-- **Premium-tier batch copy — 6 langs still say up to 100 files (en: unlimited); batch stat already live as 50** — AWAITING COPY CALL
+- **Premium-tier batch copy — aligned to 50 in all 6 non-English langs; batch stat live as 50** — DONE
 - **P0 hang on /stamp + /verify** — DONE
 - **Standing: free stamping stays free and needs no Lightning; no outreach to officials; /stamp UX is frozen** — STANDING
 

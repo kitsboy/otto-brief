@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-10-17 03:00:51Z",
-  "generated_at_local": "2026-10-17 05:00 UTC+02:00",
+  "generated_at_utc": "2026-10-17 03:20:33Z",
+  "generated_at_local": "2026-10-17 05:20 UTC+02:00",
   "generator": "otto-brief.py \u2014 read-only brief generator",
   "satohash": {
     "source": "https://api.satohash.io/api/stamps",
@@ -24,64 +24,64 @@
     {
       "url": "https://giveabit.io/",
       "status": 200,
-      "seconds": 0.203945
+      "seconds": 0.099947
     },
     {
       "url": "https://satohash.io/",
       "status": 200,
-      "seconds": 0.233944
+      "seconds": 0.093479
     },
     {
       "url": "https://satohash.giveabit.io/",
       "status": 200,
-      "seconds": 0.183486
+      "seconds": 0.11429
     },
     {
       "url": "https://motopass.giveabit.io/",
       "status": 200,
-      "seconds": 0.230205
+      "seconds": 0.160643
     },
     {
       "url": "https://katoa.org/",
       "status": 200,
-      "seconds": 0.245289
+      "seconds": 0.121003
     },
     {
       "url": "https://sherpacarta.org/",
       "status": 200,
-      "seconds": 0.243003
+      "seconds": 0.154645
     },
     {
       "url": "https://stranded.giveabit.io/",
       "status": 200,
-      "seconds": 0.206556
+      "seconds": 0.09309
     },
     {
       "url": "https://tadbuy.giveabit.io/",
       "status": 200,
-      "seconds": 0.286956
+      "seconds": 0.152976
     },
     {
       "url": "https://openstrata.giveabit.io/",
       "status": 200,
-      "seconds": 0.261165
+      "seconds": 0.105584
     },
     {
       "url": "https://hq.giveabit.io/",
       "status": 200,
-      "seconds": 0.306377
+      "seconds": 0.101083
     },
     {
       "url": "https://agents.giveabit.io/",
       "status": 200,
-      "seconds": 0.594847
+      "seconds": 0.945318
     }
   ],
   "redactions": 5,
   "public_repos": [
     {
       "repo": "kitsboy/satohash",
-      "main": "fb6b8b62"
+      "main": "1a6aa945"
     },
     {
       "repo": "kitsboy/stranded",
@@ -119,8 +119,8 @@
   },
   "standing": [
     {
-      "item": "Premium-tier batch copy \u2014 6 langs still say up to 100 files (en: unlimited); batch stat already live as 50",
-      "state": "AWAITING COPY CALL"
+      "item": "Premium-tier batch copy \u2014 aligned to 50 in all 6 non-English langs; batch stat live as 50",
+      "state": "DONE"
     },
     {
       "item": "P0 hang on /stamp + /verify",
