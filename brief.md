@@ -1,6 +1,6 @@
 # THE BULLETIN (public) — brief for Otto
 
-**Generated:** 2026-10-18 18:30 UTC+02:00 local · 2026-10-18 16:30:48Z UTC  
+**Generated:** 2026-10-18 19:21 UTC+02:00 local · 2026-10-18 17:21:30Z UTC  
 **Generator:** `otto-brief.py` — read-only against every source  
 **Rule:** every figure carries its source. Nothing is quoted from memory.
 
@@ -8,31 +8,23 @@
 
 ## 1. Satohash — live numbers (fetched, not remembered)
 
-| measure | value | source |
-|---|---|---|
-| stamps total | **501** | https://api.satohash.io/api/stamps |
-| confirmed | **499** | same |
-| pending | **0** | same |
-| failed | **2** | same |
-| first stamp | 2026-07-20 03:32:54 | same |
-| latest stamp | 2026-10-17 14:13:06 | same |
-| deployed API build | `6b84073a9eeb8b90b3214d25abc2f3874c0eca9e` · 5.0.0-ELITE | https://api.satohash.io/health |
+**COULD NOT FETCH** — do not quote any satohash number this run.
 
 ## 2. Site availability (this run)
 
 | site | status | response |
 |---|---|---|
-| https://giveabit.io/ | 200 | 0.301047s |
-| https://satohash.io/ | 200 | 0.199462s |
-| https://satohash.giveabit.io/ | 200 | 0.436721s |
-| https://motopass.giveabit.io/ | 200 | 0.293461s |
-| https://katoa.org/ | 200 | 0.223381s |
-| https://sherpacarta.org/ | 200 | 0.177582s |
-| https://stranded.giveabit.io/ | 200 | 0.278817s |
-| https://tadbuy.giveabit.io/ | 200 | 0.184123s |
-| https://openstrata.giveabit.io/ | 200 | 0.248543s |
-| https://hq.giveabit.io/ | 200 | 0.258849s |
-| https://agents.giveabit.io/ | 200 | 1.100666s |
+| https://giveabit.io/ | 200 | 0.203302s |
+| https://satohash.io/ | 200 | 0.201885s |
+| https://satohash.giveabit.io/ | 200 | 0.271434s |
+| https://motopass.giveabit.io/ | 200 | 0.288503s |
+| https://katoa.org/ | 200 | 0.635077s |
+| https://sherpacarta.org/ | 200 | 0.316632s |
+| https://stranded.giveabit.io/ | 200 | 0.205477s |
+| https://tadbuy.giveabit.io/ | 200 | 0.274909s |
+| https://openstrata.giveabit.io/ | 200 | 0.30054s |
+| https://hq.giveabit.io/ | 200 | 0.176929s |
+| https://agents.giveabit.io/ | 200 | 1.112069s |
 
 ## 3. Public repositories — `main`
 
