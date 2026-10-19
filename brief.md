@@ -1,6 +1,6 @@
 # THE BULLETIN (public) — brief for Otto
 
-**Generated:** 2026-10-19 22:00 UTC+02:00 local · 2026-10-19 20:00:21Z UTC  
+**Generated:** 2026-10-19 22:30 UTC+02:00 local · 2026-10-19 20:30:21Z UTC  
 **Generator:** `otto-brief.py` — read-only against every source  
 **Rule:** every figure carries its source. Nothing is quoted from memory.
 
@@ -8,23 +8,31 @@
 
 ## 1. Satohash — live numbers (fetched, not remembered)
 
-**COULD NOT FETCH** — do not quote any satohash number this run.
+| measure | value | source |
+|---|---|---|
+| stamps total | **501** | https://api.satohash.io/api/stamps |
+| confirmed | **499** | same |
+| pending | **0** | same |
+| failed | **2** | same |
+| first stamp | 2026-07-20 03:32:54 | same |
+| latest stamp | 2026-10-17 14:13:06 | same |
+| deployed API build | `6b84073a9eeb8b90b3214d25abc2f3874c0eca9e` · 5.0.0-ELITE | https://api.satohash.io/health |
 
 ## 2. Site availability (this run)
 
 | site | status | response |
 |---|---|---|
-| https://giveabit.io/ | 200 | 0.6852s |
-| https://satohash.io/ | 200 | 0.309628s |
-| https://satohash.giveabit.io/ | 200 | 0.296156s |
-| https://motopass.giveabit.io/ | 200 | 0.22031s |
-| https://katoa.org/ | 200 | 0.271893s |
-| https://sherpacarta.org/ | 200 | 0.165327s |
-| https://stranded.giveabit.io/ | 200 | 0.142996s |
-| https://tadbuy.giveabit.io/ | 200 | 0.319045s |
-| https://openstrata.giveabit.io/ | 200 | 0.185856s |
-| https://hq.giveabit.io/ | 200 | 0.194292s |
-| https://agents.giveabit.io/ | 200 | 0.808846s |
+| https://giveabit.io/ | 200 | 0.189804s |
+| https://satohash.io/ | 200 | 0.171238s |
+| https://satohash.giveabit.io/ | 200 | 0.288547s |
+| https://motopass.giveabit.io/ | 200 | 0.279274s |
+| https://katoa.org/ | 200 | 0.323951s |
+| https://sherpacarta.org/ | 200 | 0.15766s |
+| https://stranded.giveabit.io/ | 200 | 0.134216s |
+| https://tadbuy.giveabit.io/ | 200 | 0.175366s |
+| https://openstrata.giveabit.io/ | 200 | 0.144744s |
+| https://hq.giveabit.io/ | 200 | 0.177005s |
+| https://agents.giveabit.io/ | 200 | 1.346097s |
 
 ## 3. Public repositories — `main`
 
