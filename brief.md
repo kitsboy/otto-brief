@@ -1,6 +1,6 @@
 # THE BULLETIN (public) — brief for Otto
 
-**Generated:** 2026-10-19 16:00 UTC+02:00 local · 2026-10-19 14:00:23Z UTC  
+**Generated:** 2026-10-19 16:30 UTC+02:00 local · 2026-10-19 14:30:20Z UTC  
 **Generator:** `otto-brief.py` — read-only against every source  
 **Rule:** every figure carries its source. Nothing is quoted from memory.
 
@@ -14,29 +14,29 @@
 
 | site | status | response |
 |---|---|---|
-| https://giveabit.io/ | 200 | 0.307527s |
-| https://satohash.io/ | 200 | 0.477427s |
-| https://satohash.giveabit.io/ | 200 | 0.669414s |
-| https://motopass.giveabit.io/ | 200 | 0.467817s |
-| https://katoa.org/ | 200 | 0.447309s |
-| https://sherpacarta.org/ | 200 | 0.474271s |
-| https://stranded.giveabit.io/ | 200 | 0.405007s |
-| https://tadbuy.giveabit.io/ | 200 | 0.369653s |
-| https://openstrata.giveabit.io/ | 200 | 0.3657s |
-| https://hq.giveabit.io/ | 200 | 0.263035s |
-| https://agents.giveabit.io/ | 200 | 0.923669s |
+| https://giveabit.io/ | 200 | 0.212259s |
+| https://satohash.io/ | 200 | 0.235773s |
+| https://satohash.giveabit.io/ | 200 | 0.349967s |
+| https://motopass.giveabit.io/ | 200 | 0.357279s |
+| https://katoa.org/ | 200 | 0.146748s |
+| https://sherpacarta.org/ | 200 | 0.168095s |
+| https://stranded.giveabit.io/ | 200 | 0.172722s |
+| https://tadbuy.giveabit.io/ | 200 | 0.427137s |
+| https://openstrata.giveabit.io/ | 200 | 0.24115s |
+| https://hq.giveabit.io/ | 200 | 0.170807s |
+| https://agents.giveabit.io/ | 200 | 0.668195s |
 
 ## 3. Public repositories — `main`
 
 | repo | main SHA |
 |---|---|
-| kitsboy/satohash | `1a6aa945` |
-| kitsboy/stranded | `5802aa8f` |
-| kitsboy/katoa | `9a8d9790` |
-| kitsboy/sherpacarta | `5f1595ea` |
-| kitsboy/motopass | `0035d0bd` |
-| kitsboy/tadbuy | `1ae51967` |
-| kitsboy/openstrata | `45353cf0` |
+| kitsboy/satohash | `ee643498` |
+| kitsboy/stranded | `4e7ca932` |
+| kitsboy/katoa | `a416ef12` |
+| kitsboy/sherpacarta | `56d51ce6` |
+| kitsboy/motopass | `86ed4b3a` |
+| kitsboy/tadbuy | `f5600ed3` |
+| kitsboy/openstrata | `eb57a543` |
 
 ## 4. Progress (aggregate — no internal detail)
 
