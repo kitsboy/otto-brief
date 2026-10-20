@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-10-20 18:00:27Z",
-  "generated_at_local": "2026-10-20 20:00 UTC+02:00",
+  "generated_at_utc": "2026-10-20 18:30:19Z",
+  "generated_at_local": "2026-10-20 20:30 UTC+02:00",
   "generator": "otto-brief.py \u2014 read-only brief generator",
   "satohash": {
     "source": "https://api.satohash.io/api/stamps",
@@ -24,57 +24,57 @@
     {
       "url": "https://giveabit.io/",
       "status": 200,
-      "seconds": 0.262153
+      "seconds": 0.363063
     },
     {
       "url": "https://satohash.io/",
       "status": 200,
-      "seconds": 0.354446
+      "seconds": 0.530887
     },
     {
       "url": "https://satohash.giveabit.io/",
       "status": 200,
-      "seconds": 0.640944
+      "seconds": 0.404801
     },
     {
       "url": "https://motopass.giveabit.io/",
       "status": 200,
-      "seconds": 0.546349
+      "seconds": 0.434245
     },
     {
       "url": "https://katoa.org/",
       "status": 200,
-      "seconds": 0.322815
+      "seconds": 0.448148
     },
     {
       "url": "https://sherpacarta.org/",
       "status": 200,
-      "seconds": 0.220456
+      "seconds": 0.361435
     },
     {
       "url": "https://stranded.giveabit.io/",
       "status": 200,
-      "seconds": 0.30456
+      "seconds": 0.409016
     },
     {
       "url": "https://tadbuy.giveabit.io/",
       "status": 200,
-      "seconds": 0.512612
+      "seconds": 0.500884
     },
     {
       "url": "https://openstrata.giveabit.io/",
       "status": 200,
-      "seconds": 0.210228
+      "seconds": 0.578865
     },
     {
       "url": "https://hq.giveabit.io/",
       "status": 200,
-      "seconds": 0.312145
+      "seconds": 0.396157
     },
     {
       "url": "https://agents.giveabit.io/",
       "status": 200,
-      "seconds": 1.185903
+      "seconds": 1.174347
     }
   ],
   "redactions": 5,
@@ -93,7 +93,7 @@
     },
     {
       "repo": "kitsboy/sherpacarta",
-      "main": "56d51ce6"
+      "main": "ed9be121"
     },
     {
       "repo": "kitsboy/motopass",
