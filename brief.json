@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-10-21 00:30:23Z",
-  "generated_at_local": "2026-10-21 02:30 UTC+02:00",
+  "generated_at_utc": "2026-10-21 01:00:23Z",
+  "generated_at_local": "2026-10-21 03:00 UTC+02:00",
   "generator": "otto-brief.py \u2014 read-only brief generator",
   "satohash": {
     "source": "https://api.satohash.io/api/stamps",
@@ -24,57 +24,57 @@
     {
       "url": "https://giveabit.io/",
       "status": 200,
-      "seconds": 0.141066
+      "seconds": 0.137116
     },
     {
       "url": "https://satohash.io/",
       "status": 200,
-      "seconds": 0.118989
+      "seconds": 0.172226
     },
     {
       "url": "https://satohash.giveabit.io/",
       "status": 200,
-      "seconds": 0.127554
+      "seconds": 0.152223
     },
     {
       "url": "https://motopass.giveabit.io/",
       "status": 200,
-      "seconds": 0.122668
+      "seconds": 0.188961
     },
     {
       "url": "https://katoa.org/",
       "status": 200,
-      "seconds": 0.172556
+      "seconds": 0.246704
     },
     {
       "url": "https://sherpacarta.org/",
       "status": 200,
-      "seconds": 0.107066
+      "seconds": 0.175156
     },
     {
       "url": "https://stranded.giveabit.io/",
       "status": 200,
-      "seconds": 0.10708
+      "seconds": 0.172338
     },
     {
       "url": "https://tadbuy.giveabit.io/",
       "status": 200,
-      "seconds": 0.135738
+      "seconds": 0.146614
     },
     {
       "url": "https://openstrata.giveabit.io/",
       "status": 200,
-      "seconds": 0.135636
+      "seconds": 0.191181
     },
     {
       "url": "https://hq.giveabit.io/",
       "status": 200,
-      "seconds": 0.207106
+      "seconds": 0.534577
     },
     {
       "url": "https://agents.giveabit.io/",
       "status": 200,
-      "seconds": 0.819239
+      "seconds": 0.892927
     }
   ],
   "redactions": 5,
@@ -101,7 +101,7 @@
     },
     {
       "repo": "kitsboy/tadbuy",
-      "main": "f5600ed3"
+      "main": "7ef3d734"
     },
     {
       "repo": "kitsboy/openstrata",
