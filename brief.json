@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-10-22 12:30:21Z",
-  "generated_at_local": "2026-10-22 14:30 UTC+02:00",
+  "generated_at_utc": "2026-10-22 13:00:23Z",
+  "generated_at_local": "2026-10-22 15:00 UTC+02:00",
   "generator": "otto-brief.py \u2014 read-only brief generator",
   "satohash": {
     "source": "https://api.satohash.io/api/stamps",
@@ -24,57 +24,57 @@
     {
       "url": "https://giveabit.io/",
       "status": 200,
-      "seconds": 0.115817
+      "seconds": 0.242003
     },
     {
       "url": "https://satohash.io/",
       "status": 200,
-      "seconds": 0.249785
+      "seconds": 0.383643
     },
     {
       "url": "https://satohash.giveabit.io/",
       "status": 200,
-      "seconds": 0.180881
+      "seconds": 0.269986
     },
     {
       "url": "https://motopass.giveabit.io/",
       "status": 200,
-      "seconds": 0.170276
+      "seconds": 0.214087
     },
     {
       "url": "https://katoa.org/",
       "status": 200,
-      "seconds": 0.142671
+      "seconds": 0.352007
     },
     {
       "url": "https://sherpacarta.org/",
       "status": 200,
-      "seconds": 0.120619
+      "seconds": 0.361353
     },
     {
       "url": "https://stranded.giveabit.io/",
       "status": 200,
-      "seconds": 0.18112
+      "seconds": 0.294715
     },
     {
       "url": "https://tadbuy.giveabit.io/",
       "status": 200,
-      "seconds": 0.235447
+      "seconds": 0.253312
     },
     {
       "url": "https://openstrata.giveabit.io/",
       "status": 200,
-      "seconds": 0.139358
+      "seconds": 0.273404
     },
     {
       "url": "https://hq.giveabit.io/",
       "status": 200,
-      "seconds": 0.146646
+      "seconds": 0.237036
     },
     {
       "url": "https://agents.giveabit.io/",
       "status": 200,
-      "seconds": 0.909325
+      "seconds": 0.734472
     }
   ],
   "redactions": 5,
