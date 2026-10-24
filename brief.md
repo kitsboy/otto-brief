@@ -1,6 +1,6 @@
 # THE BULLETIN (public) — brief for Otto
 
-**Generated:** 2026-10-24 04:00 UTC+02:00 local · 2026-10-24 02:00:23Z UTC  
+**Generated:** 2026-10-24 04:30 UTC+02:00 local · 2026-10-24 02:30:20Z UTC  
 **Generator:** `otto-brief.py` — read-only against every source  
 **Rule:** every figure carries its source. Nothing is quoted from memory.
 
@@ -22,24 +22,24 @@
 
 | site | status | response |
 |---|---|---|
-| https://giveabit.io/ | 200 | 0.2471s |
-| https://satohash.io/ | 200 | 0.270972s |
-| https://satohash.giveabit.io/ | 200 | 0.188072s |
-| https://motopass.giveabit.io/ | 200 | 0.259285s |
-| https://katoa.org/ | 200 | 0.169523s |
-| https://sherpacarta.org/ | 200 | 0.139299s |
-| https://stranded.giveabit.io/ | 200 | 0.153163s |
-| https://tadbuy.giveabit.io/ | 200 | 0.20384s |
-| https://openstrata.giveabit.io/ | 200 | 0.186413s |
-| https://hq.giveabit.io/ | 200 | 0.183081s |
-| https://agents.giveabit.io/ | 200 | 0.630907s |
+| https://giveabit.io/ | 200 | 0.171262s |
+| https://satohash.io/ | 200 | 0.143772s |
+| https://satohash.giveabit.io/ | 200 | 0.127731s |
+| https://motopass.giveabit.io/ | 200 | 0.284829s |
+| https://katoa.org/ | 200 | 0.210079s |
+| https://sherpacarta.org/ | 200 | 0.17736s |
+| https://stranded.giveabit.io/ | 200 | 0.152181s |
+| https://tadbuy.giveabit.io/ | 200 | 0.146407s |
+| https://openstrata.giveabit.io/ | 200 | 0.125644s |
+| https://hq.giveabit.io/ | 200 | 0.238978s |
+| https://agents.giveabit.io/ | 200 | 0.536259s |
 
 ## 3. Public repositories — `main`
 
 | repo | main SHA |
 |---|---|
 | kitsboy/satohash | `65b0dcb2` |
-| kitsboy/stranded | `8a10e57e` |
+| kitsboy/stranded | `55893712` |
 | kitsboy/katoa | `a416ef12` |
 | kitsboy/sherpacarta | `54bd5203` |
 | kitsboy/motopass | `41e627f7` |
@@ -49,7 +49,7 @@
 ## 4. Progress (aggregate — no internal detail)
 
 - Items shipped in the last 24 hours: **4**
-- Work status: archived 613 · blocked 1 · done 5 · ready 10
+- Work status: archived 614 · blocked 11 · done 4
 - Item-level detail is internal and is not published.
 
 ## 5. Standing commitments (ours, in public)
