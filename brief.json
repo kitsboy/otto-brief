@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-10-24 05:00:23Z",
-  "generated_at_local": "2026-10-24 07:00 UTC+02:00",
+  "generated_at_utc": "2026-10-24 05:30:21Z",
+  "generated_at_local": "2026-10-24 07:30 UTC+02:00",
   "generator": "otto-brief.py \u2014 read-only brief generator",
   "satohash": {
     "source": "https://api.satohash.io/api/stamps",
@@ -24,57 +24,57 @@
     {
       "url": "https://giveabit.io/",
       "status": 200,
-      "seconds": 0.184447
+      "seconds": 0.181282
     },
     {
       "url": "https://satohash.io/",
       "status": 200,
-      "seconds": 0.19385
+      "seconds": 0.154699
     },
     {
       "url": "https://satohash.giveabit.io/",
       "status": 200,
-      "seconds": 0.188048
+      "seconds": 0.178868
     },
     {
       "url": "https://motopass.giveabit.io/",
       "status": 200,
-      "seconds": 0.199833
+      "seconds": 0.155343
     },
     {
       "url": "https://katoa.org/",
       "status": 200,
-      "seconds": 0.206718
+      "seconds": 0.211842
     },
     {
       "url": "https://sherpacarta.org/",
       "status": 200,
-      "seconds": 0.145724
+      "seconds": 0.124667
     },
     {
       "url": "https://stranded.giveabit.io/",
       "status": 200,
-      "seconds": 0.132204
+      "seconds": 0.143212
     },
     {
       "url": "https://tadbuy.giveabit.io/",
       "status": 200,
-      "seconds": 0.215755
+      "seconds": 0.130894
     },
     {
       "url": "https://openstrata.giveabit.io/",
       "status": 200,
-      "seconds": 0.142483
+      "seconds": 0.146252
     },
     {
       "url": "https://hq.giveabit.io/",
       "status": 200,
-      "seconds": 0.164899
+      "seconds": 0.14655
     },
     {
       "url": "https://agents.giveabit.io/",
       "status": 200,
-      "seconds": 0.694979
+      "seconds": 0.844416
     }
   ],
   "redactions": 1,
@@ -89,7 +89,7 @@
     },
     {
       "repo": "kitsboy/katoa",
-      "main": "a416ef12"
+      "main": "42e04d50"
     },
     {
       "repo": "kitsboy/sherpacarta",
@@ -97,7 +97,7 @@
     },
     {
       "repo": "kitsboy/motopass",
-      "main": "41e627f7"
+      "main": "7c401889"
     },
     {
       "repo": "kitsboy/tadbuy",
