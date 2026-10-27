@@ -1,6 +1,6 @@
 # THE BULLETIN (public) — brief for Otto
 
-**Generated:** 2026-10-27 02:00 UTC+02:00 local · 2026-10-27 00:00:50Z UTC  
+**Generated:** 2026-10-27 02:30 UTC+02:00 local · 2026-10-27 00:30:10Z UTC  
 **Generator:** `otto-brief.py` — read-only against every source  
 **Rule:** every figure carries its source. Nothing is quoted from memory.
 
@@ -11,8 +11,8 @@
 | measure | value | source |
 |---|---|---|
 | stamps total | **505** | https://api.satohash.io/api/stamps |
-| confirmed | **502** | same |
-| pending | **1** | same |
+| confirmed | **503** | same |
+| pending | **0** | same |
 | failed | **2** | same |
 | first stamp | 2026-07-20 03:32:54 | same |
 | latest stamp | 2026-10-26 22:59:39 | same |
@@ -22,17 +22,17 @@
 
 | site | status | response |
 |---|---|---|
-| https://giveabit.io/ | 200 | 0.123309s |
-| https://satohash.io/ | 200 | 0.150841s |
-| https://satohash.giveabit.io/ | 200 | 0.239327s |
-| https://motopass.giveabit.io/ | 200 | 0.397291s |
-| https://katoa.org/ | 200 | 0.164575s |
-| https://sherpacarta.org/ | 200 | 0.218347s |
-| https://stranded.giveabit.io/ | 200 | 0.203606s |
-| https://tadbuy.giveabit.io/ | 200 | 0.233237s |
-| https://openstrata.giveabit.io/ | 200 | 0.258456s |
-| https://hq.giveabit.io/ | 200 | 0.24575s |
-| https://agents.giveabit.io/ | 200 | 0.478616s |
+| https://giveabit.io/ | 200 | 0.360694s |
+| https://satohash.io/ | 200 | 0.374273s |
+| https://satohash.giveabit.io/ | 200 | 0.365774s |
+| https://motopass.giveabit.io/ | 200 | 0.372012s |
+| https://katoa.org/ | 200 | 0.43707s |
+| https://sherpacarta.org/ | 200 | 0.296105s |
+| https://stranded.giveabit.io/ | 200 | 0.306365s |
+| https://tadbuy.giveabit.io/ | 200 | 0.332895s |
+| https://openstrata.giveabit.io/ | 200 | 0.334618s |
+| https://hq.giveabit.io/ | 200 | 0.308636s |
+| https://agents.giveabit.io/ | 200 | 0.935543s |
 
 ## 3. Public repositories — `main`
 
@@ -44,7 +44,7 @@
 | kitsboy/sherpacarta | `538ab529` |
 | kitsboy/motopass | `c620e384` |
 | kitsboy/tadbuy | `5e983aa2` |
-| kitsboy/openstrata | `dbce9db6` |
+| kitsboy/openstrata | `e5c36720` |
 
 ## 4. Progress (aggregate — no internal detail)
 

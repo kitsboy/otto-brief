@@ -1,14 +1,14 @@
 {
-  "generated_at_utc": "2026-10-27 00:00:50Z",
-  "generated_at_local": "2026-10-27 02:00 UTC+02:00",
+  "generated_at_utc": "2026-10-27 00:30:10Z",
+  "generated_at_local": "2026-10-27 02:30 UTC+02:00",
   "generator": "otto-brief.py \u2014 read-only brief generator",
   "satohash": {
     "source": "https://api.satohash.io/api/stamps",
     "ok": true,
     "total": 505,
     "fetched": 505,
-    "confirmed": 502,
-    "pending": 1,
+    "confirmed": 503,
+    "pending": 0,
     "failed": 2,
     "oldest": "2026-07-20 03:32:54",
     "newest": "2026-10-26 22:59:39",
@@ -24,57 +24,57 @@
     {
       "url": "https://giveabit.io/",
       "status": 200,
-      "seconds": 0.123309
+      "seconds": 0.360694
     },
     {
       "url": "https://satohash.io/",
       "status": 200,
-      "seconds": 0.150841
+      "seconds": 0.374273
     },
     {
       "url": "https://satohash.giveabit.io/",
       "status": 200,
-      "seconds": 0.239327
+      "seconds": 0.365774
     },
     {
       "url": "https://motopass.giveabit.io/",
       "status": 200,
-      "seconds": 0.397291
+      "seconds": 0.372012
     },
     {
       "url": "https://katoa.org/",
       "status": 200,
-      "seconds": 0.164575
+      "seconds": 0.43707
     },
     {
       "url": "https://sherpacarta.org/",
       "status": 200,
-      "seconds": 0.218347
+      "seconds": 0.296105
     },
     {
       "url": "https://stranded.giveabit.io/",
       "status": 200,
-      "seconds": 0.203606
+      "seconds": 0.306365
     },
     {
       "url": "https://tadbuy.giveabit.io/",
       "status": 200,
-      "seconds": 0.233237
+      "seconds": 0.332895
     },
     {
       "url": "https://openstrata.giveabit.io/",
       "status": 200,
-      "seconds": 0.258456
+      "seconds": 0.334618
     },
     {
       "url": "https://hq.giveabit.io/",
       "status": 200,
-      "seconds": 0.24575
+      "seconds": 0.308636
     },
     {
       "url": "https://agents.giveabit.io/",
       "status": 200,
-      "seconds": 0.478616
+      "seconds": 0.935543
     }
   ],
   "redactions": 1,
@@ -105,7 +105,7 @@
     },
     {
       "repo": "kitsboy/openstrata",
-      "main": "dbce9db6"
+      "main": "e5c36720"
     }
   ],
   "progress": {
