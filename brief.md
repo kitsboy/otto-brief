@@ -1,6 +1,6 @@
 # THE BULLETIN (public) — brief for Otto
 
-**Generated:** 2026-10-27 05:00 UTC+02:00 local · 2026-10-27 03:00:13Z UTC  
+**Generated:** 2026-10-27 05:30 UTC+02:00 local · 2026-10-27 03:30:11Z UTC  
 **Generator:** `otto-brief.py` — read-only against every source  
 **Rule:** every figure carries its source. Nothing is quoted from memory.
 
@@ -22,17 +22,17 @@
 
 | site | status | response |
 |---|---|---|
-| https://giveabit.io/ | 200 | 0.19331s |
-| https://satohash.io/ | 200 | 0.139492s |
-| https://satohash.giveabit.io/ | 200 | 0.18076s |
-| https://motopass.giveabit.io/ | 200 | 0.17215s |
-| https://katoa.org/ | 200 | 0.19282s |
-| https://sherpacarta.org/ | 200 | 0.157966s |
-| https://stranded.giveabit.io/ | 200 | 0.152686s |
-| https://tadbuy.giveabit.io/ | 200 | 0.391336s |
-| https://openstrata.giveabit.io/ | 200 | 0.103099s |
-| https://hq.giveabit.io/ | 200 | 0.130693s |
-| https://agents.giveabit.io/ | 200 | 0.65406s |
+| https://giveabit.io/ | 200 | 0.265711s |
+| https://satohash.io/ | 200 | 0.226061s |
+| https://satohash.giveabit.io/ | 200 | 0.1993s |
+| https://motopass.giveabit.io/ | 200 | 0.156501s |
+| https://katoa.org/ | 200 | 0.147289s |
+| https://sherpacarta.org/ | 200 | 0.149698s |
+| https://stranded.giveabit.io/ | 200 | 0.121002s |
+| https://tadbuy.giveabit.io/ | 200 | 0.129551s |
+| https://openstrata.giveabit.io/ | 200 | 0.120199s |
+| https://hq.giveabit.io/ | 200 | 0.098626s |
+| https://agents.giveabit.io/ | 200 | 0.495838s |
 
 ## 3. Public repositories — `main`
 
@@ -41,15 +41,15 @@
 | kitsboy/satohash | `a68c607a` |
 | kitsboy/stranded | `7711f4ff` |
 | kitsboy/katoa | `e116dae6` |
-| kitsboy/sherpacarta | `538ab529` |
+| kitsboy/sherpacarta | `d3e94bb7` |
 | kitsboy/motopass | `c620e384` |
-| kitsboy/tadbuy | `5e983aa2` |
+| kitsboy/tadbuy | `502ff683` |
 | kitsboy/openstrata | `e5c36720` |
 
 ## 4. Progress (aggregate — no internal detail)
 
 - Items shipped in the last 24 hours: **1**
-- Work status: archived 622 · blocked 12 · done 12
+- Work status: archived 622 · blocked 12 · done 13
 - Item-level detail is internal and is not published.
 
 ## 5. Standing commitments (ours, in public)
