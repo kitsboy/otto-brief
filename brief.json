@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-10-30 03:00:35Z",
-  "generated_at_local": "2026-10-30 05:00 UTC+02:00",
+  "generated_at_utc": "2026-10-30 03:30:33Z",
+  "generated_at_local": "2026-10-30 05:30 UTC+02:00",
   "generator": "otto-brief.py \u2014 read-only brief generator",
   "satohash": {
     "source": "https://api.satohash.io/api/stamps",
@@ -24,57 +24,57 @@
     {
       "url": "https://giveabit.io/",
       "status": 200,
-      "seconds": 0.211218
+      "seconds": 0.190043
     },
     {
       "url": "https://satohash.io/",
       "status": 200,
-      "seconds": 0.233068
+      "seconds": 0.285683
     },
     {
       "url": "https://satohash.giveabit.io/",
       "status": 200,
-      "seconds": 0.243783
+      "seconds": 0.175451
     },
     {
       "url": "https://motopass.giveabit.io/",
       "status": 200,
-      "seconds": 0.234458
+      "seconds": 0.1691
     },
     {
       "url": "https://katoa.org/",
       "status": 200,
-      "seconds": 0.27504
+      "seconds": 0.219462
     },
     {
       "url": "https://sherpacarta.org/",
       "status": 200,
-      "seconds": 0.202951
+      "seconds": 0.208954
     },
     {
       "url": "https://stranded.giveabit.io/",
       "status": 200,
-      "seconds": 0.197149
+      "seconds": 0.166227
     },
     {
       "url": "https://tadbuy.giveabit.io/",
       "status": 200,
-      "seconds": 0.19951
+      "seconds": 0.176214
     },
     {
       "url": "https://openstrata.giveabit.io/",
       "status": 200,
-      "seconds": 0.172889
+      "seconds": 0.166671
     },
     {
       "url": "https://hq.giveabit.io/",
       "status": 200,
-      "seconds": 0.120328
+      "seconds": 0.102853
     },
     {
       "url": "https://agents.giveabit.io/",
       "status": 200,
-      "seconds": 0.940988
+      "seconds": 1.002065
     }
   ],
   "redactions": 2,
@@ -105,15 +105,15 @@
     },
     {
       "repo": "kitsboy/openstrata",
-      "main": "c5c80bc8"
+      "main": "3136e580"
     }
   ],
   "progress": {
-    "done_24h": 0,
+    "done_24h": 1,
     "counts": {
       "archived": 622,
-      "blocked": 16,
-      "done": 16,
+      "blocked": 15,
+      "done": 17,
       "todo": 1
     }
   },
