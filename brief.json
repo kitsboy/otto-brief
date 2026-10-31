@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-10-31 14:30:38Z",
-  "generated_at_local": "2026-10-31 16:30 UTC+02:00",
+  "generated_at_utc": "2026-10-31 15:00:33Z",
+  "generated_at_local": "2026-10-31 17:00 UTC+02:00",
   "generator": "otto-brief.py \u2014 read-only brief generator",
   "satohash": {
     "source": "https://api.satohash.io/api/stamps",
@@ -24,57 +24,57 @@
     {
       "url": "https://giveabit.io/",
       "status": 200,
-      "seconds": 0.257262
+      "seconds": 0.274293
     },
     {
       "url": "https://satohash.io/",
       "status": 200,
-      "seconds": 0.201763
+      "seconds": 0.302666
     },
     {
       "url": "https://satohash.giveabit.io/",
       "status": 200,
-      "seconds": 0.196589
+      "seconds": 0.315352
     },
     {
       "url": "https://motopass.giveabit.io/",
       "status": 200,
-      "seconds": 0.421404
+      "seconds": 0.292795
     },
     {
       "url": "https://katoa.org/",
       "status": 200,
-      "seconds": 0.240686
+      "seconds": 0.233956
     },
     {
       "url": "https://sherpacarta.org/",
       "status": 200,
-      "seconds": 0.207108
+      "seconds": 0.203289
     },
     {
       "url": "https://stranded.giveabit.io/",
       "status": 200,
-      "seconds": 0.223796
+      "seconds": 0.196533
     },
     {
       "url": "https://tadbuy.giveabit.io/",
       "status": 200,
-      "seconds": 0.349107
+      "seconds": 0.201357
     },
     {
       "url": "https://openstrata.giveabit.io/",
       "status": 200,
-      "seconds": 0.177083
+      "seconds": 0.173998
     },
     {
       "url": "https://hq.giveabit.io/",
       "status": 200,
-      "seconds": 0.140923
+      "seconds": 0.155296
     },
     {
       "url": "https://agents.giveabit.io/",
       "status": 200,
-      "seconds": 0.645458
+      "seconds": 0.641564
     }
   ],
   "redactions": 4,
@@ -109,12 +109,12 @@
     }
   ],
   "progress": {
-    "done_24h": 14,
+    "done_24h": 15,
     "counts": {
       "archived": 625,
-      "blocked": 15,
-      "done": 28,
-      "running": 2,
+      "blocked": 16,
+      "done": 29,
+      "running": 1,
       "todo": 1
     }
   },
