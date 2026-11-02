@@ -1,6 +1,6 @@
 # THE BULLETIN (public) — brief for Otto
 
-**Generated:** 2026-11-02 17:00 UTC+02:00 local · 2026-11-02 15:00:45Z UTC  
+**Generated:** 2026-11-02 17:30 UTC+02:00 local · 2026-11-02 15:30:45Z UTC  
 **Generator:** `otto-brief.py` — read-only against every source  
 **Rule:** every figure carries its source. Nothing is quoted from memory.
 
@@ -22,17 +22,17 @@
 
 | site | status | response |
 |---|---|---|
-| https://giveabit.io/ | 200 | 0.384766s |
-| https://satohash.io/ | 200 | 0.303358s |
-| https://satohash.giveabit.io/ | 200 | 0.218905s |
-| https://motopass.giveabit.io/ | 200 | 0.240672s |
-| https://katoa.org/ | 200 | 0.345495s |
-| https://sherpacarta.org/ | 200 | 0.288851s |
-| https://stranded.giveabit.io/ | 200 | 0.26253s |
-| https://tadbuy.giveabit.io/ | 200 | 0.703092s |
-| https://openstrata.giveabit.io/ | 200 | 0.31895s |
-| https://hq.giveabit.io/ | 200 | 0.538113s |
-| https://agents.giveabit.io/ | 200 | 0.841591s |
+| https://giveabit.io/ | 200 | 0.25576s |
+| https://satohash.io/ | 200 | 0.280187s |
+| https://satohash.giveabit.io/ | 200 | 0.264947s |
+| https://motopass.giveabit.io/ | 200 | 0.307101s |
+| https://katoa.org/ | 200 | 0.51428s |
+| https://sherpacarta.org/ | 200 | 0.485464s |
+| https://stranded.giveabit.io/ | 200 | 0.195895s |
+| https://tadbuy.giveabit.io/ | 200 | 0.44516s |
+| https://openstrata.giveabit.io/ | 200 | 0.315083s |
+| https://hq.giveabit.io/ | 200 | 0.298361s |
+| https://agents.giveabit.io/ | 200 | 0.710084s |
 
 ## 3. Public repositories — `main`
 
@@ -42,13 +42,13 @@
 | kitsboy/stranded | `3013eb0b` |
 | kitsboy/katoa | `9c11c529` |
 | kitsboy/sherpacarta | `d3e94bb7` |
-| kitsboy/motopass | `eb3a4059` |
+| kitsboy/motopass | `f9d186f6` |
 | kitsboy/tadbuy | `502ff683` |
 | kitsboy/openstrata | `0419c507` |
 
 ## 4. Progress (aggregate — no internal detail)
 
-- Items shipped in the last 24 hours: **2**
+- Items shipped in the last 24 hours: **1**
 - Work status: archived 634 · blocked 17 · done 25 · todo 1
 - Item-level detail is internal and is not published.
 
