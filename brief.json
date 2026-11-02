@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-11-02 03:00:44Z",
-  "generated_at_local": "2026-11-02 05:00 UTC+02:00",
+  "generated_at_utc": "2026-11-02 03:30:55Z",
+  "generated_at_local": "2026-11-02 05:30 UTC+02:00",
   "generator": "otto-brief.py \u2014 read-only brief generator",
   "satohash": {
     "source": "https://api.satohash.io/api/stamps",
@@ -24,57 +24,57 @@
     {
       "url": "https://giveabit.io/",
       "status": 200,
-      "seconds": 0.381377
+      "seconds": 0.22696
     },
     {
       "url": "https://satohash.io/",
       "status": 200,
-      "seconds": 0.240848
+      "seconds": 0.252755
     },
     {
       "url": "https://satohash.giveabit.io/",
       "status": 200,
-      "seconds": 0.313088
+      "seconds": 0.337282
     },
     {
       "url": "https://motopass.giveabit.io/",
       "status": 200,
-      "seconds": 0.252658
+      "seconds": 0.296995
     },
     {
       "url": "https://katoa.org/",
       "status": 200,
-      "seconds": 0.160717
+      "seconds": 0.316395
     },
     {
       "url": "https://sherpacarta.org/",
       "status": 200,
-      "seconds": 0.162882
+      "seconds": 0.360423
     },
     {
       "url": "https://stranded.giveabit.io/",
       "status": 200,
-      "seconds": 0.208084
+      "seconds": 0.441724
     },
     {
       "url": "https://tadbuy.giveabit.io/",
       "status": 200,
-      "seconds": 0.316199
+      "seconds": 0.357675
     },
     {
       "url": "https://openstrata.giveabit.io/",
       "status": 200,
-      "seconds": 0.311679
+      "seconds": 0.222693
     },
     {
       "url": "https://hq.giveabit.io/",
       "status": 200,
-      "seconds": 0.334674
+      "seconds": 0.341802
     },
     {
       "url": "https://agents.giveabit.io/",
       "status": 200,
-      "seconds": 0.825985
+      "seconds": 0.648509
     }
   ],
   "redactions": 3,
@@ -112,8 +112,8 @@
     "done_24h": 3,
     "counts": {
       "archived": 633,
-      "blocked": 18,
-      "done": 25,
+      "blocked": 17,
+      "done": 26,
       "todo": 1
     }
   },
