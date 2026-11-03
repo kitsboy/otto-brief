@@ -1,6 +1,6 @@
 # THE BULLETIN (public) — brief for Otto
 
-**Generated:** 2026-11-03 18:00 UTC+02:00 local · 2026-11-03 16:00:47Z UTC  
+**Generated:** 2026-11-03 18:30 UTC+02:00 local · 2026-11-03 16:30:44Z UTC  
 **Generator:** `otto-brief.py` — read-only against every source  
 **Rule:** every figure carries its source. Nothing is quoted from memory.
 
@@ -10,35 +10,35 @@
 
 | measure | value | source |
 |---|---|---|
-| stamps total | **528** | https://api.satohash.io/api/stamps |
+| stamps total | **529** | https://api.satohash.io/api/stamps |
 | confirmed | **526** | same |
-| pending | **0** | same |
+| pending | **1** | same |
 | failed | **2** | same |
 | first stamp | 2026-07-20 03:32:54 | same |
-| latest stamp | 2026-11-02 22:16:51 | same |
+| latest stamp | 2026-11-03 16:20:47 | same |
 | deployed API build | `7c680769234553ce3e98fdb584a2eb7dfcd7954b` · 5.0.0-ELITE | https://api.satohash.io/health |
 
 ## 2. Site availability (this run)
 
 | site | status | response |
 |---|---|---|
-| https://giveabit.io/ | 200 | 0.25776s |
-| https://satohash.io/ | 200 | 0.310823s |
-| https://satohash.giveabit.io/ | 200 | 0.646468s |
-| https://motopass.giveabit.io/ | 200 | 0.305965s |
-| https://katoa.org/ | 200 | 0.257156s |
-| https://sherpacarta.org/ | 200 | 0.273661s |
-| https://stranded.giveabit.io/ | 200 | 0.414478s |
-| https://tadbuy.giveabit.io/ | 200 | 0.349987s |
-| https://openstrata.giveabit.io/ | 200 | 0.245874s |
-| https://hq.giveabit.io/ | 200 | 0.258015s |
-| https://agents.giveabit.io/ | 200 | 0.955263s |
+| https://giveabit.io/ | 200 | 0.194347s |
+| https://satohash.io/ | 200 | 0.444116s |
+| https://satohash.giveabit.io/ | 200 | 0.210233s |
+| https://motopass.giveabit.io/ | 200 | 0.366657s |
+| https://katoa.org/ | 200 | 0.319398s |
+| https://sherpacarta.org/ | 200 | 0.209969s |
+| https://stranded.giveabit.io/ | 200 | 0.229737s |
+| https://tadbuy.giveabit.io/ | 200 | 0.315819s |
+| https://openstrata.giveabit.io/ | 200 | 0.232784s |
+| https://hq.giveabit.io/ | 200 | 0.189767s |
+| https://agents.giveabit.io/ | 200 | 0.649537s |
 
 ## 3. Public repositories — `main`
 
 | repo | main SHA |
 |---|---|
-| kitsboy/satohash | `2ad78c0e` |
+| kitsboy/satohash | `b6162b25` |
 | kitsboy/stranded | `ef540efd` |
 | kitsboy/katoa | `9c11c529` |
 | kitsboy/sherpacarta | `d3e94bb7` |
