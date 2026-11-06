@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-11-06 03:00:50Z",
-  "generated_at_local": "2026-11-06 05:00 UTC+02:00",
+  "generated_at_utc": "2026-11-06 03:30:46Z",
+  "generated_at_local": "2026-11-06 05:30 UTC+02:00",
   "generator": "otto-brief.py \u2014 read-only brief generator",
   "satohash": {
     "source": "https://api.satohash.io/api/stamps",
@@ -24,57 +24,57 @@
     {
       "url": "https://giveabit.io/",
       "status": 200,
-      "seconds": 0.483174
+      "seconds": 0.177453
     },
     {
       "url": "https://satohash.io/",
       "status": 200,
-      "seconds": 0.561304
+      "seconds": 0.303436
     },
     {
       "url": "https://satohash.giveabit.io/",
       "status": 200,
-      "seconds": 0.658739
+      "seconds": 0.125169
     },
     {
       "url": "https://motopass.giveabit.io/",
       "status": 200,
-      "seconds": 0.441719
+      "seconds": 0.249475
     },
     {
       "url": "https://katoa.org/",
       "status": 200,
-      "seconds": 0.561841
+      "seconds": 0.15528
     },
     {
       "url": "https://sherpacarta.org/",
       "status": 200,
-      "seconds": 0.38873
+      "seconds": 0.21908
     },
     {
       "url": "https://stranded.giveabit.io/",
       "status": 200,
-      "seconds": 0.374503
+      "seconds": 0.264429
     },
     {
       "url": "https://tadbuy.giveabit.io/",
       "status": 200,
-      "seconds": 0.448705
+      "seconds": 0.4449
     },
     {
       "url": "https://openstrata.giveabit.io/",
       "status": 200,
-      "seconds": 0.688592
+      "seconds": 0.196285
     },
     {
       "url": "https://hq.giveabit.io/",
       "status": 200,
-      "seconds": 0.412605
+      "seconds": 0.16094
     },
     {
       "url": "https://agents.giveabit.io/",
       "status": 200,
-      "seconds": 0.936802
+      "seconds": 0.732113
     }
   ],
   "redactions": 2,
@@ -111,9 +111,9 @@
   "progress": {
     "done_24h": 0,
     "counts": {
-      "archived": 638,
+      "archived": 639,
       "blocked": 17,
-      "done": 23,
+      "done": 22,
       "todo": 1
     }
   },
