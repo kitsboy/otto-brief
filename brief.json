@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-11-10 17:00:44Z",
-  "generated_at_local": "2026-11-10 19:00 UTC+02:00",
+  "generated_at_utc": "2026-11-10 17:30:44Z",
+  "generated_at_local": "2026-11-10 19:30 UTC+02:00",
   "generator": "otto-brief.py \u2014 read-only brief generator",
   "satohash": {
     "source": "https://api.satohash.io/api/stamps",
@@ -24,57 +24,57 @@
     {
       "url": "https://giveabit.io/",
       "status": 200,
-      "seconds": 0.310288
+      "seconds": 0.587224
     },
     {
       "url": "https://satohash.io/",
       "status": 200,
-      "seconds": 0.574473
+      "seconds": 0.595817
     },
     {
       "url": "https://satohash.giveabit.io/",
       "status": 200,
-      "seconds": 0.309855
+      "seconds": 0.429991
     },
     {
       "url": "https://motopass.giveabit.io/",
       "status": 200,
-      "seconds": 0.417104
+      "seconds": 0.407189
     },
     {
       "url": "https://katoa.org/",
       "status": 200,
-      "seconds": 0.361102
+      "seconds": 0.269126
     },
     {
       "url": "https://sherpacarta.org/",
       "status": 200,
-      "seconds": 0.355717
+      "seconds": 0.587271
     },
     {
       "url": "https://stranded.giveabit.io/",
       "status": 200,
-      "seconds": 0.447194
+      "seconds": 0.394668
     },
     {
       "url": "https://tadbuy.giveabit.io/",
       "status": 200,
-      "seconds": 0.454476
+      "seconds": 0.44502
     },
     {
       "url": "https://openstrata.giveabit.io/",
       "status": 200,
-      "seconds": 0.430084
+      "seconds": 0.228265
     },
     {
       "url": "https://hq.giveabit.io/",
       "status": 200,
-      "seconds": 0.33556
+      "seconds": 0.198302
     },
     {
       "url": "https://agents.giveabit.io/",
       "status": 200,
-      "seconds": 1.096878
+      "seconds": 1.400522
     }
   ],
   "redactions": 2,
@@ -109,12 +109,11 @@
     }
   ],
   "progress": {
-    "done_24h": 0,
+    "done_24h": 1,
     "counts": {
       "archived": 660,
       "blocked": 17,
-      "done": 6,
-      "scheduled": 1,
+      "done": 7,
       "todo": 1
     }
   },
