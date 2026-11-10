@@ -1,6 +1,6 @@
 # THE BULLETIN (public) — brief for Otto
 
-**Generated:** 2026-11-10 05:00 UTC+02:00 local · 2026-11-10 03:00:50Z UTC  
+**Generated:** 2026-11-10 05:30 UTC+02:00 local · 2026-11-10 03:30:45Z UTC  
 **Generator:** `otto-brief.py` — read-only against every source  
 **Rule:** every figure carries its source. Nothing is quoted from memory.
 
@@ -22,17 +22,17 @@
 
 | site | status | response |
 |---|---|---|
-| https://giveabit.io/ | 200 | 0.447923s |
-| https://satohash.io/ | 200 | 0.354168s |
-| https://satohash.giveabit.io/ | 200 | 0.240876s |
-| https://motopass.giveabit.io/ | 200 | 0.20469s |
-| https://katoa.org/ | 200 | 0.209867s |
-| https://sherpacarta.org/ | 200 | 0.463865s |
-| https://stranded.giveabit.io/ | 200 | 0.276498s |
-| https://tadbuy.giveabit.io/ | 200 | 0.207143s |
-| https://openstrata.giveabit.io/ | 200 | 0.3761s |
-| https://hq.giveabit.io/ | 200 | 0.233811s |
-| https://agents.giveabit.io/ | 200 | 0.788883s |
+| https://giveabit.io/ | 200 | 0.20612s |
+| https://satohash.io/ | 200 | 0.255266s |
+| https://satohash.giveabit.io/ | 200 | 0.226689s |
+| https://motopass.giveabit.io/ | 200 | 0.171156s |
+| https://katoa.org/ | 200 | 0.17641s |
+| https://sherpacarta.org/ | 200 | 0.133768s |
+| https://stranded.giveabit.io/ | 200 | 0.288819s |
+| https://tadbuy.giveabit.io/ | 200 | 0.168809s |
+| https://openstrata.giveabit.io/ | 200 | 0.324281s |
+| https://hq.giveabit.io/ | 200 | 0.194903s |
+| https://agents.giveabit.io/ | 200 | 0.628317s |
 
 ## 3. Public repositories — `main`
 
@@ -42,13 +42,13 @@
 | kitsboy/stranded | `fbfececc` |
 | kitsboy/katoa | `9c11c529` |
 | kitsboy/sherpacarta | `d3e94bb7` |
-| kitsboy/motopass | `4e4535d7` |
+| kitsboy/motopass | `348abe61` |
 | kitsboy/tadbuy | `0e4cc289` |
 | kitsboy/openstrata | `0419c507` |
 
 ## 4. Progress (aggregate — no internal detail)
 
-- Items shipped in the last 24 hours: **1**
+- Items shipped in the last 24 hours: **0**
 - Work status: archived 659 · blocked 17 · done 7 · scheduled 1 · todo 1
 - Item-level detail is internal and is not published.
 
